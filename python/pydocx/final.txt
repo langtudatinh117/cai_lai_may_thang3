@@ -1,0 +1,81 @@
+25 -> 2. Andrianov V, Gailite V, Lola D, et al (2009), "Novel amide derivatives as inhibitors of histone deacetylase: Design, synthesis and SAR", *European journal of medicinal chemistry*, 44(3), pp.1067-1085.
+33 -> 3. Bergman JA, Woan K, Perez-Villarroel P, et al (2012), "Selective Histone Deacetylase 6 Inhibitors Bearing Substituted Urea Linkers Inhibit Melanoma Cell Growth", *Journal of medicinal chemistry*, 55(22), pp.9891-9899.
+26 -> 4. Bozorgi AH, Bagheri M, Aslebagh R, et al (2013), "A structure-activity relationship survey of histone deacetylase (HDAC) inhibitors", *Chemometrics and Intelligent Laboratory Systems*, 125, pp.132-138.
+3 -> 5. Chen PC, Patil V, Guerrant W, et al (2008), "Synthesis and structure-activity relationship of histone deacetylase (HDAC) inhibitors with triazole-linked cap group", *Bioorganic \& medicinal chemistry*, 16(9), pp.4839-4853.
+14 -> 6. Damaskos C, Valsami S, Kontos M, et al (2017), "Histone Deacetylase Inhibitors: An Attractive Therapeutic Strategy Against Breast Cancer", *Anticancer Research*, 37(1), pp.35-46.
+10 -> 7. de Ruijter AJ, van Gennip AH, Caron HN, et al (2003), "Histone deacetylases (HDACs): characterization of the classical HDAC family", *Biochemical Journal*, 370(3), pp.737-749.
+23 -> 8. Di Micco S, Chini MG, Terracciano S, et al (2013), "Structural basis for the design and synthesis of selective HDAC inhibitors", *Bioorganic \& medicinal chemistry*, 21(13), pp.3795-3807.
+9 -> 9. Dokmanovic M, Marks PA (2005), "Prospects: Histone deacetylase inhibitors", *Journal of cellular biochemistry*, 96(2), pp.293-304.
+32 -> 10. Dung do TM, Dung PT, Oanh DT, et al (2015), "Novel 3-substituted-2-oxoindoline-based N-hydroxypropenamides as Histone Deacetylase Inhibitors and Antitumor Agents", *Medicinal Chemistry*, 11(8), pp.725-735.
+19 -> 11. Duvic M, Talpur R, Ni X, et al (2007), "Phase 2 trial of oral vorinostat (suberoylanilide hydroxamic acid, SAHA) for refractory cutaneous T-cell lymphoma (CTCL)", *Blood*, 109(1), pp.31-39.
+20 -> 12. Falkenberg KJ, Johnstone RW (2014), "Histone deacetylases and their inhibitors in cancer, neurological diseases and immune disorders", *Nature reviews Drug discovery*, 13(9), pp.673-691.
+30 -> 13. Feng T, Wang H, Su H, et al (2013), "Novel N-hydroxyfurylacrylamide-based histone deacetylase (HDAC) inhibitors with branched CAP group (Part 2)", *Bioorganic \& medicinal chemistry*, 21(17), pp.5339-5354.
+1 -> 14. Giannini G, Cabri W, Fattorusso C, et al (2012), "Histone deacetylase inhibitors in the treatment of cancer: overview and perspectives", *Future medicinal chemistry*, 4(11), pp.1439-1460.
+12 -> 15. Glozak MA, Seto E (2007), "Histone deacetylases and cancer", *Oncogene*, 26(37), pp.5420-5432.
+24 -> 16. Gołąbek K, Strzelczyk JK, Wiczkowski A, et al (2015), "Potential use of histone deacetylase inhibitors in cancer therapy", *Contemp Oncol (Pozn)*, 19(6), pp.436-440.
+35 -> 17. Hanessian S, Auzzas L, Giannini G, et al (2007), "$\omega$-Alkoxy analogues of SAHA (vorinostat) as inhibitors of HDAC: A study of chain-length and stereochemical dependence", *Bioorganic \& medicinal chemistry letters*, 17(22), pp.6261-6265.
+42 -> 18. Hein JE, Fokin VV (2010), "Copper-catalyzed azide-alkyne cycloaddition (CuAAC) and beyond: new reactivity of copper (I) acetylides", *Chemical Society Reviews*, 39(4), pp.1302-1315.
+11 -> 19. Johnstone RW (2002), "Histone-deacetylase inhibitors: novel drugs for the treatment of cancer", *Nature reviews Drug discovery*, 1(4), pp.287-299.
+18 -> 20. Jones P, Altamura S, Chakravarty PK, et al (2006), "A series of novel, potent, and selective histone deacetylase inhibitors", *Bioorganic \& Medicinal Chemistry Letters*, 16(23), pp.5948-5952.
+22 -> 21. Juvale DC, Kulkarni VV, Deokar HS, et al (2006), "3D-QSAR of histone deacetylase inhibitors: hydroxamate analogues", *Organic \& biomolecular chemistry*, 4(15), pp.2858-2868.
+2 -> 22. Kim HJ, Bae SC (2011), "Histone deacetylase inhibitors: molecular mechanisms of action and clinical trials as anti-cancer drugs", *Am J Transl Res*, 3(2), pp.166-179.
+38 -> 23. Kolb HC, Finn MG, Sharpless KB (2001), "Click Chemistry: Diverse Chemical Function from a Few Good Reactions", *Angewandte Chemie International Edition*, 40(11), pp.2004-2021.
+37 -> 24. Kolb HC, Sharpless KB (2003), "The growing impact of click chemistry on drug discovery", *Drug discovery today*, 8(24), pp.1128-1137.
+27 -> 25. Kozikowski AP, Chen Y, Gaysin AM, et al (2008), "Chemistry, Biology, and QSAR Studies of Substituted Biaryl Hydroxamates and Mercaptoacetamides as HDAC InhibitorsNanomolar-Potency Inhibitors of Pancreatic Cancer Cell Growth", *ChemMedChem*, 3(3), pp.487-501.
+34 -> 26. Lee JH, Mahendran A, Yao Y, et al (2013), "Development of a histone deacetylase 6 inhibitor and its biological effects", *Proceedings of the National Academy of Sciences*, 110(39), pp.15704-15709.
+41 -> 27. Lipshutz BH, Taft BR (2006), "Heterogeneous Copper-in-Charcoal-Catalyzed Click Chemistry", *Angewandte Chemie*, 118(48), pp.8415-8418.
+13 -> 28. Mottamal M, Zheng S, Huang TL, et al (2015), "Histone Deacetylase Inhibitors in Clinical Studies as Templates for New Anticancer Agents", *Molecules*, 20(3), pp.3898-3941.
+4 -> 29. Nam NH, Huong TL, Dung do TM, et al (2013), "Novel isatin-based hydroxamic acids as histone deacetylase inhibitors and antitumor agents", *European journal of medicinal chemistry*, 70, pp.477-486.
+6 -> 30. Nam NH, Huong TL, Dung do TM, et al (2014), "Synthesis, bioevaluation and docking study of 5-substitutedphenyl-1,3,4-thiadiazole-based hydroxamic acids as histone deacetylase inhibitors and antitumor agents", *Journal of enzyme inhibition and medicinal chemistry*, 29(5), pp.611-618.
+7 -> 31. Oanh DT, Hai HV, Park SH, et al (2011), "Benzothiazole-containing hydroxamic acids as histone deacetylase inhibitors and antitumor agents", *Bioorganic \& medicinal chemistry letters*, 21(24), pp.7509-7512.
+8 -> 32. Oanh DT, Hai HV, Park SH, et al (2015), "Inside HDAC with HDAC inhibitors", *Medicinal Chemistry*, 11(8), pp.725-735.
+29 -> 33. Ragno R, Simeoni S, Rotili D, et al (2008), "Class II-selective histone deacetylase inhibitors. Part 2: Alignment-independent GRIND 3-D QSAR, homology and docking studies", *European journal of medicinal chemistry*, 43(3), pp.621-632.
+16 -> 34. Rasheed WK, Johnstone RW, Prince HM (2007), "Histone deacetylase inhibitors in cancer therapy", *Expert opinion on investigational drugs*, 16(5), pp.659-678.
+39 -> 35. Rostovtsev VV, Green LG, Fokin VV, et al (2002), "A stepwise huisgen cycloaddition process: copper (I)-catalyzed regioselective ligation of azides and terminal alkynes", *Angewandte Chemie*, 114(14), pp.2708-2711.
+15 -> 36. Somoza JR, Skene RJ, Katz BA, et al (2004), "Structural Snapshots of Human HDAC8 Provide Insights into the Class I Histone Deacetylases", *Structure*, 12(7), pp.1325-1334.
+21 -> 37. Thangapandian S, John S, Sakkiah S, et al (2010), "Docking-enabled pharmacophore model for histone deacetylase 8 inhibitors and its application in anti-cancer drug discovery", *Journal of Molecular Graphics and Modelling*, 29(3), pp.382-395.
+40 -> 38. Tornøe CW, Christensen C, Meldal M (2002), "Peptidotriazoles on solid phase:[1, 2, 3]-triazoles by regiospecific copper (I)-catalyzed 1, 3-dipolar cycloadditions of terminal alkynes to azides", *The Journal of organic chemistry*, 67(9), pp.3057-3064.
+28 -> 39. Wang DF, Wiest O, Helquist P, et al (2004), "QSAR Studies of PC-3 cell line inhibition activity of TSA and SAHA-like hydroxamic acids", *Bioorganic \& medicinal chemistry letters*, 14(3), pp.707-711.
+17 -> 40. West AC, Johnstone RW (2014), "New and emerging HDAC inhibitors for cancer treatment", *The Journal of clinical investigation*, 124(1), pp.30-39.
+31 -> 41. Zhang Z, Hou S, Chen H, et al (2016), "Targeting epigenetic reader and eraser: Rational design, synthesis and in vitro evaluation of dimethylisoxazoles derivatives as BRD4/HDAC dual inhibitors", *Bioorganic \& medicinal chemistry letters*, 26(12), pp.2931-2935.
+2. Andrianov V, Gailite V, Lola D, et al (2009), "Novel amide derivatives as inhibitors of histone deacetylase: Design, synthesis and SAR", *European journal of medicinal chemistry*, 44(3), pp.1067-1085.
+3. Bergman JA, Woan K, Perez-Villarroel P, et al (2012), "Selective Histone Deacetylase 6 Inhibitors Bearing Substituted Urea Linkers Inhibit Melanoma Cell Growth", *Journal of medicinal chemistry*, 55(22), pp.9891-9899.
+4. Bozorgi AH, Bagheri M, Aslebagh R, et al (2013), "A structure-activity relationship survey of histone deacetylase (HDAC) inhibitors", *Chemometrics and Intelligent Laboratory Systems*, 125, pp.132-138.
+5. Chen PC, Patil V, Guerrant W, et al (2008), "Synthesis and structure-activity relationship of histone deacetylase (HDAC) inhibitors with triazole-linked cap group", *Bioorganic \& medicinal chemistry*, 16(9), pp.4839-4853.
+6. Damaskos C, Valsami S, Kontos M, et al (2017), "Histone Deacetylase Inhibitors: An Attractive Therapeutic Strategy Against Breast Cancer", *Anticancer Research*, 37(1), pp.35-46.
+7. de Ruijter AJ, van Gennip AH, Caron HN, et al (2003), "Histone deacetylases (HDACs): characterization of the classical HDAC family", *Biochemical Journal*, 370(3), pp.737-749.
+8. Di Micco S, Chini MG, Terracciano S, et al (2013), "Structural basis for the design and synthesis of selective HDAC inhibitors", *Bioorganic \& medicinal chemistry*, 21(13), pp.3795-3807.
+9. Dokmanovic M, Marks PA (2005), "Prospects: Histone deacetylase inhibitors", *Journal of cellular biochemistry*, 96(2), pp.293-304.
+10. Dung do TM, Dung PT, Oanh DT, et al (2015), "Novel 3-substituted-2-oxoindoline-based N-hydroxypropenamides as Histone Deacetylase Inhibitors and Antitumor Agents", *Medicinal Chemistry*, 11(8), pp.725-735.
+11. Duvic M, Talpur R, Ni X, et al (2007), "Phase 2 trial of oral vorinostat (suberoylanilide hydroxamic acid, SAHA) for refractory cutaneous T-cell lymphoma (CTCL)", *Blood*, 109(1), pp.31-39.
+12. Falkenberg KJ, Johnstone RW (2014), "Histone deacetylases and their inhibitors in cancer, neurological diseases and immune disorders", *Nature reviews Drug discovery*, 13(9), pp.673-691.
+13. Feng T, Wang H, Su H, et al (2013), "Novel N-hydroxyfurylacrylamide-based histone deacetylase (HDAC) inhibitors with branched CAP group (Part 2)", *Bioorganic \& medicinal chemistry*, 21(17), pp.5339-5354.
+14. Giannini G, Cabri W, Fattorusso C, et al (2012), "Histone deacetylase inhibitors in the treatment of cancer: overview and perspectives", *Future medicinal chemistry*, 4(11), pp.1439-1460.
+15. Glozak MA, Seto E (2007), "Histone deacetylases and cancer", *Oncogene*, 26(37), pp.5420-5432.
+16. Gołąbek K, Strzelczyk JK, Wiczkowski A, et al (2015), "Potential use of histone deacetylase inhibitors in cancer therapy", *Contemp Oncol (Pozn)*, 19(6), pp.436-440.
+17. Hanessian S, Auzzas L, Giannini G, et al (2007), "$\omega$-Alkoxy analogues of SAHA (vorinostat) as inhibitors of HDAC: A study of chain-length and stereochemical dependence", *Bioorganic \& medicinal chemistry letters*, 17(22), pp.6261-6265.
+18. Hein JE, Fokin VV (2010), "Copper-catalyzed azide-alkyne cycloaddition (CuAAC) and beyond: new reactivity of copper (I) acetylides", *Chemical Society Reviews*, 39(4), pp.1302-1315.
+19. Johnstone RW (2002), "Histone-deacetylase inhibitors: novel drugs for the treatment of cancer", *Nature reviews Drug discovery*, 1(4), pp.287-299.
+20. Jones P, Altamura S, Chakravarty PK, et al (2006), "A series of novel, potent, and selective histone deacetylase inhibitors", *Bioorganic \& Medicinal Chemistry Letters*, 16(23), pp.5948-5952.
+21. Juvale DC, Kulkarni VV, Deokar HS, et al (2006), "3D-QSAR of histone deacetylase inhibitors: hydroxamate analogues", *Organic \& biomolecular chemistry*, 4(15), pp.2858-2868.
+22. Kim HJ, Bae SC (2011), "Histone deacetylase inhibitors: molecular mechanisms of action and clinical trials as anti-cancer drugs", *Am J Transl Res*, 3(2), pp.166-179.
+23. Kolb HC, Finn MG, Sharpless KB (2001), "Click Chemistry: Diverse Chemical Function from a Few Good Reactions", *Angewandte Chemie International Edition*, 40(11), pp.2004-2021.
+24. Kolb HC, Sharpless KB (2003), "The growing impact of click chemistry on drug discovery", *Drug discovery today*, 8(24), pp.1128-1137.
+25. Kozikowski AP, Chen Y, Gaysin AM, et al (2008), "Chemistry, Biology, and QSAR Studies of Substituted Biaryl Hydroxamates and Mercaptoacetamides as HDAC InhibitorsNanomolar-Potency Inhibitors of Pancreatic Cancer Cell Growth", *ChemMedChem*, 3(3), pp.487-501.
+26. Lee JH, Mahendran A, Yao Y, et al (2013), "Development of a histone deacetylase 6 inhibitor and its biological effects", *Proceedings of the National Academy of Sciences*, 110(39), pp.15704-15709.
+27. Lipshutz BH, Taft BR (2006), "Heterogeneous Copper-in-Charcoal-Catalyzed Click Chemistry", *Angewandte Chemie*, 118(48), pp.8415-8418.
+28. Mottamal M, Zheng S, Huang TL, et al (2015), "Histone Deacetylase Inhibitors in Clinical Studies as Templates for New Anticancer Agents", *Molecules*, 20(3), pp.3898-3941.
+29. Nam NH, Huong TL, Dung do TM, et al (2013), "Novel isatin-based hydroxamic acids as histone deacetylase inhibitors and antitumor agents", *European journal of medicinal chemistry*, 70, pp.477-486.
+30. Nam NH, Huong TL, Dung do TM, et al (2014), "Synthesis, bioevaluation and docking study of 5-substitutedphenyl-1,3,4-thiadiazole-based hydroxamic acids as histone deacetylase inhibitors and antitumor agents", *Journal of enzyme inhibition and medicinal chemistry*, 29(5), pp.611-618.
+31. Oanh DT, Hai HV, Park SH, et al (2011), "Benzothiazole-containing hydroxamic acids as histone deacetylase inhibitors and antitumor agents", *Bioorganic \& medicinal chemistry letters*, 21(24), pp.7509-7512.
+32. Oanh DT, Hai HV, Park SH, et al (2015), "Inside HDAC with HDAC inhibitors", *Medicinal Chemistry*, 11(8), pp.725-735.
+33. Ragno R, Simeoni S, Rotili D, et al (2008), "Class II-selective histone deacetylase inhibitors. Part 2: Alignment-independent GRIND 3-D QSAR, homology and docking studies", *European journal of medicinal chemistry*, 43(3), pp.621-632.
+34. Rasheed WK, Johnstone RW, Prince HM (2007), "Histone deacetylase inhibitors in cancer therapy", *Expert opinion on investigational drugs*, 16(5), pp.659-678.
+35. Rostovtsev VV, Green LG, Fokin VV, et al (2002), "A stepwise huisgen cycloaddition process: copper (I)-catalyzed regioselective ligation of azides and terminal alkynes", *Angewandte Chemie*, 114(14), pp.2708-2711.
+36. Somoza JR, Skene RJ, Katz BA, et al (2004), "Structural Snapshots of Human HDAC8 Provide Insights into the Class I Histone Deacetylases", *Structure*, 12(7), pp.1325-1334.
+37. Thangapandian S, John S, Sakkiah S, et al (2010), "Docking-enabled pharmacophore model for histone deacetylase 8 inhibitors and its application in anti-cancer drug discovery", *Journal of Molecular Graphics and Modelling*, 29(3), pp.382-395.
+38. Tornøe CW, Christensen C, Meldal M (2002), "Peptidotriazoles on solid phase:[1, 2, 3]-triazoles by regiospecific copper (I)-catalyzed 1, 3-dipolar cycloadditions of terminal alkynes to azides", *The Journal of organic chemistry*, 67(9), pp.3057-3064.
+39. Wang DF, Wiest O, Helquist P, et al (2004), "QSAR Studies of PC-3 cell line inhibition activity of TSA and SAHA-like hydroxamic acids", *Bioorganic \& medicinal chemistry letters*, 14(3), pp.707-711.
+40. West AC, Johnstone RW (2014), "New and emerging HDAC inhibitors for cancer treatment", *The Journal of clinical investigation*, 124(1), pp.30-39.
+41. Zhang Z, Hou S, Chen H, et al (2016), "Targeting epigenetic reader and eraser: Rational design, synthesis and in vitro evaluation of dimethylisoxazoles derivatives as BRD4/HDAC dual inhibitors", *Bioorganic \& medicinal chemistry letters*, 26(12), pp.2931-2935.
+

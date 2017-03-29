@@ -1,0 +1,6531 @@
+[
+	{
+		"id": "http://zotero.org/users/3281719/items/23CMB2ZM",
+		"type": "article-journal",
+		"title": "Histone deacetylase inhibitors: molecular mechanisms of action and clinical trials as anti-cancer drugs",
+		"container-title": "American journal of translational research",
+		"page": "166",
+		"volume": "3",
+		"author": [
+			{
+				"family": "Kim",
+				"given": "HJ"
+			},
+			{
+				"family": "Bae",
+				"given": "SC"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2011"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/297MCU83",
+		"type": "article-journal",
+		"title": "Exploration of novel 5′(7′)-substituted-2′-oxospiro[1,3]dioxolane-2,3′-indoline-based N-hydroxypropenamides as histone deacetylase inhibitors and antitumor agents",
+		"container-title": "Arabian Journal of Chemistry",
+		"DOI": "http://dx.doi.org/10.1016/j.arabjc.2015.10.007",
+		"ISSN": "1878-5352",
+		"author": [
+			{
+				"family": "Dung D. T.M",
+				"given": "et",
+				"dropping-particle": "al"
+			}
+		]
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/2EDQZ83W",
+		"type": "article-journal",
+		"title": "Clinical development of histone deacetylase inhibitors as anticancer agents*",
+		"container-title": "Annu. Rev. Pharmacol. Toxicol.",
+		"page": "495-528",
+		"volume": "45",
+		"ISSN": "0362-1642",
+		"author": [
+			{
+				"family": "Drummond D. C.",
+				"given": "et",
+				"dropping-particle": "al"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2005"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/2N9Z5G77",
+		"type": "article-journal",
+		"title": "Inside HDAC with HDAC inhibitors",
+		"container-title": "European Journal of Medicinal Chemistry",
+		"page": "2095-2116",
+		"volume": "45",
+		"ISSN": "0223-5234",
+		"author": [
+			{
+				"family": "Bertrand P",
+				"given": ""
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/2WGN6FDS",
+		"type": "article-journal",
+		"title": "Histone deacetylase inhibitors and the promise of epigenetic (and more) treatments for cancer",
+		"container-title": "Nat Rev Cancer",
+		"page": "38-51",
+		"volume": "6",
+		"DOI": "http://www.nature.com/nrc/journal/v6/n1/suppinfo/nrc1779_S1.html",
+		"ISSN": "1474-175X",
+		"author": [
+			{
+				"family": "Minucci S.",
+				"given": "Pelicci P. G."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2006"
+				]
+			],
+			"season": "print"
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/2XJ5SUBG",
+		"type": "article-journal",
+		"title": "New colorimetric cytotoxicity assay for anticancer-drug screening",
+		"container-title": "Journal of the National Cancer Institute",
+		"page": "1107-1112",
+		"volume": "82",
+		"ISSN": "0027-8874",
+		"author": [
+			{
+				"family": "Skehan P.",
+				"given": "et",
+				"dropping-particle": "al"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1990"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/36DA7KIU",
+		"type": "book",
+		"title": "Textbook of drug design and discovery",
+		"publisher": "CRC press",
+		"publisher-place": "Taylor and Francis Group",
+		"edition": "4",
+		"event-place": "Taylor and Francis Group",
+		"author": [
+			{
+				"family": "Krogsgaard-Larsen P.",
+				"given": "Strømgaard K."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/378DICN4",
+		"type": "thesis",
+		"title": "Tổng hợp và thử tác dụng sinh học của N-hydroxyl-4-(3-hydroxyimino-2-oxoindolin-1-yl)methylcinnamamid và một số dẫn chất",
+		"publisher": "Đại học Dược Hà Nội",
+		"genre": "Khóa luận tốt nghiệp Dược sĩ đại học",
+		"language": "vie",
+		"author": [
+			{
+				"family": "Đào Quang Tùng",
+				"given": ""
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/3EHSUZK9",
+		"type": "article-journal",
+		"title": "Class II-selective histone deacetylase inhibitors. Part 2: Alignment-independent GRIND 3-D QSAR, homology and docking studies",
+		"container-title": "European Journal of Medicinal Chemistry",
+		"page": "621-632",
+		"volume": "43",
+		"issue": "3",
+		"source": "ScienceDirect",
+		"abstract": "(Aryloxopropenyl)pyrrolyl hydroxamates were recently reported by us as first examples of class II-selective HDAC inhibitors and can be useful tools to probe the biology of such enzymes. Molecular modelling and 3-D QSAR studies have been performed on a series of 25 (aryloxopropenyl)pyrrolyl hydroxamates to gain insights about their activity and selectivity against both maize HD1-B and HD1-A, two enzymes homologous of mammalian class I and class II HDACs, respectively. The studies have been accomplished by calculating alignment-independent descriptors (GRIND descriptors) using the ALMOND software. Highly descriptive and predictive 3-D QSAR models were obtained using either class I or class II inhibitory activity displaying r2/q2 values of 0.96/0.81 and 0.98/0.85 for HD1-B and HD1-A, respectively. A deeper inspection revealed that in general a bent molecular shape structure is a prerequisite for HD1-A-selective inhibitory activity, while straight shape molecular skeleton leads to selective HD1-B compounds. The same conclusions could be achieved by molecular docking studies of the most selective inhibitors.",
+		"URL": "http://www.sciencedirect.com/science/article/pii/S0223523407002243",
+		"DOI": "10.1016/j.ejmech.2007.05.004",
+		"ISSN": "0223-5234",
+		"shortTitle": "Class II-selective histone deacetylase inhibitors. Part 2",
+		"journalAbbreviation": "European Journal of Medicinal Chemistry",
+		"author": [
+			{
+				"family": "Ragno",
+				"given": "Rino"
+			},
+			{
+				"family": "Simeoni",
+				"given": "Silvia"
+			},
+			{
+				"family": "Rotili",
+				"given": "Dante"
+			},
+			{
+				"family": "Caroli",
+				"given": "Antonella"
+			},
+			{
+				"family": "Botta",
+				"given": "Giorgia"
+			},
+			{
+				"family": "Brosch",
+				"given": "Gerald"
+			},
+			{
+				"family": "Massa",
+				"given": "Silvio"
+			},
+			{
+				"family": "Mai",
+				"given": "Antonello"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2008",
+					3
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2017",
+					2,
+					15
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/3GQUBS3F",
+		"type": "article-journal",
+		"title": "Chemical phylogenetics of histone deacetylases",
+		"container-title": "Nat Chem Biol",
+		"page": "238-243",
+		"volume": "6",
+		"DOI": "http://www.nature.com/nchembio/journal/v6/n3/suppinfo/nchembio.313_S1.html",
+		"ISSN": "1552-4450",
+		"author": [
+			{
+				"family": "Bradner J. E.",
+				"given": "et",
+				"dropping-particle": "al"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010"
+				]
+			],
+			"season": "print"
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/3HCG7A2X",
+		"type": "article-journal",
+		"title": "Copper-catalyzed azide–alkyne cycloaddition (CuAAC) and beyond: new reactivity of copper (I) acetylides",
+		"container-title": "Chemical Society Reviews",
+		"page": "1302-1315",
+		"volume": "39",
+		"author": [
+			{
+				"family": "Hein J. E.",
+				"given": "Fokin V. V."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/3QIX6XG3",
+		"type": "article-journal",
+		"title": "Exploration of a binding mode of indole amide analogues as potent histone deacetylase inhibitors and 3D-QSAR analyses",
+		"container-title": "Bioorganic & Medicinal Chemistry",
+		"page": "5424-5434",
+		"volume": "13",
+		"ISSN": "0968-0896",
+		"author": [
+			{
+				"family": "Guo Y.",
+				"given": "et",
+				"dropping-particle": "al"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2005"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/3TS47AKD",
+		"type": "article-journal",
+		"title": "Quantum polarized ligand docking investigation to understand the significance of protonation states in histone deacetylase inhibitors",
+		"container-title": "Journal of Molecular Graphics and Modelling",
+		"page": "44-53",
+		"volume": "44",
+		"ISSN": "1093-3263",
+		"author": [
+			{
+				"family": "Kalyaanamoorthy S.",
+				"given": "Chen Y. P."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/3W4BGP3S",
+		"type": "article-journal",
+		"title": "Antioxidant determinations by the use of a stable free radical",
+		"author": [
+			{
+				"family": "Blois M. S",
+				"given": ""
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1958"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/424ZQNMZ",
+		"type": "article-journal",
+		"title": "Histone deacetylase inhibitors",
+		"container-title": "European Journal of Medicinal Chemistry",
+		"page": "1-13",
+		"volume": "40",
+		"DOI": "http://dx.doi.org/10.1016/j.ejmech.2004.10.001",
+		"ISSN": "0223-5234",
+		"author": [
+			{
+				"family": "Monneret C",
+				"given": ""
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2005"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/458CQ5IW",
+		"type": "article-journal",
+		"title": "A series of novel, potent, and selective histone deacetylase inhibitors",
+		"container-title": "Bioorganic & medicinal chemistry letters",
+		"page": "5948-5952",
+		"volume": "16",
+		"ISSN": "0960-894X",
+		"author": [
+			{
+				"family": "Jones",
+				"given": "Philip"
+			},
+			{
+				"family": "Altamura",
+				"given": "Sergio"
+			},
+			{
+				"family": "Chakravarty",
+				"given": "Prasun K."
+			},
+			{
+				"family": "Cecchetti",
+				"given": "Ottavia"
+			},
+			{
+				"family": "De Francesco",
+				"given": "Raffaele"
+			},
+			{
+				"family": "Gallinari",
+				"given": "Paola"
+			},
+			{
+				"family": "Ingenito",
+				"given": "Raffaele"
+			},
+			{
+				"family": "Meinke",
+				"given": "Peter T."
+			},
+			{
+				"family": "Petrocchi",
+				"given": "Alessia"
+			},
+			{
+				"family": "Rowley",
+				"given": "Michael"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2006"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/4EWGXKNQ",
+		"type": "article-journal",
+		"title": "HDAC family: What are the cancer relevant targets?",
+		"container-title": "Cancer Letters",
+		"page": "8-21",
+		"volume": "277",
+		"issue": "1",
+		"source": "ScienceDirect",
+		"abstract": "Histone deacetylases comprise a family of 18 genes, which are grouped into classes I–IV based on their homology to their respective yeast orthologues. Classes I, II, and IV consist of 11 family members, which are referred to as “classical” HDACs, whereas the 7 class III members are called sirtuins. Classical HDACs are a promising novel class of anti-cancer drug targets. First HDAC inhibitors have been evaluated in clinical trials and show activity against several cancer diseases. However, these compounds act unselectively against several or all 11 HDAC family members. As a consequence, clinical phase I trials document a wide range of side effects. Therefore, the current challenge in the field is to define the cancer relevant HDAC family member(s) in a given tumor type and to design selective inhibitors, which target cancer cells but leave out normal cells. Knockout of single HDAC family members in mice produces a variety of phenotypes ranging from early embryonic death to viable animals with only discrete alterations, indicating that potential side effects of HDAC inhibitors depend on the selectivity of the compounds. Recently, several studies have shown that certain HDAC family members are aberrantly expressed in several tumors and have non-redundant function in controlling hallmarks of cancer cells. The aim of this review is to discuss individual HDAC family members as drug targets in cancer taking into consideration their function under physiological conditions and their oncogenic potential in malignant disease.",
+		"URL": "http://www.sciencedirect.com/science/article/pii/S0304383508006496",
+		"DOI": "10.1016/j.canlet.2008.08.016",
+		"ISSN": "0304-3835",
+		"shortTitle": "HDAC family",
+		"journalAbbreviation": "Cancer Letters",
+		"author": [
+			{
+				"family": "Witt",
+				"given": "Olaf"
+			},
+			{
+				"family": "Deubzer",
+				"given": "Hedwig E."
+			},
+			{
+				"family": "Milde",
+				"given": "Till"
+			},
+			{
+				"family": "Oehme",
+				"given": "Ina"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2009",
+					5,
+					8
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2016",
+					10,
+					17
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/4Q457EWH",
+		"type": "article-journal",
+		"title": "Selective Histone Deacetylase 6 Inhibitors Bearing Substituted Urea Linkers Inhibit Melanoma Cell Growth",
+		"container-title": "Journal of Medicinal Chemistry",
+		"page": "9891-9899",
+		"volume": "55",
+		"issue": "22",
+		"source": "ACS Publications",
+		"abstract": "The incidence of malignant melanoma has dramatically increased in recent years thus requiring the need for improved therapeutic strategies. In our efforts to design selective histone deactylase inhibitors (HDACI), we discovered that the aryl urea 1 is a modestly potent yet nonselective inhibitor. Structure–activity relationship studies revealed that adding substituents to the nitrogen atom of the urea so as to generate compounds bearing a branched linker group results in increased potency and selectivity for HDAC6. Compound 5g shows low nanomolar inhibitory potency against HDAC6 and a selectivity of ∼600-fold relative to the inhibition of HDAC1. These HDACIs were evaluated for their ability to inhibit the growth of B16 melanoma cells with the most potent and selective HDAC6I being found to decrease tumor cell growth. To the best of our knowledge, this work constitutes the first report of HDAC6-selective inhibitors that possess antiproliferative effects against melanoma cells.",
+		"URL": "http://dx.doi.org/10.1021/jm301098e",
+		"DOI": "10.1021/jm301098e",
+		"ISSN": "0022-2623",
+		"journalAbbreviation": "J. Med. Chem.",
+		"author": [
+			{
+				"family": "Bergman",
+				"given": "Joel A."
+			},
+			{
+				"family": "Woan",
+				"given": "Karrune"
+			},
+			{
+				"family": "Perez-Villarroel",
+				"given": "Patricio"
+			},
+			{
+				"family": "Villagra",
+				"given": "Alejandro"
+			},
+			{
+				"family": "Sotomayor",
+				"given": "Eduardo M."
+			},
+			{
+				"family": "Kozikowski",
+				"given": "Alan P."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2012",
+					11,
+					26
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2017",
+					3,
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/59SH5CG2",
+		"type": "article-journal",
+		"title": "Histone deacetylases and cancer",
+		"container-title": "Oncogene",
+		"page": "5420-5432",
+		"volume": "26",
+		"issue": "37",
+		"source": "www.nature.com",
+		"abstract": "Histone deacetylases (HDACs) regulate the expression and activity of numerous proteins involved in both cancer initiation and cancer progression. By removal of acetyl groups from histones, HDACs create a non-permissive chromatin conformation that prevents the transcription of genes that encode proteins involved in tumorigenesis. In addition to histones, HDACs bind to and deacetylate a variety of other protein targets including transcription factors and other abundant cellular proteins implicated in control of cell growth, differentiation and apoptosis. This review provides a comprehensive examination of the transcriptional and post-translational mechanisms by which HDACs alter the expression and function of cancer-associated proteins and examines the general impact of HDAC activity in cancer.",
+		"URL": "http://www.nature.com/onc/journal/v26/n37/abs/1210610a.html",
+		"DOI": "10.1038/sj.onc.1210610",
+		"ISSN": "0950-9232",
+		"journalAbbreviation": "Oncogene",
+		"language": "en",
+		"author": [
+			{
+				"family": "Glozak",
+				"given": "M. A."
+			},
+			{
+				"family": "Seto",
+				"given": "E."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2007"
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2016",
+					10,
+					25
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/5A95ZIER",
+		"type": "article-journal",
+		"title": "Histone deacetylases and their inhibitors in cancer, neurological diseases and immune disorders",
+		"container-title": "Nature Reviews Drug Discovery",
+		"page": "673-691",
+		"volume": "13",
+		"issue": "9",
+		"source": "www.nature.com",
+		"abstract": "Epigenetic aberrations, which are recognized as key drivers of several human diseases, are often caused by genetic defects that result in functional deregulation of epigenetic proteins, their altered expression and/or their atypical recruitment to certain gene promoters. Importantly, epigenetic changes are reversible, and epigenetic enzymes and regulatory proteins can be targeted using small molecules. This Review discusses the role of altered expression and/or function of one class of epigenetic regulators — histone deacetylases (HDACs) — and their role in cancer, neurological diseases and immune disorders. We highlight the development of small-molecule HDAC inhibitors and their use in the laboratory, in preclinical models and in the clinic.",
+		"URL": "http://www.nature.com/nrd/journal/v13/n9/abs/nrd4360.html",
+		"DOI": "10.1038/nrd4360",
+		"ISSN": "1474-1776",
+		"journalAbbreviation": "Nat Rev Drug Discov",
+		"language": "en",
+		"author": [
+			{
+				"family": "Falkenberg",
+				"given": "Katrina J."
+			},
+			{
+				"family": "Johnstone",
+				"given": "Ricky W."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					9
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2016",
+					11,
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/5B5MR2RD",
+		"type": "book",
+		"title": "Drug design of zinc-enzyme inhibitors: functional, structural, and disease applications",
+		"publisher": "John Wiley & Sons",
+		"volume": "14",
+		"ISBN": "0-470-50815-9",
+		"author": [
+			{
+				"family": "Wang B.",
+				"given": "et",
+				"dropping-particle": "al"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2009"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/5CJXGCQ6",
+		"type": "article-journal",
+		"title": "Histone deacetylase inhibitors: Mechanisms of cell death and promise in combination cancer therapy",
+		"container-title": "Cancer letters",
+		"page": "7-17",
+		"volume": "269",
+		"DOI": "http://dx.doi.org/10.1016/j.canlet.2008.03.037",
+		"ISSN": "0304-3835",
+		"author": [
+			{
+				"family": "Carew J. S.",
+				"given": "Giles F. J."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2008"
+				]
+			],
+			"season": "28"
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/5PQUF5P4",
+		"type": "article-journal",
+		"title": "Histone deacetylase inhibitors: Potential in cancer therapy",
+		"container-title": "Journal of cellular biochemistry",
+		"page": "600-608",
+		"volume": "107",
+		"ISSN": "1097-4644",
+		"author": [
+			{
+				"family": "Marks P. A.",
+				"given": "Xu W. S."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2009"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/5Q8SXVVU",
+		"type": "article-journal",
+		"title": "Targeting epigenetic reader and eraser: Rational design, synthesis and in vitro evaluation of dimethylisoxazoles derivatives as BRD4/HDAC dual inhibitors",
+		"container-title": "Bioorganic & Medicinal Chemistry Letters",
+		"page": "2931-2935",
+		"volume": "26",
+		"issue": "12",
+		"source": "PubMed",
+		"abstract": "The bromodomain protein module and histone deacetylase (HDAC), which recognize and remove acetylated lysine, respectively, have emerged as important epigenetic therapeutic targets in cancer treatments. Herein we presented a novel design approach for cancer drug development by combination of bromodomain and HDAC inhibitory activity in one molecule. The designed compounds were synthesized which showed inhibitory activity against bromodomain 4 and HDAC1. The representative dual bromodomain/HDAC inhibitors, compound 11 and 12, showed potent antiproliferative activities against human leukaemia cell line K562 and MV4-11 in cellular assays. This work may lay the foundation for developing dual bromodomain/HDAC inhibitors as potential anticancer therapeutics.",
+		"DOI": "10.1016/j.bmcl.2016.04.034",
+		"ISSN": "1464-3405",
+		"note": "PMID: 27142751",
+		"shortTitle": "Targeting epigenetic reader and eraser",
+		"journalAbbreviation": "Bioorg. Med. Chem. Lett.",
+		"language": "eng",
+		"author": [
+			{
+				"family": "Zhang",
+				"given": "Zhimin"
+			},
+			{
+				"family": "Hou",
+				"given": "Shaohua"
+			},
+			{
+				"family": "Chen",
+				"given": "Hongli"
+			},
+			{
+				"family": "Ran",
+				"given": "Ting"
+			},
+			{
+				"family": "Jiang",
+				"given": "Fei"
+			},
+			{
+				"family": "Bian",
+				"given": "Yuanyuan"
+			},
+			{
+				"family": "Zhang",
+				"given": "Dewei"
+			},
+			{
+				"family": "Zhi",
+				"given": "Yanle"
+			},
+			{
+				"family": "Wang",
+				"given": "Lu"
+			},
+			{
+				"family": "Zhang",
+				"given": "Li"
+			},
+			{
+				"family": "Li",
+				"given": "Hongmei"
+			},
+			{
+				"family": "Zhang",
+				"given": "Yanmin"
+			},
+			{
+				"family": "Tang",
+				"given": "Weifang"
+			},
+			{
+				"family": "Lu",
+				"given": "Tao"
+			},
+			{
+				"family": "Chen",
+				"given": "Yadong"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					6,
+					15
+				]
+			]
+		},
+		"PMID": "27142751"
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/67PVFZUK",
+		"type": "article-journal",
+		"title": "QSAR study of isatin analogues as in vitro anti-cancer agents",
+		"container-title": "European Journal of Medicinal Chemistry",
+		"page": "1113-1118",
+		"volume": "45",
+		"ISSN": "0223-5234",
+		"author": [
+			{
+				"family": "Sabet R.",
+				"given": "et",
+				"dropping-particle": "al"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/6BEX925U",
+		"type": "article-journal",
+		"title": "The clinical development of histone deacetylase inhibitors as targeted anticancer drugs",
+		"container-title": "Expert opinion on investigational drugs",
+		"page": "1049-1066",
+		"volume": "19",
+		"ISSN": "1354-3784",
+		"author": [
+			{
+				"family": "Marks P. A.",
+				"given": "Breslow R."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/6E95AB38",
+		"type": "article-journal",
+		"title": "Toward selective histone deacetylase inhibitor design: homology modeling, docking studies, and molecular dynamics simulations of human class I histone deacetylases",
+		"container-title": "Journal of Medicinal Chemistry",
+		"page": "6936-6947",
+		"volume": "48",
+		"ISSN": "0022-2623",
+		"author": [
+			{
+				"family": "Wang D. F.",
+				"given": "et",
+				"dropping-particle": "al"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2005"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/6NP9GVUD",
+		"type": "article-journal",
+		"title": "Histone-deacetylase inhibitors: novel drugs for the treatment of cancer",
+		"container-title": "Nature Reviews Drug Discovery",
+		"page": "287-299",
+		"volume": "1",
+		"issue": "4",
+		"source": "www.nature.com",
+		"abstract": "The opposing actions of histone acetyltransferases (HATs) and histone deacetylases (HDACs) allow gene expression to be exquisitely regulated through chromatin remodelling. Aberrant transcription due to altered expression or mutation of genes that encode HATs, HDACs or their binding partners, is a key event in the onset and progression of cancer. HDAC inhibitors can reactivate gene expression and inhibit the growth and survival of tumour cells. The remarkable tumour specificity of these compounds, and their potency in vitro and in vivo, underscore the potential of HDAC inhibitors as exciting new agents for the treatment of cancer.",
+		"URL": "http://www.nature.com/nrd/journal/v1/n4/abs/nrd772.html",
+		"DOI": "10.1038/nrd772",
+		"ISSN": "1474-1776",
+		"shortTitle": "Histone-deacetylase inhibitors",
+		"journalAbbreviation": "Nat Rev Drug Discov",
+		"language": "en",
+		"author": [
+			{
+				"family": "Johnstone",
+				"given": "Ricky W."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2002",
+					4
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2016",
+					10,
+					25
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/6PD9SVHK",
+		"type": "article-journal",
+		"title": "Click chemistry: diverse chemical function from a few good reactions",
+		"container-title": "Angewandte Chemie International Edition",
+		"page": "2004-2021",
+		"volume": "40",
+		"ISSN": "1521-3773",
+		"author": [
+			{
+				"family": "Kolb H. C.",
+				"given": "Finn M. G."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2001"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/6S78B2WS",
+		"type": "article-journal",
+		"title": "Synthesis, bioevaluation and docking study of 5-substitutedphenyl-1, 3, 4-thiadiazole-based hydroxamic acids as histone deacetylase inhibitors and antitumor agents",
+		"container-title": "Journal of enzyme inhibition and medicinal chemistry",
+		"page": "611-618",
+		"volume": "29",
+		"ISSN": "1475-6366",
+		"author": [
+			{
+				"family": "Nam N. H.",
+				"given": "et",
+				"dropping-particle": "al"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/6SCJHVHN",
+		"type": "article-journal",
+		"title": "Clinical development of histone deacetylase inhibitors as anticancer agents*",
+		"container-title": "Annu. Rev. Pharmacol. Toxicol.",
+		"page": "495-528",
+		"volume": "45",
+		"ISSN": "0362-1642",
+		"author": [
+			{
+				"family": "Drummond D. C.",
+				"given": "et",
+				"dropping-particle": "al"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2005"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/74BF4S5H",
+		"type": "article-journal",
+		"title": "Development of a histone deacetylase 6 inhibitor and its biological effects",
+		"container-title": "Proceedings of the National Academy of Sciences",
+		"page": "15704-15709",
+		"volume": "110",
+		"issue": "39",
+		"source": "www.pnas.org",
+		"abstract": "Development of isoform-selective histone deacetylase (HDAC) inhibitors is important in elucidating the function of individual HDAC enzymes and their potential as therapeutic agents. Among the eleven zinc-dependent HDACs in humans, HDAC6 is structurally and functionally unique. Here, we show that a hydroxamic acid-based small-molecule N-hydroxy-4-(2-[(2-hydroxyethyl)(phenyl)amino]-2-oxoethyl)benzamide (HPOB) selectively inhibits HDAC6 catalytic activity in vivo and in vitro. HPOB causes growth inhibition of normal and transformed cells but does not induce cell death. HPOB enhances the effectiveness of DNA-damaging anticancer drugs in transformed cells but not normal cells. HPOB does not block the ubiquitin-binding activity of HDAC6. The HDAC6-selective inhibitor HPOB has therapeutic potential in combination therapy to enhance the potency of anticancer drugs.",
+		"URL": "http://www.pnas.org/content/110/39/15704",
+		"DOI": "10.1073/pnas.1313893110",
+		"ISSN": "0027-8424, 1091-6490",
+		"note": "PMID: 24023063",
+		"journalAbbreviation": "PNAS",
+		"language": "en",
+		"author": [
+			{
+				"family": "Lee",
+				"given": "Ju-Hee"
+			},
+			{
+				"family": "Mahendran",
+				"given": "Adaickapillai"
+			},
+			{
+				"family": "Yao",
+				"given": "Yuanshan"
+			},
+			{
+				"family": "Ngo",
+				"given": "Lang"
+			},
+			{
+				"family": "Venta-Perez",
+				"given": "Gisela"
+			},
+			{
+				"family": "Choy",
+				"given": "Megan L."
+			},
+			{
+				"family": "Kim",
+				"given": "Nathaniel"
+			},
+			{
+				"family": "Ham",
+				"given": "Won-Seok"
+			},
+			{
+				"family": "Breslow",
+				"given": "Ronald"
+			},
+			{
+				"family": "Marks",
+				"given": "Paul A."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013",
+					9,
+					24
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2017",
+					3,
+					9
+				]
+			]
+		},
+		"PMID": "24023063"
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/74HHSE9B",
+		"type": "article-journal",
+		"title": "Exploration of the internal cavity of histone deacetylase (HDAC) with selective HDAC1/HDAC2 inhibitors (SHI-1: 2)",
+		"container-title": "Bioorganic & medicinal chemistry letters",
+		"page": "973-978",
+		"volume": "18",
+		"ISSN": "0960-894X",
+		"author": [
+			{
+				"family": "Methot J. L.",
+				"given": "et",
+				"dropping-particle": "al"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2008"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/76RMICMD",
+		"type": "article-journal",
+		"title": "Design, synthesis, and evaluation of biphenyl-4-yl-acrylohydroxamic acid derivatives as histone deacetylase (HDAC) inhibitors",
+		"container-title": "European Journal of Medicinal Chemistry",
+		"page": "1900-1912",
+		"volume": "44",
+		"DOI": "http://dx.doi.org/10.1016/j.ejmech.2008.11.005",
+		"ISSN": "0223-5234",
+		"author": [
+			{
+				"family": "Dallavalle S.",
+				"given": "et",
+				"dropping-particle": "al"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2009"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/79Q2AM7C",
+		"type": "article-journal",
+		"title": "Clinical development of histone deacetylase inhibitors as anticancer agents*",
+		"container-title": "Annu. Rev. Pharmacol. Toxicol.",
+		"page": "495-528",
+		"volume": "45",
+		"ISSN": "0362-1642",
+		"author": [
+			{
+				"family": "Drummond D. C.",
+				"given": "et",
+				"dropping-particle": "al"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2005"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/7NS2GWQS",
+		"type": "article-journal",
+		"title": "Quantitative structure-activity relationship study of histone deacetylase inhibitors",
+		"container-title": "Current Medicinal Chemistry-Anti-Cancer Agents",
+		"page": "273-299",
+		"volume": "4",
+		"ISSN": "1568-0118",
+		"author": [
+			{
+				"family": "Xie A.",
+				"given": "et",
+				"dropping-particle": "al"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2004"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/7WF8UBND",
+		"type": "article-journal",
+		"title": "Protected from the inside: Endogenous histone deacetylase inhibitors and the road to cancer",
+		"container-title": "Biochimica et Biophysica Acta (BBA) - Reviews on Cancer",
+		"page": "241-252",
+		"volume": "1815",
+		"issue": "2",
+		"source": "ScienceDirect",
+		"abstract": "Histone deacetylases (HDACs) play a crucial role in several physiological and pathological cell functions, including cell development and cancer, by deacetylating both histones and others proteins. HDACs belong to a large family of enzymes including Class I, II and IV as well as Class III or sirtuins subfamilies, that undergo a complex transcriptional and post-translational regulation. In current years, antitumor therapy is attempting to exploit several chemical classes of inhibitors that target HDACs, frequently reported to be misregulated in cancer. Nevertheless, the identity of gene products directly involved in tumorigenesis and preventing HDAC misregulation in cancer is still poorly understood. Recent evidence has demonstrated that the tumor suppressors HIC1 and DBC1 induce direct repression of Sirt1 function, whereas Chfr and RENKCTD11/KASH family downregulate HDAC1, by inducing its ubiquitin-dependent degradation. Loss of these gene products leads to imbalanced enhancement of HDAC activity and subsequently to oncogenesis. All these genes are frequently deleted or silenced in human cancers, highlighting the role of endogenous HDAC inhibitors to counteracts HDAC-mediated tumorigenesis. Thus, endogenous HDAC inhibitors represent a promising class of “antitumor agents” thanks to which oncogenic addiction pathways may be selectively therapeutically targeted.",
+		"URL": "http://www.sciencedirect.com/science/article/pii/S0304419X11000035",
+		"DOI": "10.1016/j.bbcan.2011.01.002",
+		"ISSN": "0304-419X",
+		"shortTitle": "Protected from the inside",
+		"journalAbbreviation": "Biochimica et Biophysica Acta (BBA) - Reviews on Cancer",
+		"author": [
+			{
+				"family": "Di Marcotullio",
+				"given": "Lucia"
+			},
+			{
+				"family": "Canettieri",
+				"given": "Gianluca"
+			},
+			{
+				"family": "Infante",
+				"given": "Paola"
+			},
+			{
+				"family": "Greco",
+				"given": "Azzura"
+			},
+			{
+				"family": "Gulino",
+				"given": "Alberto"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2011",
+					4
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2016",
+					10,
+					25
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/85XE9QS6",
+		"type": "article-journal",
+		"title": "Exploration of a binding mode of indole amide analogues as potent histone deacetylase inhibitors and 3D-QSAR analyses",
+		"container-title": "Bioorganic & Medicinal Chemistry",
+		"page": "5424-5434",
+		"volume": "13",
+		"ISSN": "0968-0896",
+		"author": [
+			{
+				"family": "Guo Y.",
+				"given": "et",
+				"dropping-particle": "al"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2005"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/8847GAKF",
+		"type": "article-journal",
+		"title": "DFT-based ranking of zinc-binding groups in histone deacetylase inhibitors",
+		"container-title": "Bioorganic & Medicinal Chemistry",
+		"page": "6070-6082",
+		"volume": "13",
+		"issue": "21",
+		"source": "ScienceDirect",
+		"abstract": "Histone deacetylases (HDACs) have recently attracted considerable interest as targets in the treatment of cell proliferative diseases such as cancer. In the present work, a general framework is proposed for chemical groups that bind into the HDAC catalytic core. Based on this framework, a series of groups was selected for further investigation. A method was developed to rank the HDAC inhibitory potential of these moieties at the B3LYP/6-31G* level, making use of extra diffuse functions and of the PCM solvation model where appropriate. The resulting binding geometries indicate that very stringent constraints should be satisfied in order to have bidental zinc chelation, and even more so to have a strong binding affinity, which makes it difficult to predict the binding mode and affinity of such zinc-binding groups. The chemical hardness and the pKa were identified as important criteria for the binding affinity. Also, the hydrophilicity may have a direct influence on the binding affinity. The calculated binding energies were qualitatively validated with experimental results from the literature, and were shown to be meaningful for the purpose of ranking. Additionally, the insights gained from the present work may be useful for increasing the accuracy of QSAR models by providing a rational basis for selecting descriptors.",
+		"URL": "https://www.sciencedirect.com/science/article/pii/S0968089605005158",
+		"DOI": "10.1016/j.bmc.2005.06.009",
+		"ISSN": "0968-0896",
+		"journalAbbreviation": "Bioorganic & Medicinal Chemistry",
+		"author": [
+			{
+				"family": "Vanommeslaeghe",
+				"given": "K."
+			},
+			{
+				"family": "Loverix",
+				"given": "S."
+			},
+			{
+				"family": "Geerlings",
+				"given": "P."
+			},
+			{
+				"family": "Tourwé",
+				"given": "D."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2005",
+					11,
+					1
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2017",
+					2,
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/8A9T5AEC",
+		"type": "article-journal",
+		"title": "Prospects: histone deacetylase inhibitors",
+		"container-title": "Journal of cellular biochemistry",
+		"page": "293-304",
+		"volume": "96",
+		"ISSN": "1097-4644",
+		"author": [
+			{
+				"family": "Dokmanovic M.",
+				"given": "Marks P. A."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2005"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/8I8D5394",
+		"type": "article-journal",
+		"title": "Histone deacetylases (HDACs): characterization of the classical HDAC family",
+		"container-title": "Biochem. J",
+		"page": "737-749",
+		"volume": "370",
+		"author": [
+			{
+				"family": "De Ruijter A.",
+				"given": "et",
+				"dropping-particle": "al"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2003"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/8S39JEZS",
+		"type": "article-journal",
+		"title": "Novel amide derivatives as inhibitors of histone deacetylase: Design, synthesis and SAR",
+		"container-title": "European Journal of Medicinal Chemistry",
+		"page": "1067-1085",
+		"volume": "44",
+		"issue": "3",
+		"source": "ScienceDirect",
+		"abstract": "Enzymatic inhibition of histone deacetylase (HDAC) activity is emerging as an innovative and effective approach for the treatment of cancer. A series of novel amide derivatives have been synthesized and evaluated for their ability to inhibit human HDACs. Multiple compounds were identified as potent HDAC inhibitors (HDACi), with IC50 values in the low nanomolar (nM) range against enzyme activity in HeLa cell extracts and sub-μM for their in vitro anti-proliferative effect on cell lines. The introduction of an unsaturated linking group between the terminal aryl ring and the amide moiety was the key to obtain good potency. This approach yielded compounds such as (E)-N-[6-(hydroxyamino)-6-oxohexyl]-3-(7-quinolinyl)-2-propenamide (27) (HDAC IC50 8 nM) which showed potent in vivo activity in the P388 mouse leukemia syngeneic model (an increased lifespan (ILS) of 111% was obtained).",
+		"URL": "http://www.sciencedirect.com/science/article/pii/S0223523408003164",
+		"DOI": "10.1016/j.ejmech.2008.06.020",
+		"ISSN": "0223-5234",
+		"shortTitle": "Novel amide derivatives as inhibitors of histone deacetylase",
+		"journalAbbreviation": "European Journal of Medicinal Chemistry",
+		"author": [
+			{
+				"family": "Andrianov",
+				"given": "Victor"
+			},
+			{
+				"family": "Gailite",
+				"given": "Vija"
+			},
+			{
+				"family": "Lola",
+				"given": "Daina"
+			},
+			{
+				"family": "Loza",
+				"given": "Einars"
+			},
+			{
+				"family": "Semenikhina",
+				"given": "Valentina"
+			},
+			{
+				"family": "Kalvinsh",
+				"given": "Ivars"
+			},
+			{
+				"family": "Finn",
+				"given": "Paul"
+			},
+			{
+				"family": "Petersen",
+				"given": "Kamille Dumong"
+			},
+			{
+				"family": "Ritchie",
+				"given": "James W. A."
+			},
+			{
+				"family": "Khan",
+				"given": "Nagma"
+			},
+			{
+				"family": "Tumber",
+				"given": "Anthony"
+			},
+			{
+				"family": "Collins",
+				"given": "Laura S."
+			},
+			{
+				"family": "Vadlamudi",
+				"given": "Sree M."
+			},
+			{
+				"family": "Björkling",
+				"given": "Fredrik"
+			},
+			{
+				"family": "Sehested",
+				"given": "Maxwell"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2009",
+					3
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2016",
+					11,
+					13
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/8SQ3THE2",
+		"type": "book",
+		"title": "Cơ sở các phương pháp phổ ứng dụng trong hóa học",
+		"publisher": "NXB Khoa học và Kỹ thuật",
+		"language": "vie",
+		"author": [
+			{
+				"family": "Nguyễn Đình Thành",
+				"given": ""
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2011"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/8VBPDAWI",
+		"type": "article-journal",
+		"title": "Copper-catalyzed azide–alkyne cycloaddition (CuAAC) and beyond: new reactivity of copper (I) acetylides",
+		"container-title": "Chemical Society Reviews",
+		"page": "1302-1315",
+		"volume": "39",
+		"author": [
+			{
+				"family": "Hein J. E.",
+				"given": "Fokin V. V."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/92HKJHR4",
+		"type": "article-journal",
+		"title": "1, 3‐dipolar cycloadditions. Past and future",
+		"container-title": "Angewandte Chemie International Edition in English",
+		"page": "565-598",
+		"volume": "2",
+		"ISSN": "1521-3773",
+		"author": [
+			{
+				"family": "Huisgen R",
+				"given": ""
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1963"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/9K9NICWI",
+		"type": "book",
+		"title": "Hydroxamic Acids : A Unique Family of Chemicals with Multiple Biological Activities",
+		"publisher": "Springer Berlin Heidelberg",
+		"publisher-place": "Berlin, Heidelberg",
+		"event-place": "Berlin, Heidelberg",
+		"abstract": "Satya P. Gupta's Hydroxamics Acids is the first book to compile invited articles written by international experts on the class of compounds hydroxamic acids. Found to possess a wide spectrum of biological activities, the hydroxamic acids are of interest for  theoretical and experimental chemists who can study and make use of them in drug design and development. Chapters in this book provide a diverse and comprehensive coverage of this compound class and consequently this publication is a valuable resource for researchers in chemical, pharmaceutical and biological sciences.",
+		"ISBN": "978-3-642-38110-2",
+		"author": [
+			{
+				"family": "Gupta S. P",
+				"given": ""
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/9U6NDPVU",
+		"type": "article-journal",
+		"title": "The winged helix/forkhead transcription factor Foxq1 regulates differentiation of hair in satin mice",
+		"container-title": "genesis",
+		"page": "163-171",
+		"volume": "29",
+		"issue": "4",
+		"source": "Wiley Online Library",
+		"abstract": "Summary: Satin (sa) homozygous mice have a silky coat with high sheen arising from structurally abnormal medulla cells and defects in differentiation of the hair shaft. We demonstrate that the winged helix/forkhead transcription factor, Foxq1 (Forkhead box, subclass q, member 1) is mutant in sa mice. An intragenic deletion was identified in the radiation-induced satin mutant of the SB/Le inbred strain; a second allele, identified by an N-ethyl-N-nitrosourea (ENU) mutagenesis screen, has a missense mutation in the conserved winged helix DNA-binding domain. Homozygous mutants of the two alleles are indistinguishable. We show that Foxq1 is expressed during embryogenesis and exhibits a tissue-restricted expression pattern in adult tissues. The hair defects appear to be restricted to the inner structures of the hair; consequently, Foxq1 has a unique and distinct function involved in differentiation and development of the hair shaft. Despite an otherwise healthy appearance, satin mice have been reported to exhibit suppressed NK-cell function and alloimmune cytotoxic T-cell function. We show instead that the immune defects are attributable to genetic background differences. genesis 29:163–171, 2001. © 2001 Wiley-Liss, Inc.",
+		"URL": "http://onlinelibrary.wiley.com/doi/10.1002/gene.1020/abstract",
+		"DOI": "10.1002/gene.1020",
+		"ISSN": "1526-968X",
+		"journalAbbreviation": "Genesis",
+		"language": "en",
+		"author": [
+			{
+				"family": "Hong",
+				"given": "Hee-Kyung"
+			},
+			{
+				"family": "Noveroske",
+				"given": "Janice K."
+			},
+			{
+				"family": "Headon",
+				"given": "Denis J."
+			},
+			{
+				"family": "Liu",
+				"given": "Tong"
+			},
+			{
+				"family": "Sy",
+				"given": "Man-Sun"
+			},
+			{
+				"family": "Justice",
+				"given": "Monica J."
+			},
+			{
+				"family": "Chakravarti",
+				"given": "Aravinda"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2001",
+					4,
+					1
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2016",
+					12,
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/9UND92CE",
+		"type": "article-journal",
+		"title": "Western Blot: Technique, Theory, and Trouble Shooting",
+		"container-title": "North American Journal of Medical Sciences",
+		"page": "429-434",
+		"volume": "4",
+		"source": "PMC",
+		"abstract": "Western blotting is an important technique used in cell and molecular biology. By using a western blot, researchers are able to identify specific proteins from a complex mixture of proteins extracted from cells. The technique uses three elements to accomplish this task: (1) separation by size, (2) transfer to a solid support, and (3) marking target protein using a proper primary and secondary antibody to visualize. This paper will attempt to explain the technique and theory behind western blot, and offer some ways to troubleshoot.",
+		"DOI": "10.4103/1947-2714.100998",
+		"ISSN": "2250-1541 1947-2714",
+		"author": [
+			{
+				"family": "Mahmood T.",
+				"given": "Yang P. C."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2012"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/A4RFRS2U",
+		"type": "article-journal",
+		"title": "Histone deacetylases",
+		"container-title": "Current Opinion in Pharmacology",
+		"page": "344-351",
+		"volume": "3",
+		"DOI": "http://dx.doi.org/10.1016/S1471-4892(03)00084-5",
+		"ISSN": "1471-4892",
+		"author": [
+			{
+				"family": "Marks P. A.",
+				"given": "Miller T."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2003"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/ABCD2345",
+		"type": "webpage",
+		"title": "Zotero Quick Start Guide",
+		"URL": "http://zotero.org/support/quick_start_guide",
+		"author": [
+			{
+				"literal": "Center for History and New Media"
+			}
+		]
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/ABR2S6EH",
+		"type": "article-journal",
+		"title": "Phase 2 trial of oral vorinostat (suberoylanilide hydroxamic acid, SAHA) for refractory cutaneous T-cell lymphoma (CTCL)",
+		"container-title": "Blood",
+		"page": "31-39",
+		"volume": "109",
+		"issue": "1",
+		"source": "www.bloodjournal.org",
+		"abstract": "The activity and safety of the histone deacetylase inhibitor vorinostat (suberoylanilide hydroxamic acid, SAHA) were evaluated in patients with refractory cutaneous T-cell lymphoma (CTCL). Group 1 received vorinostat 400 mg daily, group 2 received vorinostat 300 mg twice daily for 3 days with 4 days rest, and group 3 received vorinostat 300 mg twice daily for 14 days with 7 days rest followed by 200 mg twice daily. Treatment continued until disease progression or intolerable toxicity. The primary objective was to determine the complete and partial response (PR) rate. Time to response (TTR), time to progressive disease (TTP), response duration (DOR), pruritus relief, and safety were determined. Thirty-three patients who had received a median of 5 prior therapies were enrolled. Eight patients achieved a PR, including 7 with advanced disease and 4 with Sézary syndrome. The median TTR, DOR, and TTP for responders were 11.9, 15.1, and 30.2 weeks, respectively. Fourteen of 31 evaluable patients had pruritus relief. The most common drug-related AEs were fatigue, thrombocytopenia, diarrhea, and nausea. The most common grade 3 or 4 drug-related AEs were thrombocytopenia and dehydration. Vorinostat demonstrated activity in heavily pretreated patients with CTCL. The 400 mg daily regimen had the most favorable safety profile and is being further evaluated.",
+		"URL": "http://www.bloodjournal.org/content/109/1/31",
+		"DOI": "10.1182/blood-2006-06-025999",
+		"ISSN": "0006-4971, 1528-0020",
+		"note": "PMID: 16960145",
+		"language": "en",
+		"author": [
+			{
+				"family": "Duvic",
+				"given": "Madeleine"
+			},
+			{
+				"family": "Talpur",
+				"given": "Rakshandra"
+			},
+			{
+				"family": "Ni",
+				"given": "Xiao"
+			},
+			{
+				"family": "Zhang",
+				"given": "Chunlei"
+			},
+			{
+				"family": "Hazarika",
+				"given": "Parul"
+			},
+			{
+				"family": "Kelly",
+				"given": "Cecilia"
+			},
+			{
+				"family": "Chiao",
+				"given": "Judy H."
+			},
+			{
+				"family": "Reilly",
+				"given": "John F."
+			},
+			{
+				"family": "Ricker",
+				"given": "Justin L."
+			},
+			{
+				"family": "Richon",
+				"given": "Victoria M."
+			},
+			{
+				"family": "Frankel",
+				"given": "Stanley R."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2007",
+					1,
+					1
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2016",
+					11,
+					7
+				]
+			]
+		},
+		"PMID": "16960145"
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/AC9NTKP6",
+		"type": "article-journal",
+		"title": "Synthesis, bioevaluation and docking study of 5-substitutedphenyl-1, 3, 4-thiadiazole-based hydroxamic acids as histone deacetylase inhibitors and antitumor agents",
+		"container-title": "Journal of enzyme inhibition and medicinal chemistry",
+		"page": "611-618",
+		"volume": "29",
+		"ISSN": "1475-6366",
+		"author": [
+			{
+				"family": "Nam N. H.",
+				"given": "et",
+				"dropping-particle": "al"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/ACDJ28BJ",
+		"type": "article-journal",
+		"title": "Structural Snapshots of Human HDAC8 Provide Insights into the Class I Histone Deacetylases",
+		"container-title": "Structure",
+		"page": "1325-1334",
+		"volume": "12",
+		"DOI": "10.1016/j.str.2004.04.012",
+		"ISSN": "0969-2126",
+		"author": [
+			{
+				"family": "Somoza J. R.",
+				"given": "et",
+				"dropping-particle": "al"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2004"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/ADHEMS66",
+		"type": "article-journal",
+		"title": "Histone deacetylase inhibitors in clinical studies as templates for new anticancer agents",
+		"container-title": "Molecules",
+		"page": "3898-3941",
+		"volume": "20",
+		"author": [
+			{
+				"family": "Mottamal M.",
+				"given": "et",
+				"dropping-particle": "al"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/AIHTDIJB",
+		"type": "article-journal",
+		"title": "Anticancer activities of histone deacetylase inhibitors",
+		"container-title": "Nat Rev Drug Discov",
+		"page": "769-784",
+		"volume": "5",
+		"ISSN": "1474-1776",
+		"author": [
+			{
+				"family": "Bolden J. E.",
+				"given": "Peart M. J."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2006"
+				]
+			],
+			"season": "print"
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/AMMEEUXD",
+		"type": "thesis"
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/ANPS9VWI",
+		"type": "article-journal",
+		"title": "QSAR Studies of PC-3 cell line inhibition activity of TSA and SAHA-like hydroxamic acids",
+		"container-title": "Bioorganic & Medicinal Chemistry Letters",
+		"page": "707-711",
+		"volume": "14",
+		"issue": "3",
+		"source": "ScienceDirect",
+		"abstract": "Quantitative structure–activity relationships (QSAR) for a series of new trichostatin A (TSA)-like hydroxamic acids for the inhibition of cell proliferation of the PC-3 cell line have been developed using molecular descriptors from Qikprop and electronic structure calculations. The best regression model shows that the PM3 atomic charge on the carbonyl carbon in the CONHOH moiety(Qco), globularity (Glob), and the hydrophilic component of the solvent-accessible surface area (FISA) describe the IC50 of 19 inhibitors of the PC-3 cell line with activities ranging over five orders of magnitude with an R2=0.92 and F=59.2. This information will be helpful in the further design of novel anticancer drugs for treatment of prostate cancer and other diseases affected by HDAC inhibition.",
+		"URL": "http://www.sciencedirect.com/science/article/pii/S0960894X03012186",
+		"DOI": "10.1016/j.bmcl.2003.11.062",
+		"ISSN": "0960-894X",
+		"journalAbbreviation": "Bioorganic & Medicinal Chemistry Letters",
+		"author": [
+			{
+				"family": "Wang",
+				"given": "Di-Fei"
+			},
+			{
+				"family": "Wiest",
+				"given": "Olaf"
+			},
+			{
+				"family": "Helquist",
+				"given": "Paul"
+			},
+			{
+				"family": "Lan-Hargest",
+				"given": "Hsuan-Yin"
+			},
+			{
+				"family": "Wiech",
+				"given": "Norbert L."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2004",
+					2,
+					9
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2017",
+					2,
+					15
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/ARIQPNJW",
+		"type": "article-journal",
+		"title": "Protected from the inside: Endogenous histone deacetylase inhibitors and the road to cancer",
+		"container-title": "Biochimica et Biophysica Acta (BBA) - Reviews on Cancer",
+		"page": "241-252",
+		"volume": "1815",
+		"issue": "2",
+		"source": "ScienceDirect",
+		"abstract": "Histone deacetylases (HDACs) play a crucial role in several physiological and pathological cell functions, including cell development and cancer, by deacetylating both histones and others proteins. HDACs belong to a large family of enzymes including Class I, II and IV as well as Class III or sirtuins subfamilies, that undergo a complex transcriptional and post-translational regulation. In current years, antitumor therapy is attempting to exploit several chemical classes of inhibitors that target HDACs, frequently reported to be misregulated in cancer. Nevertheless, the identity of gene products directly involved in tumorigenesis and preventing HDAC misregulation in cancer is still poorly understood. Recent evidence has demonstrated that the tumor suppressors HIC1 and DBC1 induce direct repression of Sirt1 function, whereas Chfr and RENKCTD11/KASH family downregulate HDAC1, by inducing its ubiquitin-dependent degradation. Loss of these gene products leads to imbalanced enhancement of HDAC activity and subsequently to oncogenesis. All these genes are frequently deleted or silenced in human cancers, highlighting the role of endogenous HDAC inhibitors to counteracts HDAC-mediated tumorigenesis. Thus, endogenous HDAC inhibitors represent a promising class of “antitumor agents” thanks to which oncogenic addiction pathways may be selectively therapeutically targeted.",
+		"URL": "http://www.sciencedirect.com/science/article/pii/S0304419X11000035",
+		"DOI": "10.1016/j.bbcan.2011.01.002",
+		"ISSN": "0304-419X",
+		"shortTitle": "Protected from the inside",
+		"journalAbbreviation": "Biochimica et Biophysica Acta (BBA) - Reviews on Cancer",
+		"author": [
+			{
+				"family": "Di Marcotullio",
+				"given": "Lucia"
+			},
+			{
+				"family": "Canettieri",
+				"given": "Gianluca"
+			},
+			{
+				"family": "Infante",
+				"given": "Paola"
+			},
+			{
+				"family": "Greco",
+				"given": "Azzura"
+			},
+			{
+				"family": "Gulino",
+				"given": "Alberto"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2011",
+					4
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2016",
+					10,
+					25
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/B3BWKBA6",
+		"type": "article-journal",
+		"title": "2,5-Disubstituted-1,3,4-oxadiazoles/thiadiazole as surface recognition moiety: Design and synthesis of novel hydroxamic acid based histone deacetylase inhibitors",
+		"container-title": "Bioorganic & medicinal chemistry letters",
+		"page": "5735-5738",
+		"volume": "21",
+		"DOI": "http://dx.doi.org/10.1016/j.bmcl.2011.08.022",
+		"ISSN": "0960-894X",
+		"author": [
+			{
+				"family": "Rajak H.",
+				"given": "et",
+				"dropping-particle": "al"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2011"
+				]
+			],
+			"season": "1"
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/B4VEUCGI",
+		"type": "article-journal",
+		"title": "Histone Deacetylase Inhibitors: Molecular and Biological Activity as a Premise to Clinical Application",
+		"container-title": "Current Drug Metabolism",
+		"page": "383-394",
+		"volume": "8",
+		"abstract": "Epigenetic modifications are reversible chromatin rearrangements that in normal cells modulate gene expression, without changing DNA sequence. Alterations of this equilibrium, mainly affecting the two interdependent mechanisms of DNA methylation and histone acetylation, are frequently involved in the genesis of cancer. The histone code, regulating gene expression, is constituted by the combination of different acetylated lysine residues of histones. In neoplastic cells, the abundance of deacetylated histones is usually associated with DNA hypermethylation and gene silencing. Several compounds, known to have in vitro antineoplastic activity, have been eventually shown to act as histone deacetylase inhibitors. Thus, HDAC inhibitors have been successfully introduced in clinical trials as antitumour agents. They are classified according to their chemical structures and are endowed with different specificity and affinity for the HDACs of classes 1, 2, 4. Among HDAC inhibitors, the most potent are the hydroxamic acid derivatives, like SAHA, which has been recently approved for therapy of cutaneous T-cell lymphomas. Other classes of HDAC inhibitors are short chain fatty acids (SCFA), benzamides, epoxyketone and non-epoxyketone containing cyclic tetrapeptides, and hybrid molecules. SCFA, although widely used (especially valproic acid) and clinically efficacious, have weak HDAC inhibition constants. Benzamides, like MS-275, and cyclic peptides, like depsipeptide, have been studied in numerous clinical trials and demonstrated low toxicity and activity in solid and haematological neoplasms. HDAC inhibitors are also potent radiation sensitizers. Their future in oncology may thus be based on their activity as single agents and on their synergy with the hypomethylating drugs and with chemo- and radiotherapeutics. <br xmlns=\"http://pub2web.metastore.ingenta.com/ns/\"></br> <br xmlns=\"http://pub2web.metastore.ingenta.com/ns/\"></br> <br xmlns=\"http://pub2web.metastore.ingenta.com/ns/\"></br>",
+		"DOI": "10.2174/138920007780655397",
+		"author": [
+			{
+				"family": "Santini V.",
+				"given": "Gozzini A."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2007"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/B7MJW476",
+		"type": "article-journal",
+		"title": "Cytotoxic and anticancer activities of isatin and its derivatives: a comprehensive review from 2000-2008",
+		"container-title": "Anti-Cancer Agents in Medicinal Chemistry (Formerly Current Medicinal Chemistry-Anti-Cancer Agents)",
+		"page": "397-414",
+		"volume": "9",
+		"ISSN": "1871-5206",
+		"author": [
+			{
+				"family": "Vine K. L.",
+				"given": "et",
+				"dropping-particle": "al"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2009"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/BEBTII3Z",
+		"type": "article-journal",
+		"title": "Histone deacetylase inhibitors in clinical studies as templates for new anticancer agents",
+		"container-title": "Molecules",
+		"page": "3898-3941",
+		"volume": "20",
+		"author": [
+			{
+				"family": "Mottamal M.",
+				"given": "et",
+				"dropping-particle": "al"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/BHF9KXJU",
+		"type": "thesis",
+		"title": "Tổng hợp và thử hoạt tính sinh học của một số acid hydroxamic mang khung 1,3,4-thiadiazol",
+		"publisher": "Đại học Dược Hà Nội",
+		"genre": "Khóa luận tốt nghiệp Dược sĩ đại học",
+		"language": "vie",
+		"author": [
+			{
+				"family": "Đỗ Thị Mai Dung",
+				"given": ""
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/BR2DNAD3",
+		"type": "article-journal",
+		"title": "Histone deacetylases (HDACs): characterization of the classical HDAC family",
+		"container-title": "Biochemical Journal",
+		"page": "737-749",
+		"volume": "370",
+		"issue": "3",
+		"source": "www.biochemj.org",
+		"abstract": "Transcriptional regulation in eukaryotes occurs within a chromatin setting, and is strongly influenced by the post-translational modification of histones, the building blocks of chromatin, such as methylation, phosphorylation and acetylation. Acetylation is probably the best understood of these modifications: hyperacetylation leads to an increase in the expression of particular genes, and hypoacetylation has the opposite effect. Many studies have identified several large, multisubunit enzyme complexes that are responsible for the targeted deacetylation of histones. The aim of this review is to give a comprehensive overview of the structure, function and tissue distribution of members of the classical histone deacetylase (HDAC) family, in order to gain insight into the regulation of gene expression through HDAC activity. SAGE (serial analysis of gene expression) data show that HDACs are generally expressed in almost all tissues investigated. Surprisingly, no major differences were observed between the expression pattern in normal and malignant tissues. However, significant variation in HDAC expression was observed within tissue types. HDAC inhibitors have been shown to induce specific changes in gene expression and to influence a variety of other processes, including growth arrest, differentiation, cytotoxicity and induction of apoptosis. This challenging field has generated many fascinating results which will ultimately lead to a better understanding of the mechanism of gene transcription as a whole.",
+		"URL": "http://www.biochemj.org/content/370/3/737",
+		"DOI": "10.1042/bj20021321",
+		"ISSN": "0264-6021, 1470-8728",
+		"note": "PMID: 12429021",
+		"shortTitle": "Histone deacetylases (HDACs)",
+		"language": "en",
+		"author": [
+			{
+				"family": "Ruijter",
+				"given": "Annemieke J. M.",
+				"dropping-particle": "de"
+			},
+			{
+				"family": "Gennip",
+				"given": "Albert H.",
+				"dropping-particle": "van"
+			},
+			{
+				"family": "Caron",
+				"given": "Huib N."
+			},
+			{
+				"family": "Kemp",
+				"given": "Stephan"
+			},
+			{
+				"family": "Kuilenburg",
+				"given": "André B. P.",
+				"dropping-particle": "van"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2003",
+					3,
+					15
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2016",
+					10,
+					25
+				]
+			]
+		},
+		"PMID": "12429021"
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/BSUIB3EN",
+		"type": "article-journal",
+		"title": "The growing impact of click chemistry on drug discovery",
+		"container-title": "Drug Discovery Today",
+		"page": "1128-1137",
+		"volume": "8",
+		"issue": "24",
+		"source": "ScienceDirect",
+		"abstract": "Click chemistry is a modular approach that uses only the most practical and reliable chemical transformations. Its applications are increasingly found in all aspects of drug discovery, ranging from lead finding through combinatorial chemistry and target-templated in situ chemistry, to proteomics and DNA research, using bioconjugation reactions. The copper-(I)-catalyzed 1,2,3-triazole formation from azides and terminal acetylenes is a particularly powerful linking reaction, due to its high degree of dependability, complete specificity, and the bio-compatibility of the reactants. The triazole products are more than just passive linkers; they readily associate with biological targets, through hydrogen bonding and dipole interactions.",
+		"URL": "http://www.sciencedirect.com/science/article/pii/S1359644603029337",
+		"DOI": "10.1016/S1359-6446(03)02933-7",
+		"ISSN": "1359-6446",
+		"journalAbbreviation": "Drug Discovery Today",
+		"author": [
+			{
+				"family": "Kolb",
+				"given": "Hartmuth C"
+			},
+			{
+				"family": "Sharpless",
+				"given": "K. Barry"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2003",
+					12,
+					15
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2017",
+					3,
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/BUBBZEDH",
+		"type": "article-journal",
+		"title": "QSAR modeling of sulfonamide inhibitors of histone deacetylase",
+		"container-title": "Internet Electron. J. Mol. Des",
+		"page": "345-354",
+		"volume": "5",
+		"author": [
+			{
+				"family": "Jaiswal D.",
+				"given": "et",
+				"dropping-particle": "al"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2006"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/C5JZNK74",
+		"type": "article-journal",
+		"title": "Structures of a histone deacetylase homologue bound to the TSA and SAHA inhibitors",
+		"container-title": "Nature",
+		"page": "188-193",
+		"volume": "401",
+		"ISSN": "0028-0836",
+		"author": [
+			{
+				"family": "Finnin M. S.",
+				"given": "et",
+				"dropping-particle": "al"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1999"
+				]
+			],
+			"season": "09/print"
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/CAQASTHV",
+		"type": "article-journal",
+		"title": "HDAC family: What are the cancer relevant targets?",
+		"container-title": "Cancer letters",
+		"page": "8-21",
+		"volume": "277",
+		"ISSN": "0304-3835",
+		"author": [
+			{
+				"family": "Witt O.",
+				"given": "et",
+				"dropping-particle": "al"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2009"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/CCN6ABV9",
+		"type": "article-journal",
+		"title": "QSAR Studies on Hydroxamic Acids: A Fascinating Family of Chemicals with a Wide Spectrum of Activities",
+		"container-title": "Chemical Reviews",
+		"ISSN": "0009-2665",
+		"author": [
+			{
+				"family": "Gupta S. P",
+				"given": ""
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/CF9C34GA",
+		"type": "article-journal",
+		"title": "QSAR modeling of sulfonamide inhibitors of histone deacetylase",
+		"container-title": "Internet Electron. J. Mol. Des",
+		"page": "345-354",
+		"volume": "5",
+		"author": [
+			{
+				"family": "Jaiswal D.",
+				"given": "et",
+				"dropping-particle": "al"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2006"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/CFA8GRRC",
+		"type": "article-journal",
+		"title": "QSAR Studies on Hydroxamic Acids: A Fascinating Family of Chemicals with a Wide Spectrum of Activities",
+		"container-title": "Chemical Reviews",
+		"ISSN": "0009-2665",
+		"author": [
+			{
+				"family": "Gupta S. P",
+				"given": ""
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/CNSDQVZ9",
+		"type": "article-journal",
+		"title": "Histone Deacetylase Inhibitors: An Attractive Therapeutic Strategy Against Breast Cancer",
+		"container-title": "Anticancer Research",
+		"page": "35-46",
+		"volume": "37",
+		"issue": "1",
+		"source": "ar.iiarjournals.org",
+		"abstract": "With a lifetime risk estimated to be one in eight in industrialized countries, breast cancer is the most frequent type of cancer among women worldwide. Patients are often treated with anti-estrogens, but it is common that some tumors develop resistance to therapy. The causation and progression of cancer is controlled by epigenetic processes, so there is an ongoing interest in research into mechanisms, genes and signaling pathways associating carcinogenesis with epigenetic modulation of gene expression. Given the fact that histone deacetylases (HDACs) have a great impact on chromatin remodeling and epigenetics, their inhibitors have become a very interesting field of research. Aim: This review focused on the use of HDAC inhibitors as anticancer treatment and explains the mechanisms of therapeutic effects on breast cancer. We anticipate further clinical benefits of this new class of drugs, both as single agents and in combination therapy. Molecules such as suberoylanilide hydroxamic acid, trichostatin A, suberoylbis-hydroxamic acid, panobinostat, entinostat, valproic acid, sodium butyrate, SK7041, FTY720, N-(2-hydroxyphenyl)-2-propylpentanamide, Scriptaid, YCW1, santacruzamate A and ferrocenyl have shown promising antitumor effects against breast cancer. HDAC inhibitors consists an attractive field for targeted therapy against breast cancer. Future therapeutic strategies will include combination of HDAC inhibitors and chemotherapy or other inhibitors, in order to target multiple oncogenic signaling pathways. More trials are needed.",
+		"URL": "http://ar.iiarjournals.org/content/37/1/35",
+		"ISSN": "0250-7005, 1791-7530",
+		"note": "PMID: 28011471",
+		"shortTitle": "Histone Deacetylase Inhibitors",
+		"journalAbbreviation": "Anticancer Res",
+		"language": "en",
+		"author": [
+			{
+				"family": "Damaskos",
+				"given": "Christos"
+			},
+			{
+				"family": "Valsami",
+				"given": "Serena"
+			},
+			{
+				"family": "Kontos",
+				"given": "Michael"
+			},
+			{
+				"family": "Spartalis",
+				"given": "Eleftherios"
+			},
+			{
+				"family": "Kalampokas",
+				"given": "Theodoros"
+			},
+			{
+				"family": "Kalampokas",
+				"given": "Emmanouil"
+			},
+			{
+				"family": "Athanasiou",
+				"given": "Antonios"
+			},
+			{
+				"family": "Moris",
+				"given": "Demetrios"
+			},
+			{
+				"family": "Daskalopoulou",
+				"given": "Afrodite"
+			},
+			{
+				"family": "Davakis",
+				"given": "Spyridon"
+			},
+			{
+				"family": "Tsourouflis",
+				"given": "Gerasimos"
+			},
+			{
+				"family": "Kontzoglou",
+				"given": "Konstantinos"
+			},
+			{
+				"family": "Perrea",
+				"given": "Despina"
+			},
+			{
+				"family": "Nikiteas",
+				"given": "Nikolaos"
+			},
+			{
+				"family": "Dimitroulis",
+				"given": "Dimitrios"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					1,
+					1
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2017",
+					3,
+					12
+				]
+			]
+		},
+		"PMID": "28011471"
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/CXXBH73R",
+		"type": "article-journal",
+		"title": "Synthesis and structure–activity relationship of histone deacetylase (HDAC) inhibitors with triazole-linked cap group",
+		"container-title": "Bioorganic & Medicinal Chemistry",
+		"page": "4839-4853",
+		"volume": "16",
+		"abstract": "Histone deacetylase (HDAC) inhibition is a recent, clinically validated therapeutic strategy for cancer treatment. Small molecule HDAC inhibitors identified so far fall in to three distinct structural motifs: the zinc-binding group (ZBG), a hydrophobic linker, and a recognition cap group. Here we report the suitability of a 1,2,3-triazole ring as a surface recognition cap group-linking moiety in suberoylanilide hydroxamic acid-like (SAHA-like) HDAC inhibitors. Using “click” chemistry (Huisgen cycloaddition reaction), several triazole-linked SAHA-like hydroxamates were synthesized. Structure–activity relationship revealed that the position of the triazole moiety as well as the identity of the cap group markedly affected the in vitro HDAC inhibition and cell growth inhibitory activities of this class of compounds.",
+		"DOI": "http://dx.doi.org/10.1016/j.bmc.2008.03.050",
+		"ISSN": "0968-0896",
+		"author": [
+			{
+				"family": "Chen",
+				"given": "Po C."
+			},
+			{
+				"family": "Patil",
+				"given": "Vishal"
+			},
+			{
+				"family": "Guerrant",
+				"given": "William"
+			},
+			{
+				"family": "Green",
+				"given": "Patience"
+			},
+			{
+				"family": "Oyelere",
+				"given": "Adegboyega K."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2008"
+				]
+			],
+			"season": "1"
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/D9KPPXN6",
+		"type": "book",
+		"title": "Một số phương pháp phổ ứng dụng trong hóa học",
+		"publisher": "NXB Đại học Quốc gia Hà Nội",
+		"language": "vie",
+		"author": [
+			{
+				"family": "Đào Đình Thức",
+				"given": ""
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2007"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/DDX8XBZB",
+		"type": "article-journal",
+		"title": "Novel folate-hydroxamate based antimetabolites: synthesis and biological evaluation",
+		"container-title": "Medicinal Chemistry",
+		"page": "265-274",
+		"volume": "7",
+		"ISSN": "1573-4064",
+		"author": [
+			{
+				"family": "Carrasco M. P.",
+				"given": "et",
+				"dropping-particle": "al"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2011"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/DGIUGKBW",
+		"type": "article-journal",
+		"title": "Histone deacetylase inhibitors (HDACIs): multitargeted anticancer agents",
+		"container-title": "Biologics: targets & therapy",
+		"page": "47",
+		"volume": "7",
+		"author": [
+			{
+				"family": "Ververis K.",
+				"given": "et",
+				"dropping-particle": "al"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/DH2W48BI",
+		"type": "article-journal",
+		"title": "Histone deacetylase inhibitors in the treatment of cancer: overview and perspectives",
+		"container-title": "Future Medicinal Chemistry",
+		"page": "1439-1460",
+		"volume": "4",
+		"issue": "11",
+		"source": "future-science.com (Atypon)",
+		"abstract": "Histone deacetylase inhibitors (HDACis) are one of the last frontiers in pharmaceutical research. Several classes of HDACi have been identified. Although more than 20 HDACi are under preclinical and clinical investigation as single agents and in combination therapies against different cancers, just two of them were approved by the US FDA: Zolinza® and Istodax®, both licensed for the treatment of cutaneous T-cell lymphoma, the latter also of peripheral T-cell lymphoma. Since HDAC enzymes act by forming multiprotein complexes (clusters), containing cofactors, the main problem in designing new HDACi is that the inhibition activity evaluated on isolated enzyme isoforms does not match the in vivo outcomes. In the coming years, the research will be oriented toward a better understanding of the functioning of these protein complexes as well as the development of new screening assays, with the final goal to obtain new drug candidates for the treatment of cancer.",
+		"URL": "http://www.future-science.com/doi/abs/10.4155/fmc.12.80",
+		"DOI": "10.4155/fmc.12.80",
+		"ISSN": "1756-8919",
+		"shortTitle": "Histone deacetylase inhibitors in the treatment of cancer",
+		"journalAbbreviation": "Future Medicinal Chemistry",
+		"author": [
+			{
+				"family": "Giannini",
+				"given": "Giuseppe"
+			},
+			{
+				"family": "Cabri",
+				"given": "Walter"
+			},
+			{
+				"family": "Fattorusso",
+				"given": "Caterina"
+			},
+			{
+				"family": "Rodriquez",
+				"given": "Manuela"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2012",
+					7,
+					1
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2016",
+					10,
+					25
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/DJT5KHDX",
+		"type": "article-journal",
+		"title": "1, 3‐dipolar cycloadditions. Past and future",
+		"container-title": "Angewandte Chemie International Edition in English",
+		"page": "565-598",
+		"volume": "2",
+		"ISSN": "1521-3773",
+		"author": [
+			{
+				"family": "Huisgen R",
+				"given": ""
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1963"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/DKET5C49",
+		"type": "thesis",
+		"title": "Tổng hợp và thử tác dụng sinh học của N-hydroxyl-4-(3-hydroxyimino-2-oxoindolin-1-yl)methylcinnamamid và một số dẫn chất",
+		"publisher": "Đại học Dược Hà Nội",
+		"genre": "Khóa luận tốt nghiệp Dược sĩ đại học",
+		"language": "vie",
+		"author": [
+			{
+				"family": "Đào Quang Tùng",
+				"given": ""
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/DNFJ7CVQ",
+		"type": "article-journal",
+		"title": "3D-QSAR of histone deacetylase inhibitors as anticancer agents by genetic function approximation",
+		"container-title": "Indian Journal of Biochemistry and Bibophysics",
+		"page": "360",
+		"volume": "43",
+		"ISSN": "0301-1208",
+		"author": [
+			{
+				"family": "Wagh N.",
+				"given": "et",
+				"dropping-particle": "al"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2006"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/E2JAKMV7",
+		"type": "article-journal",
+		"title": "Novel folate-hydroxamate based antimetabolites: synthesis and biological evaluation",
+		"container-title": "Medicinal Chemistry",
+		"page": "265-274",
+		"volume": "7",
+		"ISSN": "1573-4064",
+		"author": [
+			{
+				"family": "Carrasco M. P.",
+				"given": "et",
+				"dropping-particle": "al"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2011"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/E9QEVZCT",
+		"type": "article-journal",
+		"title": "Anticancer activities of histone deacetylase inhibitors",
+		"container-title": "Nat Rev Drug Discov",
+		"page": "769-784",
+		"volume": "5",
+		"ISSN": "1474-1776",
+		"author": [
+			{
+				"family": "Bolden J. E.",
+				"given": "Peart M. J."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2006"
+				]
+			],
+			"season": "print"
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/EBRBCVPG",
+		"type": "article-journal",
+		"title": "Novel N-hydroxyfurylacrylamide-based histone deacetylase (HDAC) inhibitors with branched CAP group (Part 2)",
+		"container-title": "Bioorganic & Medicinal Chemistry",
+		"page": "5339-5354",
+		"volume": "21",
+		"issue": "17",
+		"source": "ScienceDirect",
+		"abstract": "Histone deacetylases (HDACs) are significant enzymes involved in tumor genesis and development. Herein, we report a series of novel N-hydroxyfurylacryl-amide-based HDAC inhibitors, which are marked by introducing branched hydrophobic groups as the capping group. The inhibitory activity of the synthesized compounds against HDACs and several tumor cell lines are firstly determined. Fifteen compounds with promising activities are selected for further evaluation of target selectivity profile against recombinant human HDAC1, HDAC4 and HDAC6. Compounds 10a, 10b, 10d and 16a exhibit outstanding selectivity against HDAC6. Analysis of HDAC4 X-ray structure and HDAC1, HDAC6 homology model indicates that these enzyme differ significantly in the rim near the surface of the active site. Although TSA has been known as a pan-HDAC inhibitor, it exhibits outstanding selectivity for HDAC6 over HDAC4. For further physicochemical properties study, six compounds are chosen for determination of their physicochemical properties including log D7.4 and aqueous solubility. The results suggest that compounds with a smaller framework and with hydrophilicgroups are likely to have better aqueous solubility.",
+		"URL": "http://www.sciencedirect.com/science/article/pii/S0968089613005403",
+		"DOI": "10.1016/j.bmc.2013.06.009",
+		"ISSN": "0968-0896",
+		"journalAbbreviation": "Bioorganic & Medicinal Chemistry",
+		"author": [
+			{
+				"family": "Feng",
+				"given": "Taotao"
+			},
+			{
+				"family": "Wang",
+				"given": "Hai"
+			},
+			{
+				"family": "Su",
+				"given": "Hong"
+			},
+			{
+				"family": "Lu",
+				"given": "Hui"
+			},
+			{
+				"family": "Yu",
+				"given": "Liqin"
+			},
+			{
+				"family": "Zhang",
+				"given": "Xiaojin"
+			},
+			{
+				"family": "Sun",
+				"given": "Haopeng"
+			},
+			{
+				"family": "You",
+				"given": "Qidong"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013",
+					9,
+					1
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2017",
+					3,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/ET34MJKZ",
+		"type": "article-journal",
+		"title": "Drug Insight: histone deacetylase inhibitors[mdash]development of the new targeted anticancer agent suberoylanilide hydroxamic acid",
+		"container-title": "Nat Clin Prac Oncol",
+		"page": "150-157",
+		"volume": "2",
+		"ISSN": "1743-4254",
+		"author": [
+			{
+				"family": "Kelly W. K.",
+				"given": "Marks P. A."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2005"
+				]
+			],
+			"season": "print"
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/EUBT68Z5",
+		"type": "article-journal",
+		"title": "Prospects: Histone deacetylase inhibitors",
+		"container-title": "Journal of Cellular Biochemistry",
+		"page": "293-304",
+		"volume": "96",
+		"issue": "2",
+		"source": "Wiley Online Library",
+		"abstract": "Histone deacetylase (HDAC), inhibitors represent a new class of targeted anti-cancer agents. Several of these compounds are in clinical trials with significant activity against a spectrum of both hematologic and solid tumors at doses that are well tolerated by the patients. The HDAC inhibitors are a structurally diverse group of molecules that can induce growth arrest, differentiation, apoptosis, and autophagocytic cell death of cancer cells. While the base sequence of DNA provides the genetic code for proteins, the expression of genes is regulated, in large part, by the structure of the chromatin proteins around which the DNA is wrapped (epigenetic gene regulation). The acetylation and deacetylation of the lysines in the tails of the core histones, among the most extensively studied aspects of chromatin structure, is controlled by the action of two families of enzymes, histone deacetylases (HDACs) and histone acetyltransferases (HATs). Protein components of transcription factor complexes and many other non-histone proteins are also substrates for HDACs and HATs. The structure and activity of these non-histone proteins may be altered by acetylation/deacetylation with consequent effects on various cell functions including gene expression, cell cycle progression, and cell death pathways. This review focuses on several key questions with respect to the mechanism of action of HDACi, including, what are the different cell phenotypes induced by HDACi, why are normal cells compared to transformed cells relatively resistant to HDACi induced cell death, why are certain tumors more responsive to HDACi than others, and what is the basis of the selectivity of HDACi in altering gene expression. The answers to these questions will have therapeutic importance since we will identify targets for enhancing the efficacy and safety of HDACi. © 2005 Wiley-Liss, Inc.",
+		"URL": "http://onlinelibrary.wiley.com/doi/10.1002/jcb.20532/abstract",
+		"DOI": "10.1002/jcb.20532",
+		"ISSN": "1097-4644",
+		"shortTitle": "Prospects",
+		"journalAbbreviation": "J. Cell. Biochem.",
+		"language": "en",
+		"author": [
+			{
+				"family": "Dokmanovic",
+				"given": "Milos"
+			},
+			{
+				"family": "Marks",
+				"given": "Paul A."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2005",
+					10,
+					1
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2016",
+					10,
+					25
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/EXGW3IBX",
+		"type": "article"
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/EZIHXUJI",
+		"type": "article-journal",
+		"title": "Class II-selective histone deacetylase inhibitors. Part 2: alignment-independent GRIND 3-D QSAR, homology and docking studies",
+		"container-title": "European Journal of Medicinal Chemistry",
+		"page": "621-632",
+		"volume": "43",
+		"ISSN": "0223-5234",
+		"author": [
+			{
+				"family": "Ragno R.",
+				"given": "et",
+				"dropping-particle": "al"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2008"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/FAFQWCJK",
+		"type": "article-journal",
+		"title": "Histone deacetylase inhibitors (HDACIs): multitargeted anticancer agents",
+		"container-title": "Biologics: targets & therapy",
+		"page": "47",
+		"volume": "7",
+		"author": [
+			{
+				"family": "Ververis K.",
+				"given": "et",
+				"dropping-particle": "al"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/FDVNFQ5D",
+		"type": "article-journal",
+		"title": "New colorimetric cytotoxicity assay for anticancer-drug screening",
+		"container-title": "Journal of the National Cancer Institute",
+		"page": "1107-1112",
+		"volume": "82",
+		"ISSN": "0027-8874",
+		"author": [
+			{
+				"family": "Skehan P.",
+				"given": "et",
+				"dropping-particle": "al"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1990"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/FEC55CN9",
+		"type": "article-journal",
+		"title": "Dimethyl sulfoxide to vorinostat: development of this histone deacetylase inhibitor as an anticancer drug",
+		"container-title": "Nature biotechnology",
+		"page": "84-90",
+		"volume": "25",
+		"ISSN": "1087-0156",
+		"author": [
+			{
+				"family": "Marks P. A.",
+				"given": "Breslow R."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2007"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/FSBV2IET",
+		"type": "article-journal",
+		"title": "Histone modifications and cancer",
+		"container-title": "Adv Genet",
+		"page": "57-85",
+		"volume": "70",
+		"author": [
+			{
+				"family": "Sawan C.",
+				"given": "Herceg Z."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/FWSUNKFP",
+		"type": "article-journal",
+		"title": "Alkyl piperidine and piperazine hydroxamic acids as HDAC inhibitors",
+		"container-title": "Bioorganic & medicinal chemistry letters",
+		"page": "2305-2308",
+		"volume": "21",
+		"ISSN": "0960-894X",
+		"author": [
+			{
+				"family": "Rossi C.",
+				"given": "et",
+				"dropping-particle": "al"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2011"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/FZM3BPIG",
+		"type": "article-journal",
+		"title": "Clinical development of histone deacetylase inhibitors as anticancer agents*",
+		"container-title": "Annu. Rev. Pharmacol. Toxicol.",
+		"page": "495-528",
+		"volume": "45",
+		"ISSN": "0362-1642",
+		"author": [
+			{
+				"family": "Drummond D. C.",
+				"given": "et",
+				"dropping-particle": "al"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2005"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/G6R5ZIC6",
+		"type": "article-journal",
+		"title": "Structures of a histone deacetylase homologue bound to the TSA and SAHA inhibitors",
+		"container-title": "Nature",
+		"page": "188-193",
+		"volume": "401",
+		"ISSN": "0028-0836",
+		"author": [
+			{
+				"family": "Finnin M. S.",
+				"given": "et",
+				"dropping-particle": "al"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1999"
+				]
+			],
+			"season": "09/print"
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/GACBV5G6",
+		"type": "article-journal",
+		"title": "Exploration of novel 5′(7′)-substituted-2′-oxospiro[1,3]dioxolane-2,3′-indoline-based N-hydroxypropenamides as histone deacetylase inhibitors and antitumor agents",
+		"container-title": "Arabian Journal of Chemistry",
+		"DOI": "http://dx.doi.org/10.1016/j.arabjc.2015.10.007",
+		"ISSN": "1878-5352",
+		"author": [
+			{
+				"family": "Dung D. T.M",
+				"given": "et",
+				"dropping-particle": "al"
+			}
+		]
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/GEMJV4M4",
+		"type": "article",
+		"title": "AJTR1012002.pdf",
+		"URL": "http://www.ajtr.org/files/AJTR1012002.pdf",
+		"accessed": {
+			"date-parts": [
+				[
+					"2016",
+					10,
+					23
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/GF8V27BH",
+		"type": "article-journal",
+		"title": "Histone deacetylase inhibitors: Potential in cancer therapy",
+		"container-title": "Journal of cellular biochemistry",
+		"page": "600-608",
+		"volume": "107",
+		"ISSN": "1097-4644",
+		"author": [
+			{
+				"family": "Marks P. A.",
+				"given": "Xu W. S."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2009"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/GF9IT2H5",
+		"type": "book",
+		"title": "Một số phương pháp phổ ứng dụng trong hóa học",
+		"publisher": "NXB Đại học Quốc gia Hà Nội",
+		"language": "vie",
+		"author": [
+			{
+				"family": "Đào Đình Thức",
+				"given": ""
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2007"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/GM9I6P8F",
+		"type": "article-journal",
+		"title": "Structural Snapshots of Human HDAC8 Provide Insights into the Class I Histone Deacetylases",
+		"container-title": "Structure",
+		"page": "1325-1334",
+		"volume": "12",
+		"DOI": "10.1016/j.str.2004.04.012",
+		"ISSN": "0969-2126",
+		"author": [
+			{
+				"family": "Somoza J. R.",
+				"given": "et",
+				"dropping-particle": "al"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2004"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/GWVRK4K7",
+		"type": "article-journal",
+		"title": "Histone deacetylases and cancer: causes and therapies",
+		"container-title": "Nat Rev Cancer",
+		"page": "194-202",
+		"volume": "1",
+		"ISSN": "1474-175X",
+		"author": [
+			{
+				"family": "Marks P. A.",
+				"given": "et",
+				"dropping-particle": "al"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2001"
+				]
+			],
+			"season": "print"
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/H3DC575X",
+		"type": "article-journal",
+		"title": "Structural Basis for the Inhibition of Histone Deacetylase 8 (HDAC8), a Key Epigenetic Player in the Blood Fluke <italic>Schistosoma mansoni</italic>",
+		"container-title": "PLoS Pathog",
+		"page": "e1003645",
+		"volume": "9",
+		"abstract": "<title>Author Summary</title><p>Schistosomiasis, a neglected parasitic disease caused by flatworms of the genus <italic>Schistosoma</italic>, is responsible for hundreds of thousands of deaths yearly. Its treatment currently depends on a single drug, praziquantel, with reports of drug-resistant parasites. Human epigenetic enzymes, in particular histone deacetylases (HDACs), are predominantly attractive inhibitory targets for anti-cancer therapies. Validated scaffolds against these enzymes could also be used as leads in the search for novel specific drugs against schistosomiasis. In our study, we show that <italic>Schistosoma mansoni</italic> histone deacetylase 8 (smHDAC8) is a functional acetyl-L-lysine deacetylase that plays an important role in parasite infectivity and is therefore a relevant target for drug discovery. The determination of the atomic structures of smHDAC8 in complex with generic HDAC inhibitors revealed that the architecture of the smHDAC8 active site pocket differed significantly from its human counterparts and provided a framework for the development of inhibitors selectively interfering with schistosome epigenetic mechanisms. In agreement, this information enabled us to identify several small-molecule scaffolds that possess specific inhibitory effects on smHDAC8 and cause mortality in schistosomes. Our results provide the proof of concept that targeting epigenetic enzymes is a valid approach to treat neglected diseases caused by eukaryotic pathogens.</p>",
+		"DOI": "10.1371/journal.ppat.1003645",
+		"author": [
+			{
+				"family": "Marek M.",
+				"given": "et",
+				"dropping-particle": "al"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/HEJPTPQU",
+		"type": "article-journal",
+		"title": "A structure–activity relationship survey of histone deacetylase (HDAC) inhibitors",
+		"container-title": "Chemometrics and Intelligent Laboratory Systems",
+		"page": "132-138",
+		"volume": "125",
+		"source": "ScienceDirect",
+		"abstract": "Histone deacetylase inhibitors have gained a great deal of attention recently for the treatment of cancers and inflammatory diseases. So design of new inhibitors is of great importance in pharmaceutical industries and labs. As synthesis is a costly and resource intensive process, estimation of the compound's property or activity before synthesis is desired. To this end, computational methods such as quantitative structure–activity relationships can be used to predict activity or properties of the molecules of interest.\nHere, we elaborated a novel rank-based ant system to generate a QSAR model for the prediction of histone deacetylase inhibition activity. The dataset used for the modeling exercise comprised of 314 molecules collated from the original literature. The model was validated by predicting the enzyme inhibition of 79 compounds as the external validation set. The model had high prediction power characterized by the R2 value of 0.75 for all compounds and the RMSE value of 0.51 for the external test set.",
+		"URL": "http://www.sciencedirect.com/science/article/pii/S0169743913000580",
+		"DOI": "10.1016/j.chemolab.2013.04.001",
+		"ISSN": "0169-7439",
+		"journalAbbreviation": "Chemometrics and Intelligent Laboratory Systems",
+		"author": [
+			{
+				"family": "Bozorgi",
+				"given": "Atefeh Hajiagha"
+			},
+			{
+				"family": "Bagheri",
+				"given": "Mehdi"
+			},
+			{
+				"family": "Aslebagh",
+				"given": "Roshanak"
+			},
+			{
+				"family": "Rajabi",
+				"given": "Mansoureh Sadat"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013",
+					6,
+					15
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2017",
+					2,
+					15
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/HF99P3CS",
+		"type": "article-journal",
+		"title": "Novel isatin-based hydroxamic acids as histone deacetylase inhibitors and antitumor agents",
+		"container-title": "European Journal of Medicinal Chemistry",
+		"page": "477-486",
+		"volume": "70",
+		"source": "CrossRef",
+		"URL": "http://linkinghub.elsevier.com/retrieve/pii/S0223523413006867",
+		"DOI": "10.1016/j.ejmech.2013.10.045",
+		"ISSN": "02235234",
+		"language": "en",
+		"author": [
+			{
+				"family": "Nam",
+				"given": "Nguyen-Hai"
+			},
+			{
+				"family": "Huong",
+				"given": "Tran Lan"
+			},
+			{
+				"family": "Mai Dung",
+				"given": "Do Thi"
+			},
+			{
+				"family": "Phuong Dung",
+				"given": "Phan Thi"
+			},
+			{
+				"family": "Kim Oanh",
+				"given": "Dao Thi"
+			},
+			{
+				"family": "Quyen",
+				"given": "Do"
+			},
+			{
+				"family": "Thao",
+				"given": "Le Thi"
+			},
+			{
+				"family": "Park",
+				"given": "Sang Ho"
+			},
+			{
+				"family": "Kim",
+				"given": "Kyung Rok"
+			},
+			{
+				"family": "Han",
+				"given": "Byung Woo"
+			},
+			{
+				"family": "Yun",
+				"given": "Jieun"
+			},
+			{
+				"family": "Kang",
+				"given": "Jong Soon"
+			},
+			{
+				"family": "Kim",
+				"given": "Youngsoo"
+			},
+			{
+				"family": "Han",
+				"given": "Sang-Bae"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013",
+					12
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2016",
+					10,
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/HQB3FUIA",
+		"type": "article-journal",
+		"title": "New Colorimetric Cytotoxicity Assay for Anticancer-Drug Screening",
+		"container-title": "JNCI: Journal of the National Cancer Institute",
+		"page": "1107-1112",
+		"volume": "82",
+		"issue": "13",
+		"source": "academic.oup.com",
+		"URL": "https://academic.oup.com/jnci/article-abstract/82/13/1107/970741/New-Colorimetric-Cytotoxicity-Assay-for-Anticancer",
+		"DOI": "10.1093/jnci/82.13.1107",
+		"ISSN": "0027-8874",
+		"journalAbbreviation": "J Natl Cancer Inst",
+		"author": [
+			{
+				"family": "Skehan",
+				"given": "Philip"
+			},
+			{
+				"family": "Storeng",
+				"given": "Ritsa"
+			},
+			{
+				"family": "Scudiero",
+				"given": "Dominic"
+			},
+			{
+				"family": "Monks",
+				"given": "Anne"
+			},
+			{
+				"family": "McMahon",
+				"given": "James"
+			},
+			{
+				"family": "Vistica",
+				"given": "David"
+			},
+			{
+				"family": "Warren",
+				"given": "Jonathan T."
+			},
+			{
+				"family": "Bokesch",
+				"given": "Heidi"
+			},
+			{
+				"family": "Kenney",
+				"given": "Susan"
+			},
+			{
+				"family": "Boyd",
+				"given": "Michael R."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1990",
+					7,
+					4
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2017",
+					3,
+					13
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/HSWX3NXV",
+		"type": "article-journal",
+		"title": "Docking-enabled pharmacophore model for histone deacetylase 8 inhibitors and its application in anti-cancer drug discovery",
+		"container-title": "Journal of Molecular Graphics and Modelling",
+		"page": "382-395",
+		"volume": "29",
+		"issue": "3",
+		"source": "ScienceDirect",
+		"abstract": "Zinc-dependent histone deacetylase 8 removes the epsilon-acetyl groups present in the N-terminal lysine residues of histone proteins, thereby restricting various transcription factors from being expressed. Inhibition of this enzyme has been reported to be a novel strategy in cancer treatment. To identify novel and diverse leads for use in potent histone deacetylase 8 inhibitor design, a pharmacophore model showing high correlation between experimental and estimated activities was generated using the best conformations of training set compounds from molecular docking experiments. The best pharmacophore model was validated using four different strategies and then used in database screening for novel virtual leads. Hit compounds were selected and subjected to molecular docking using GOLD. The top-scored compound was further optimized for improved binding. The optimization step led to a new set of compounds with both improved binding at the active site and estimated activities. The identified virtual leads could be used for designing potent histone deacetylase 8 inhibitors as anti-cancer therapeutics.",
+		"URL": "http://www.sciencedirect.com/science/article/pii/S1093326310000975",
+		"DOI": "10.1016/j.jmgm.2010.07.007",
+		"ISSN": "1093-3263",
+		"journalAbbreviation": "Journal of Molecular Graphics and Modelling",
+		"author": [
+			{
+				"family": "Thangapandian",
+				"given": "S"
+			},
+			{
+				"family": "John",
+				"given": "S"
+			},
+			{
+				"family": "Sakkiah",
+				"given": "S"
+			},
+			{
+				"family": "Lee",
+				"given": "KW"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010",
+					11
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2016",
+					11,
+					13
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/I2ZNJS22",
+		"type": "article-journal",
+		"title": "Inhibition and mechanism of HDAC8 revisited",
+		"container-title": "Journal of the American Chemical Society",
+		"page": "11636-11643",
+		"volume": "136",
+		"ISSN": "0002-7863",
+		"author": [
+			{
+				"family": "Chen K.",
+				"given": "et",
+				"dropping-particle": "al"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/I9N7QW9N",
+		"type": "article-journal",
+		"title": "Prospects: histone deacetylase inhibitors",
+		"container-title": "Journal of cellular biochemistry",
+		"page": "293-304",
+		"volume": "96",
+		"ISSN": "1097-4644",
+		"author": [
+			{
+				"family": "Dokmanovic M.",
+				"given": "Marks P. A."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2005"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/I9SJICTZ",
+		"type": "article-journal",
+		"title": "Novel 3-substituted-2-oxoindoline-based N-hydroxypropenamides as Histone Deacetylase Inhibitors and Antitumor Agents",
+		"container-title": "Medicinal Chemistry",
+		"page": "725-735",
+		"volume": "11",
+		"issue": "8",
+		"source": "IngentaConnect",
+		"abstract": "Histone deacetylases (HDAC) are currently a group of validated targets for anticancer drug discovery and development. In our research program to find novel small molecules targeting these enzymes, we designed and synthesized two series of 3-hydroxyimino-2-oxoindoline- and 3- methoxyimino-2-oxoindoline-based N-hydroxypropenamides (3a-g, 6a-g). The results show that these propenamides potently inhibited HDAC2 with IC50 values in sub-micromolar range, approximately 10-fold lower than that of SAHA (also known as suberoylanilohydroxamic acid). Evaluation of cytotoxicity of these compounds in three human cancer cell lines revealed that most of the synthesized compounds were up to 5-fold more cytotoxic than SAHA. Docking studies showed that the compounds bound to HDAC2 at the binding site with higher binding affinities compared to SAHA. Our present results demonstrate that these novel 3-substituted-2-oxoindoline-based N-hydroxypropenamides are potential for further development as anticancer agents.",
+		"journalAbbreviation": "Medicinal Chemistry",
+		"author": [
+			{
+				"family": "Dung do",
+				"given": "TM"
+			},
+			{
+				"family": "Dung",
+				"given": "PT"
+			},
+			{
+				"family": "Oanh",
+				"given": "DT"
+			},
+			{
+				"family": "T. Hai",
+				"given": "Pham"
+			},
+			{
+				"family": "T. T. Huong",
+				"given": "Le"
+			},
+			{
+				"family": "D. Loi",
+				"given": "Vu"
+			},
+			{
+				"family": "Hahn",
+				"given": "Hyunggu"
+			},
+			{
+				"family": "W. Han",
+				"given": "Byung"
+			},
+			{
+				"family": "Kim",
+				"given": "Jisung"
+			},
+			{
+				"family": "Han",
+				"given": "Sang-Bae"
+			},
+			{
+				"family": "Nam",
+				"given": "Nguyen-Hai"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					12,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/IH5IVVMN",
+		"type": "thesis",
+		"title": "Tổng hợp và thử hoạt tính sinh học của một số dẫn chất acid hydroxamic hướng ức chế enzym histon deacetylase",
+		"publisher": "Đại học Dược Hà Nội",
+		"publisher-place": "Đại học Dược Hà Nội",
+		"event-place": "Đại học Dược Hà Nội",
+		"language": "vie",
+		"author": [
+			{
+				"family": "Đào Thị Kim Oanh",
+				"given": ""
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2011"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/INC45SKQ",
+		"type": "article",
+		"title": "Hydroxamic Acids: A Unique Family of Chemicals with Multiple Biological Activities. Edited by Satya P. Gupta",
+		"publisher": "Wiley Online Library",
+		"author": [
+			{
+				"family": "Bugg T",
+				"given": ""
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/INZ6Z6F9",
+		"type": "article"
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/IR2VZB7D",
+		"type": "article-journal",
+		"title": "Inside HDAC with HDAC inhibitors",
+		"container-title": "European Journal of Medicinal Chemistry",
+		"page": "2095-2116",
+		"volume": "45",
+		"issue": "6",
+		"source": "ScienceDirect",
+		"abstract": "Histone deacetylase inhibitors are a large group of diverse molecules intrinsically able to inhibit cell proliferation in various cancer cell lines. Their apoptotic effects have been linked to the modulation in the expression of several regulatory tumor suppressor genes caused by the modified status of histone acetylation, a key event in chromatin remodelling. As the initial histone deacetylase activity of HDAC has been extended to other proteins, the possible other biological mechanisms modified by HDAC inhibitor treatments are still to be clarified. The need for HDAC isoform selective inhibitors is an important issue to serve this goal. This review discusses the approaches proposed by several research groups working on the synthesis of HDAC inhibitors, based on modelling studies and the way these findings were used to obtain new HDAC inhibitors with possible isoform selectivity.",
+		"URL": "http://www.sciencedirect.com/science/article/pii/S0223523410001479",
+		"DOI": "10.1016/j.ejmech.2010.02.030",
+		"ISSN": "0223-5234",
+		"journalAbbreviation": "European Journal of Medicinal Chemistry",
+		"author": [
+			{
+				"family": "Bertrand",
+				"given": "Philippe"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010",
+					6
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2016",
+					10,
+					25
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/ITW62WHX",
+		"type": "article-journal",
+		"title": "Western Blot: Technique, Theory, and Trouble Shooting",
+		"container-title": "North American Journal of Medical Sciences",
+		"page": "429-434",
+		"volume": "4",
+		"source": "PMC",
+		"abstract": "Western blotting is an important technique used in cell and molecular biology. By using a western blot, researchers are able to identify specific proteins from a complex mixture of proteins extracted from cells. The technique uses three elements to accomplish this task: (1) separation by size, (2) transfer to a solid support, and (3) marking target protein using a proper primary and secondary antibody to visualize. This paper will attempt to explain the technique and theory behind western blot, and offer some ways to troubleshoot.",
+		"DOI": "10.4103/1947-2714.100998",
+		"ISSN": "2250-1541 1947-2714",
+		"author": [
+			{
+				"family": "Mahmood T.",
+				"given": "Yang P. C."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2012"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/ITWJC8F5",
+		"type": "article-journal",
+		"title": "Benzothiazole-containing hydroxamic acids as histone deacetylase inhibitors and antitumor agents",
+		"container-title": "Bioorganic & Medicinal Chemistry Letters",
+		"page": "7509-7512",
+		"volume": "21",
+		"issue": "24",
+		"source": "ScienceDirect",
+		"abstract": "Data from clinical studies indicate that inhibitors of Class I and Class II histone deacetylase (HDAC) enzymes show great promise for the treatment of cancer. Zolinza (SAHA, Zolinza) was recently approved by the FDA for the treatment of the cutaneous manifestations of cutaneous T-cell lymphoma. As a part of our ongoing effort to identify novel small molecules to target these important enzymes, we have prepared two series of benzothiazole-containing analogues of SAHA. It was found that several compounds with 6C-bridge linking benzothiazole moiety and hydroxamic functional groups showed good inhibition against HDAC3 and 4 at as low as 1 μg/ml and exhibited potent cytotoxicity against five cancer cell lines with average IC50 values of as low as 0.81 μg/ml, almost equipotent to SAHA.",
+		"URL": "http://www.sciencedirect.com/science/article/pii/S0960894X11010730",
+		"DOI": "10.1016/j.bmcl.2011.07.124",
+		"ISSN": "0960-894X",
+		"journalAbbreviation": "Bioorganic & Medicinal Chemistry Letters",
+		"author": [
+			{
+				"family": "Oanh",
+				"given": "Dao Thi Kim"
+			},
+			{
+				"family": "Hai",
+				"given": "Hoang Van"
+			},
+			{
+				"family": "Park",
+				"given": "Sang Ho"
+			},
+			{
+				"family": "Kim",
+				"given": "Hyun-Jung"
+			},
+			{
+				"family": "Han",
+				"given": "Byung-Woo"
+			},
+			{
+				"family": "Kim",
+				"given": "Hyung-Sook"
+			},
+			{
+				"family": "Hong",
+				"given": "Jin-Tae"
+			},
+			{
+				"family": "Han",
+				"given": "Sang-Bae"
+			},
+			{
+				"family": "Hue",
+				"given": "Van Thi My"
+			},
+			{
+				"family": "Nam",
+				"given": "Nguyen-Hai"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2011",
+					12,
+					15
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2016",
+					10,
+					23
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/IWKX3UZC",
+		"type": "article-journal",
+		"title": "Histone deacetylases and cancer: causes and therapies",
+		"container-title": "Nat Rev Cancer",
+		"page": "194-202",
+		"volume": "1",
+		"ISSN": "1474-175X",
+		"author": [
+			{
+				"family": "Marks P. A.",
+				"given": "et",
+				"dropping-particle": "al"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2001"
+				]
+			],
+			"season": "print"
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/IXG2CNTT",
+		"type": "article-journal",
+		"title": "Crystal structure of a eukaryotic zinc-dependent histone deacetylase, human HDAC8, complexed with a hydroxamic acid inhibitor",
+		"container-title": "Proceedings of the National Academy of Sciences of the United States of America",
+		"page": "15064-15069",
+		"volume": "101",
+		"issue": "42",
+		"source": "www.pnas.org",
+		"abstract": "Histone deacetylases (HDACs) are a family of enzymes involved in the regulation of gene expression, DNA repair, and stress response. These processes often are altered in tumors, and HDAC inhibitors have had pronounced antitumor activity with promising results in clinical trials. Here, we report the crystal structure of human HDAC8 in complex with a hydroxamic acid inhibitor. Such a structure of a eukaryotic zinc-dependent HDAC has not be described previously. Similar to bacterial HDAC-like protein, HDAC8 folds in a single α/β domain. The inhibitor and the zinc-binding sites are similar in both proteins. However, significant differences are observed in the length and structure of the loops surrounding the active site, including the presence of two potassium ions in HDAC8 structure, one of which interacts with key catalytic residues. CD data suggest a direct role of potassium in the fold stabilization of HDAC8. Knockdown of HDAC8 by RNA interference inhibits growth of human lung, colon, and cervical cancer cell lines, highlighting the importance of this HDAC subtype for tumor cell proliferation. Our findings open the way for the design and development of selective inhibitors of HDAC8 as possible antitumor agents.",
+		"URL": "http://www.pnas.org/content/101/42/15064",
+		"DOI": "10.1073/pnas.0404603101",
+		"ISSN": "0027-8424, 1091-6490",
+		"note": "PMID: 15477595",
+		"journalAbbreviation": "PNAS",
+		"language": "en",
+		"author": [
+			{
+				"family": "Vannini",
+				"given": "Alessandro"
+			},
+			{
+				"family": "Volpari",
+				"given": "Cinzia"
+			},
+			{
+				"family": "Filocamo",
+				"given": "Gessica"
+			},
+			{
+				"family": "Casavola",
+				"given": "Elena Caroli"
+			},
+			{
+				"family": "Brunetti",
+				"given": "Mirko"
+			},
+			{
+				"family": "Renzoni",
+				"given": "Debora"
+			},
+			{
+				"family": "Chakravarty",
+				"given": "Prasun"
+			},
+			{
+				"family": "Paolini",
+				"given": "Chantal"
+			},
+			{
+				"family": "Francesco",
+				"given": "Raffaele De"
+			},
+			{
+				"family": "Gallinari",
+				"given": "Paola"
+			},
+			{
+				"family": "Steinkühler",
+				"given": "Christian"
+			},
+			{
+				"family": "Marco",
+				"given": "Stefania Di"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2004",
+					10,
+					19
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2016",
+					10,
+					27
+				]
+			]
+		},
+		"PMID": "15477595"
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/IXH47T8U",
+		"type": "webpage",
+		"title": "Proceedings of the National Academy of Sciences",
+		"container-title": "Proceedings of the National Academy of Sciences",
+		"abstract": "National Academy of Sciences",
+		"URL": "http://www.pnas.org",
+		"note": "PMID: 15477595",
+		"language": "en",
+		"author": [
+			{
+				"family": "Vannini",
+				"given": "Alessandro"
+			},
+			{
+				"family": "Volpari",
+				"given": "Cinzia"
+			},
+			{
+				"family": "Filocamo",
+				"given": "Gessica"
+			},
+			{
+				"family": "Casavola",
+				"given": "Elena Caroli"
+			},
+			{
+				"family": "Brunetti",
+				"given": "Mirko"
+			},
+			{
+				"family": "Renzoni",
+				"given": "Debora"
+			},
+			{
+				"family": "Chakravarty",
+				"given": "Prasun"
+			},
+			{
+				"family": "Paolini",
+				"given": "Chantal"
+			},
+			{
+				"family": "Francesco",
+				"given": "Raffaele De"
+			},
+			{
+				"family": "Gallinari",
+				"given": "Paola"
+			},
+			{
+				"family": "Steinkühler",
+				"given": "Christian"
+			},
+			{
+				"family": "Marco",
+				"given": "Stefania Di"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2016",
+					10,
+					27
+				]
+			]
+		},
+		"PMID": "15477595"
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/J2D7S66Z",
+		"type": "article-journal",
+		"title": "Histone deacetylases and cancer",
+		"container-title": "Oncogene",
+		"page": "5420-5432",
+		"volume": "26",
+		"issue": "37",
+		"source": "www.nature.com",
+		"abstract": "Histone deacetylases (HDACs) regulate the expression and activity of numerous proteins involved in both cancer initiation and cancer progression. By removal of acetyl groups from histones, HDACs create a non-permissive chromatin conformation that prevents the transcription of genes that encode proteins involved in tumorigenesis. In addition to histones, HDACs bind to and deacetylate a variety of other protein targets including transcription factors and other abundant cellular proteins implicated in control of cell growth, differentiation and apoptosis. This review provides a comprehensive examination of the transcriptional and post-translational mechanisms by which HDACs alter the expression and function of cancer-associated proteins and examines the general impact of HDAC activity in cancer.",
+		"URL": "http://www.nature.com/onc/journal/v26/n37/abs/1210610a.html",
+		"DOI": "10.1038/sj.onc.1210610",
+		"ISSN": "0950-9232",
+		"journalAbbreviation": "Oncogene",
+		"language": "en",
+		"author": [
+			{
+				"family": "Glozak",
+				"given": "M. A."
+			},
+			{
+				"family": "Seto",
+				"given": "E."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2007"
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2016",
+					10,
+					27
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/J4ZJHHSJ",
+		"type": "article-journal",
+		"title": "2,5-Disubstituted-1,3,4-oxadiazoles/thiadiazole as surface recognition moiety: Design and synthesis of novel hydroxamic acid based histone deacetylase inhibitors",
+		"container-title": "Bioorganic & medicinal chemistry letters",
+		"page": "5735-5738",
+		"volume": "21",
+		"DOI": "http://dx.doi.org/10.1016/j.bmcl.2011.08.022",
+		"ISSN": "0960-894X",
+		"author": [
+			{
+				"family": "Rajak H.",
+				"given": "et",
+				"dropping-particle": "al"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2011"
+				]
+			],
+			"season": "1"
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/JIJNG7DK",
+		"type": "article-journal",
+		"title": "ω-Alkoxy analogues of SAHA (vorinostat) as inhibitors of HDAC: A study of chain-length and stereochemical dependence",
+		"container-title": "Bioorganic & Medicinal Chemistry Letters",
+		"page": "6261-6265",
+		"volume": "17",
+		"issue": "22",
+		"source": "ScienceDirect",
+		"abstract": "A series of ω-alkoxy ethers were prepared with variation of the length of the aliphatic chain of suberoylanilide hydroxamic acid (SAHA, vorinostat). Eight carbon long chain analogues showed the best activity, among which several substituted benzyl ether derivatives exhibited inhibitory activity on HDAC comparable to SAHA, and antiproliferative activity on three human cell lines (NB4, H460, and HCT-116) better than SAHA. However, no significant difference in antiproliferative activity was observed between two enantiomers bearing the benzyl ether moiety.",
+		"URL": "http://www.sciencedirect.com/science/article/pii/S0960894X07010463",
+		"DOI": "10.1016/j.bmcl.2007.09.014",
+		"ISSN": "0960-894X",
+		"shortTitle": "ω-Alkoxy analogues of SAHA (vorinostat) as inhibitors of HDAC",
+		"journalAbbreviation": "Bioorganic & Medicinal Chemistry Letters",
+		"author": [
+			{
+				"family": "Hanessian",
+				"given": "Stephen"
+			},
+			{
+				"family": "Auzzas",
+				"given": "Luciana"
+			},
+			{
+				"family": "Giannini",
+				"given": "Giuseppe"
+			},
+			{
+				"family": "Marzi",
+				"given": "Mauro"
+			},
+			{
+				"family": "Cabri",
+				"given": "Walter"
+			},
+			{
+				"family": "Barbarino",
+				"given": "Marcella"
+			},
+			{
+				"family": "Vesci",
+				"given": "Loredana"
+			},
+			{
+				"family": "Pisano",
+				"given": "Claudio"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2007",
+					11,
+					15
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2017",
+					3,
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/JPQKDZ7D",
+		"type": "article-journal",
+		"title": "Cytotoxic and anticancer activities of isatin and its derivatives: a comprehensive review from 2000-2008",
+		"container-title": "Anti-Cancer Agents in Medicinal Chemistry (Formerly Current Medicinal Chemistry-Anti-Cancer Agents)",
+		"page": "397-414",
+		"volume": "9",
+		"ISSN": "1871-5206",
+		"author": [
+			{
+				"family": "Vine K. L.",
+				"given": "et",
+				"dropping-particle": "al"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2009"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/JXCS24NZ",
+		"type": "article-journal",
+		"title": "HDAC family: What are the cancer relevant targets?",
+		"container-title": "Cancer Letters",
+		"page": "8-21",
+		"volume": "277",
+		"issue": "1",
+		"source": "ScienceDirect",
+		"abstract": "Histone deacetylases comprise a family of 18 genes, which are grouped into classes I–IV based on their homology to their respective yeast orthologues. Classes I, II, and IV consist of 11 family members, which are referred to as “classical” HDACs, whereas the 7 class III members are called sirtuins. Classical HDACs are a promising novel class of anti-cancer drug targets. First HDAC inhibitors have been evaluated in clinical trials and show activity against several cancer diseases. However, these compounds act unselectively against several or all 11 HDAC family members. As a consequence, clinical phase I trials document a wide range of side effects. Therefore, the current challenge in the field is to define the cancer relevant HDAC family member(s) in a given tumor type and to design selective inhibitors, which target cancer cells but leave out normal cells. Knockout of single HDAC family members in mice produces a variety of phenotypes ranging from early embryonic death to viable animals with only discrete alterations, indicating that potential side effects of HDAC inhibitors depend on the selectivity of the compounds. Recently, several studies have shown that certain HDAC family members are aberrantly expressed in several tumors and have non-redundant function in controlling hallmarks of cancer cells. The aim of this review is to discuss individual HDAC family members as drug targets in cancer taking into consideration their function under physiological conditions and their oncogenic potential in malignant disease.",
+		"URL": "http://www.sciencedirect.com/science/article/pii/S0304383508006496",
+		"DOI": "10.1016/j.canlet.2008.08.016",
+		"ISSN": "0304-3835",
+		"shortTitle": "HDAC family",
+		"journalAbbreviation": "Cancer Letters",
+		"author": [
+			{
+				"family": "Witt",
+				"given": "Olaf"
+			},
+			{
+				"family": "Deubzer",
+				"given": "Hedwig E."
+			},
+			{
+				"family": "Milde",
+				"given": "Till"
+			},
+			{
+				"family": "Oehme",
+				"given": "Ina"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2009",
+					5,
+					8
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2016",
+					10,
+					17
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/KA4C9G4R",
+		"type": "book",
+		"title": "The chemistry of hydroxylamines, oximes and hydroxamic acids",
+		"publisher": "John Wiley & Sons",
+		"volume": "1",
+		"ISBN": "0-470-74195-3",
+		"author": [
+			{
+				"family": "Rappoport Z.",
+				"given": "Liebman J. F."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2008"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/KI5KGJ4B",
+		"type": "article-journal",
+		"title": "Histone modifications and cancer",
+		"container-title": "Adv Genet",
+		"page": "57-85",
+		"volume": "70",
+		"author": [
+			{
+				"family": "Sawan C.",
+				"given": "Herceg Z."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/KN9FAE67",
+		"type": "article-journal",
+		"title": "Design, synthesis, and evaluation of biphenyl-4-yl-acrylohydroxamic acid derivatives as histone deacetylase (HDAC) inhibitors",
+		"container-title": "European Journal of Medicinal Chemistry",
+		"page": "1900-1912",
+		"volume": "44",
+		"DOI": "http://dx.doi.org/10.1016/j.ejmech.2008.11.005",
+		"ISSN": "0223-5234",
+		"author": [
+			{
+				"family": "Dallavalle S.",
+				"given": "et",
+				"dropping-particle": "al"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2009"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/KU5QHPN6",
+		"type": "article-journal",
+		"title": "1,3-Dipolar Cycloadditions. Past and Future",
+		"container-title": "Angewandte Chemie International Edition in English",
+		"page": "565-598",
+		"volume": "2",
+		"issue": "10",
+		"source": "Wiley Online Library",
+		"abstract": "In contrast to the very large number of special methods applicable to syntheses in the heterocyclic series, relatively few general methods are available. The 1,3-dipolar addition offers a remarkably wide range of utility in the synthesis of five-membered heterocycles. Here the “1,3-dipole”, which can only be represented by zwitterionic octet resonance structures, combines in a cycloaddition with a multiple bond system – the “dipolarophile” – to form an uncharged five-membered ring. Although numerous individual examples of this reaction were known, some even back in the nineteenth century, fruitful development of this synthetic principle has been achieved only in recent years.",
+		"URL": "http://onlinelibrary.wiley.com/doi/10.1002/anie.196305651/abstract",
+		"DOI": "10.1002/anie.196305651",
+		"ISSN": "1521-3773",
+		"journalAbbreviation": "Angew. Chem. Int. Ed. Engl.",
+		"language": "en",
+		"author": [
+			{
+				"family": "Huisgen",
+				"given": "Rolf"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1963",
+					10,
+					1
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2016",
+					10,
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/KZ6ZGCMA",
+		"type": "article-journal",
+		"title": "Benzothiazole-containing hydroxamic acids as histone deacetylase inhibitors and antitumor agents",
+		"container-title": "Bioorganic & medicinal chemistry letters",
+		"page": "7509-7512",
+		"volume": "21",
+		"ISSN": "0960-894X",
+		"author": [
+			{
+				"family": "Oanh D. T.K",
+				"given": "et",
+				"dropping-particle": "al"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2011"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/KZ7UK93S",
+		"type": "article-journal",
+		"title": "Histone Deacetylase Inhibitors: From Bench to Clinic",
+		"container-title": "Journal of Medicinal Chemistry",
+		"page": "1505-1529",
+		"volume": "51",
+		"DOI": "10.1021/jm7011408",
+		"ISSN": "0022-2623",
+		"author": [
+			{
+				"family": "Paris M.",
+				"given": "et",
+				"dropping-particle": "al"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2008",
+					3,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/M8XGDNKA",
+		"type": "article-journal",
+		"title": "QSAR study of isatin analogues as in vitro anti-cancer agents",
+		"container-title": "European Journal of Medicinal Chemistry",
+		"page": "1113-1118",
+		"volume": "45",
+		"ISSN": "0223-5234",
+		"author": [
+			{
+				"family": "Sabet R.",
+				"given": "et",
+				"dropping-particle": "al"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/M9DZ6M44",
+		"type": "article-journal",
+		"title": "Exploration of the internal cavity of histone deacetylase (HDAC) with selective HDAC1/HDAC2 inhibitors (SHI-1: 2)",
+		"container-title": "Bioorganic & medicinal chemistry letters",
+		"page": "973-978",
+		"volume": "18",
+		"ISSN": "0960-894X",
+		"author": [
+			{
+				"family": "Methot J. L.",
+				"given": "et",
+				"dropping-particle": "al"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2008"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/MGWAKQW5",
+		"type": "article-journal",
+		"title": "Histone deacetylase inhibitors",
+		"container-title": "European Journal of Medicinal Chemistry",
+		"page": "1-13",
+		"volume": "40",
+		"DOI": "http://dx.doi.org/10.1016/j.ejmech.2004.10.001",
+		"ISSN": "0223-5234",
+		"author": [
+			{
+				"family": "Monneret C",
+				"given": ""
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2005"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/N3TJNXGW",
+		"type": "article-journal",
+		"title": "Class II-selective histone deacetylase inhibitors. Part 2: alignment-independent GRIND 3-D QSAR, homology and docking studies",
+		"container-title": "European Journal of Medicinal Chemistry",
+		"page": "621-632",
+		"volume": "43",
+		"ISSN": "0223-5234",
+		"author": [
+			{
+				"family": "Ragno R.",
+				"given": "et",
+				"dropping-particle": "al"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2008"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/N4ASFHSJ",
+		"type": "article-journal",
+		"title": "Structural basis for the design and synthesis of selective HDAC inhibitors",
+		"container-title": "Bioorganic & Medicinal Chemistry",
+		"page": "3795-3807",
+		"volume": "21",
+		"issue": "13",
+		"source": "ScienceDirect",
+		"abstract": "Histone Deacetylases are considered promising targets for cancer epigenetic therapy, and small molecules able to modulate their biological function have recently gained an increasing interest as potential anticancer agents. In spite of their potential application in cancer therapy, most HDAC inhibitors unselectively bind the several HDAC isoforms, giving rise to different side-effects. In this context, we have traced out the structural elements responsible of selective binding for the therapeutically relevant different HDAC isoforms. The structural analysis has been carried out by molecular modeling, docking in the binding pockets of HDAC1–4 and HDAC6–8, 36 inhibitors presenting a well defined selectivity for the different isoforms. As quick proof of evidence, we have designed, synthesized and experimentally tested three selective ligands. The experimental data suggest that the obtained structural guidelines can be useful tools for the rational design of new potent inhibitors against selected HDAC isoforms.",
+		"URL": "http://www.sciencedirect.com/science/article/pii/S0968089613003623",
+		"DOI": "10.1016/j.bmc.2013.04.036",
+		"ISSN": "0968-0896",
+		"journalAbbreviation": "Bioorganic & Medicinal Chemistry",
+		"author": [
+			{
+				"family": "Di Micco",
+				"given": "Simone"
+			},
+			{
+				"family": "Chini",
+				"given": "Maria Giovanna"
+			},
+			{
+				"family": "Terracciano",
+				"given": "Stefania"
+			},
+			{
+				"family": "Bruno",
+				"given": "Ines"
+			},
+			{
+				"family": "Riccio",
+				"given": "Raffaele"
+			},
+			{
+				"family": "Bifulco",
+				"given": "Giuseppe"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013",
+					7,
+					1
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2016",
+					11,
+					13
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/N7WWVISP",
+		"type": "article-journal",
+		"title": "Quantitative structure-activity relationship study of histone deacetylase inhibitors",
+		"container-title": "Current Medicinal Chemistry-Anti-Cancer Agents",
+		"page": "273-299",
+		"volume": "4",
+		"ISSN": "1568-0118",
+		"author": [
+			{
+				"family": "Xie A.",
+				"given": "et",
+				"dropping-particle": "al"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2004"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/NA8G6HNI",
+		"type": "article-journal",
+		"title": "Synthesis and structure–activity relationship of histone deacetylase (HDAC) inhibitors with triazole-linked cap group",
+		"container-title": "Bioorganic & Medicinal Chemistry",
+		"page": "4839-4853",
+		"volume": "16",
+		"issue": "9",
+		"source": "ScienceDirect",
+		"abstract": "Histone deacetylase (HDAC) inhibition is a recent, clinically validated therapeutic strategy for cancer treatment. Small molecule HDAC inhibitors identified so far fall in to three distinct structural motifs: the zinc-binding group (ZBG), a hydrophobic linker, and a recognition cap group. Here we report the suitability of a 1,2,3-triazole ring as a surface recognition cap group-linking moiety in suberoylanilide hydroxamic acid-like (SAHA-like) HDAC inhibitors. Using “click” chemistry (Huisgen cycloaddition reaction), several triazole-linked SAHA-like hydroxamates were synthesized. Structure–activity relationship revealed that the position of the triazole moiety as well as the identity of the cap group markedly affected the in vitro HDAC inhibition and cell growth inhibitory activities of this class of compounds.",
+		"URL": "http://www.sciencedirect.com/science/article/pii/S0968089608002757",
+		"DOI": "10.1016/j.bmc.2008.03.050",
+		"ISSN": "0968-0896",
+		"journalAbbreviation": "Bioorganic & Medicinal Chemistry",
+		"author": [
+			{
+				"family": "Chen",
+				"given": "Po C."
+			},
+			{
+				"family": "Patil",
+				"given": "Vishal"
+			},
+			{
+				"family": "Guerrant",
+				"given": "William"
+			},
+			{
+				"family": "Green",
+				"given": "Patience"
+			},
+			{
+				"family": "Oyelere",
+				"given": "Adegboyega K."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2008",
+					5,
+					1
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2016",
+					10,
+					23
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/NCK6PZF5",
+		"type": "book",
+		"title": "Textbook of drug design and discovery",
+		"publisher": "CRC Press",
+		"ISBN": "0-415-28288-8",
+		"author": [
+			{
+				"family": "Liljefors T.",
+				"given": "Krogsgaard-Larsen P."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2002"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/NEET4AAU",
+		"type": "book",
+		"title": "Textbook of drug design and discovery",
+		"publisher": "CRC Press",
+		"ISBN": "0-415-28288-8",
+		"author": [
+			{
+				"family": "Liljefors T.",
+				"given": "Krogsgaard-Larsen P."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2002"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/NMWPX7QS",
+		"type": "article-journal",
+		"title": "Histone deacetylase inhibitors in cancer therapy",
+		"container-title": "Expert Opinion on Investigational Drugs",
+		"page": "659-678",
+		"volume": "16",
+		"issue": "5",
+		"source": "Taylor and Francis+NEJM",
+		"abstract": "Histones are a family of nuclear proteins that interact with DNA, resulting in DNA being wrapped around a core of histone octamer within the nucleosome. Acetylation/deacetylation of histones is an important mechanism that regulates gene expression and chromatin remodeling. Histone deacetylase (HDAC) inhibitors are a new class of chemotherapeutic drugs that regulate gene expression by enhancing the acetylation of histones, and thus inducing chromatin relaxation and altering gene expression. HDAC inhibitors have been shown in preclinical studies to have potent anticancer activities. A range of structurally diverse HDAC inhibitors have been purified as natural products or synthetically produced. Due to the promising preclinical activity of these agents, numerous clinical trials have been initiated. In this review, the results of published data of single agent and combination trials of these drugs are reviewed, with a focus on dosing, scheduling and toxicity. Although still early in drug development, there is a picture that is starting to develop as to the common toxicities and which tumors seem to be the most susceptible to this class of drugs.",
+		"URL": "http://dx.doi.org/10.1517/13543784.16.5.659",
+		"DOI": "10.1517/13543784.16.5.659",
+		"ISSN": "1354-3784",
+		"note": "PMID: 17461739",
+		"author": [
+			{
+				"family": "Rasheed",
+				"given": "Walid K."
+			},
+			{
+				"family": "Johnstone",
+				"given": "Ricky W."
+			},
+			{
+				"family": "Prince",
+				"given": "H. Miles"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2007",
+					5,
+					1
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2016",
+					11,
+					7
+				]
+			]
+		},
+		"PMID": "17461739"
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/NQNP594A",
+		"type": "article-journal",
+		"title": "Copper-catalyzed azide–alkyne cycloaddition (CuAAC) and beyond: new reactivity of copper(I) acetylides",
+		"page": "1302-1315",
+		"volume": "39",
+		"issue": "4",
+		"source": "pubs.rsc.org",
+		"abstract": "Copper-catalyzed azide–alkyne cycloaddition (CuAAC) is a widely utilized, reliable, and straightforward way for making covalent connections between building blocks containing various functional groups. It has been used in organic synthesis, medicinal chemistry, surface and polymer chemistry, and bioconjugation applications. Despite the apparent simplicity of the reaction, its mechanism involves multiple reversible steps involving coordination complexes of copper(I) acetylides of varying nuclearity. Understanding and controlling these equilibria is of paramount importance for channeling the reaction into the productive catalytic cycle. This tutorial review examines the history of the development of the CuAAC reaction, its key mechanistic aspects, and highlights the features that make it useful to practitioners in different fields of chemical science.",
+		"URL": "http://pubs.rsc.org/en/content/articlelanding/2010/cs/b904091a",
+		"DOI": "10.1039/B904091A",
+		"ISSN": "1460-4744",
+		"shortTitle": "Copper-catalyzed azide–alkyne cycloaddition (CuAAC) and beyond",
+		"journalAbbreviation": "Chem. Soc. Rev.",
+		"language": "en",
+		"author": [
+			{
+				"family": "Hein",
+				"given": "Jason E."
+			},
+			{
+				"family": "Fokin",
+				"given": "Valery V."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010",
+					3,
+					22
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2017",
+					3,
+					20
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/NUPNVKPZ",
+		"type": "article-journal",
+		"title": "Potential use of histone deacetylase inhibitors in cancer therapy",
+		"container-title": "Contemporary Oncology",
+		"page": "436-440",
+		"volume": "19",
+		"issue": "6",
+		"source": "PubMed Central",
+		"abstract": "Epigenetics is a branch of science that focuses on mechanisms related to control and modification of expression of genetic material without any changes to its sequences. Such mechanisms include post-translational modifications of histones. It is widely known that carcinogenesis is related to hypoacetylation of genes that influence apoptosis, the cell cycle, cell signaling, the immunologic response, angiogenesis and occurrence of metastasis. Currently conducted research focuses on several strategies related to epigenetic therapy. One such strategy is based on the use of histone deacetylase inhibitors. This paper presents mechanisms through which these compounds work and a summary of their characteristics. It also includes a review of clinical tests related to histone deacetylase inhibitors, as well as their relationship with other chemotherapeutic methods. A better understanding of the involved mechanisms will provide a rational basis to improve the therapeutic outcome of available antitumor agents.",
+		"URL": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4731444/",
+		"DOI": "10.5114/wo.2015.51824",
+		"ISSN": "1428-2526",
+		"note": "PMID: 26843838\nPMCID: PMC4731444",
+		"journalAbbreviation": "Contemp Oncol (Pozn)",
+		"author": [
+			{
+				"family": "Gołąbek",
+				"given": "Karolina"
+			},
+			{
+				"family": "Strzelczyk",
+				"given": "Joanna K."
+			},
+			{
+				"family": "Wiczkowski",
+				"given": "Andrzej"
+			},
+			{
+				"family": "Michalski",
+				"given": "Marek"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2016",
+					11,
+					13
+				]
+			]
+		},
+		"PMID": "26843838",
+		"PMCID": "PMC4731444"
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/NWZB2667",
+		"type": "webpage",
+		"title": "Proceedings of the National Academy of Sciences",
+		"container-title": "Proceedings of the National Academy of Sciences",
+		"abstract": "National Academy of Sciences",
+		"URL": "http://www.pnas.org",
+		"note": "PMID: 15477595",
+		"language": "en",
+		"author": [
+			{
+				"family": "Vannini",
+				"given": "Alessandro"
+			},
+			{
+				"family": "Volpari",
+				"given": "Cinzia"
+			},
+			{
+				"family": "Filocamo",
+				"given": "Gessica"
+			},
+			{
+				"family": "Casavola",
+				"given": "Elena Caroli"
+			},
+			{
+				"family": "Brunetti",
+				"given": "Mirko"
+			},
+			{
+				"family": "Renzoni",
+				"given": "Debora"
+			},
+			{
+				"family": "Chakravarty",
+				"given": "Prasun"
+			},
+			{
+				"family": "Paolini",
+				"given": "Chantal"
+			},
+			{
+				"family": "Francesco",
+				"given": "Raffaele De"
+			},
+			{
+				"family": "Gallinari",
+				"given": "Paola"
+			},
+			{
+				"family": "Steinkühler",
+				"given": "Christian"
+			},
+			{
+				"family": "Marco",
+				"given": "Stefania Di"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2016",
+					10,
+					27
+				]
+			]
+		},
+		"PMID": "15477595"
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/P4SAUZGJ",
+		"type": "article-journal",
+		"title": "Antioxidant determinations by the use of a stable free radical",
+		"author": [
+			{
+				"family": "Blois M. S",
+				"given": ""
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1958"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/PCD5M98G",
+		"type": "article-journal",
+		"title": "Histone Deacetylase Inhibitors: From Bench to Clinic",
+		"container-title": "Journal of Medicinal Chemistry",
+		"page": "1505-1529",
+		"volume": "51",
+		"DOI": "10.1021/jm7011408",
+		"ISSN": "0022-2623",
+		"author": [
+			{
+				"family": "Paris M.",
+				"given": "et",
+				"dropping-particle": "al"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2008",
+					3,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/PDMDV4ZQ",
+		"type": "article-journal",
+		"title": "Histone deacetylases (HDACs): characterization of the classical HDAC family",
+		"container-title": "Biochem. J",
+		"page": "737-749",
+		"volume": "370",
+		"author": [
+			{
+				"family": "De Ruijter A.",
+				"given": "et",
+				"dropping-particle": "al"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2003"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/PE9AZ7ZP",
+		"type": "article-journal",
+		"title": "3D-QSAR of histone deacetylase inhibitors as anticancer agents by genetic function approximation",
+		"container-title": "Indian Journal of Biochemistry and Bibophysics",
+		"page": "360",
+		"volume": "43",
+		"ISSN": "0301-1208",
+		"author": [
+			{
+				"family": "Wagh N.",
+				"given": "et",
+				"dropping-particle": "al"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2006"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/PFB4AGDE",
+		"type": "article-journal",
+		"title": "Histone deacetylase inhibitors in the treatment of cancer: overview and perspectives",
+		"container-title": "Future medicinal chemistry",
+		"page": "1439-1460",
+		"volume": "4",
+		"ISSN": "1756-8919",
+		"author": [
+			{
+				"family": "Giannini G.",
+				"given": "et",
+				"dropping-particle": "al"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2012"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/PKNM4JH7",
+		"type": "article",
+		"title": "Hydroxamic Acids: A Unique Family of Chemicals with Multiple Biological Activities. Edited by Satya P. Gupta",
+		"publisher": "Wiley Online Library",
+		"author": [
+			{
+				"family": "Bugg T",
+				"given": ""
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/PUHSH36X",
+		"type": "article-journal",
+		"title": "HDAC family: What are the cancer relevant targets?",
+		"container-title": "Cancer letters",
+		"page": "8-21",
+		"volume": "277",
+		"ISSN": "0304-3835",
+		"author": [
+			{
+				"family": "Witt O.",
+				"given": "et",
+				"dropping-particle": "al"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2009"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/PXGXZSC4",
+		"type": "thesis",
+		"title": "Tổng hợp và thử hoạt tính sinh học của một số dẫn chất acid hydroxamic hướng ức chế enzym histon deacetylase",
+		"publisher": "Đại học Dược Hà Nội",
+		"publisher-place": "Đại học Dược Hà Nội",
+		"event-place": "Đại học Dược Hà Nội",
+		"language": "vie",
+		"author": [
+			{
+				"family": "Đào Thị Kim Oanh",
+				"given": ""
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2011"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/Q4VG7RRP",
+		"type": "article-journal",
+		"title": "Novel 2-oxoindoline-based hydroxamic acids: synthesis, cytotoxicity, and inhibition of histone deacetylation",
+		"container-title": "Tetrahedron Letters",
+		"page": "6425-6429",
+		"volume": "56",
+		"ISSN": "0040-4039",
+		"author": [
+			{
+				"family": "Huong T. T.L.",
+				"given": "et",
+				"dropping-particle": "al"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/Q6JS3DBE",
+		"type": "article-journal",
+		"title": "Histone deacetylases and cancer",
+		"container-title": "Oncogene",
+		"page": "5420-5432",
+		"volume": "26",
+		"issue": "37",
+		"source": "www.nature.com",
+		"abstract": "Histone deacetylases (HDACs) regulate the expression and activity of numerous proteins involved in both cancer initiation and cancer progression. By removal of acetyl groups from histones, HDACs create a non-permissive chromatin conformation that prevents the transcription of genes that encode proteins involved in tumorigenesis. In addition to histones, HDACs bind to and deacetylate a variety of other protein targets including transcription factors and other abundant cellular proteins implicated in control of cell growth, differentiation and apoptosis. This review provides a comprehensive examination of the transcriptional and post-translational mechanisms by which HDACs alter the expression and function of cancer-associated proteins and examines the general impact of HDAC activity in cancer.",
+		"URL": "http://www.nature.com/onc/journal/v26/n37/abs/1210610a.html",
+		"DOI": "10.1038/sj.onc.1210610",
+		"ISSN": "0950-9232",
+		"journalAbbreviation": "Oncogene",
+		"language": "en",
+		"author": [
+			{
+				"family": "Glozak",
+				"given": "M. A."
+			},
+			{
+				"family": "Seto",
+				"given": "E."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2007"
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2016",
+					10,
+					27
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/QGH4FSEB",
+		"type": "article-journal",
+		"title": "Click chemistry: diverse chemical function from a few good reactions",
+		"container-title": "Angewandte Chemie International Edition",
+		"page": "2004-2021",
+		"volume": "40",
+		"ISSN": "1521-3773",
+		"author": [
+			{
+				"family": "Kolb H. C.",
+				"given": "Finn M. G."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2001"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/QIKBHZ8R",
+		"type": "article-journal",
+		"title": "Benzothiazole-containing hydroxamic acids as histone deacetylase inhibitors and antitumor agents",
+		"container-title": "Bioorganic & medicinal chemistry letters",
+		"page": "7509-7512",
+		"volume": "21",
+		"ISSN": "0960-894X",
+		"author": [
+			{
+				"family": "Oanh D. T.K",
+				"given": "et",
+				"dropping-particle": "al"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2011"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/QQWDMHEJ",
+		"type": "article-journal",
+		"title": "HDAC family: What are the cancer relevant targets?",
+		"container-title": "Cancer letters",
+		"page": "8-21",
+		"volume": "277",
+		"ISSN": "0304-3835",
+		"author": [
+			{
+				"family": "Witt O.",
+				"given": "et",
+				"dropping-particle": "al"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2009"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/QSKAVP56",
+		"type": "article-journal",
+		"title": "Drug Insight: histone deacetylase inhibitors[mdash]development of the new targeted anticancer agent suberoylanilide hydroxamic acid",
+		"container-title": "Nat Clin Prac Oncol",
+		"page": "150-157",
+		"volume": "2",
+		"ISSN": "1743-4254",
+		"author": [
+			{
+				"family": "Kelly W. K.",
+				"given": "Marks P. A."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2005"
+				]
+			],
+			"season": "print"
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/R5INPA8S",
+		"type": "article-journal",
+		"title": "HDAC family: What are the cancer relevant targets?",
+		"container-title": "Cancer Letters",
+		"page": "8-21",
+		"volume": "277",
+		"issue": "1",
+		"source": "ScienceDirect",
+		"abstract": "Histone deacetylases comprise a family of 18 genes, which are grouped into classes I–IV based on their homology to their respective yeast orthologues. Classes I, II, and IV consist of 11 family members, which are referred to as “classical” HDACs, whereas the 7 class III members are called sirtuins. Classical HDACs are a promising novel class of anti-cancer drug targets. First HDAC inhibitors have been evaluated in clinical trials and show activity against several cancer diseases. However, these compounds act unselectively against several or all 11 HDAC family members. As a consequence, clinical phase I trials document a wide range of side effects. Therefore, the current challenge in the field is to define the cancer relevant HDAC family member(s) in a given tumor type and to design selective inhibitors, which target cancer cells but leave out normal cells. Knockout of single HDAC family members in mice produces a variety of phenotypes ranging from early embryonic death to viable animals with only discrete alterations, indicating that potential side effects of HDAC inhibitors depend on the selectivity of the compounds. Recently, several studies have shown that certain HDAC family members are aberrantly expressed in several tumors and have non-redundant function in controlling hallmarks of cancer cells. The aim of this review is to discuss individual HDAC family members as drug targets in cancer taking into consideration their function under physiological conditions and their oncogenic potential in malignant disease.",
+		"URL": "http://www.sciencedirect.com/science/article/pii/S0304383508006496",
+		"DOI": "10.1016/j.canlet.2008.08.016",
+		"ISSN": "0304-3835",
+		"shortTitle": "HDAC family",
+		"journalAbbreviation": "Cancer Letters",
+		"author": [
+			{
+				"family": "Witt",
+				"given": "Olaf"
+			},
+			{
+				"family": "Deubzer",
+				"given": "Hedwig E."
+			},
+			{
+				"family": "Milde",
+				"given": "Till"
+			},
+			{
+				"family": "Oehme",
+				"given": "Ina"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2009",
+					5,
+					8
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2016",
+					10,
+					17
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/R8PS4VQ3",
+		"type": "article-journal",
+		"title": "Histone deacetylase inhibitors and the promise of epigenetic (and more) treatments for cancer",
+		"container-title": "Nat Rev Cancer",
+		"page": "38-51",
+		"volume": "6",
+		"DOI": "http://www.nature.com/nrc/journal/v6/n1/suppinfo/nrc1779_S1.html",
+		"ISSN": "1474-175X",
+		"author": [
+			{
+				"family": "Minucci S.",
+				"given": "Pelicci P. G."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2006"
+				]
+			],
+			"season": "print"
+		}
+	}
+	{
+		"id": "http://zotero.org/users/3281719/items/RUNJGRM9",
+		"type": "article-journal",
+		"title": "Toward Selective Histone Deacetylase Inhibitor Design: Homology Modeling, Docking Studies, and Molecular Dynamics Simulations of Human Class I Histone Deacetylases",
+		"container-title": "Journal of Medicinal Chemistry",
+		"page": "6936-6947",
+		"volume": "48",
+		"DOI": "10.1021/jm0505011",
+		"ISSN": "0022-2623",
+		"author": [
+			{
+				"family": "Wang D. F.",
+				"given": "et",
+				"dropping-particle": "al"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2005",
+					11,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/RVIKTZNP",
+		"type": "article",
+		"title": "AJTR1012002.pdf",
+		"URL": "http://www.ajtr.org/files/AJTR1012002.pdf",
+		"accessed": {
+			"date-parts": [
+				[
+					"2016",
+					10,
+					23
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/RVXTH7BH",
+		"type": "article-journal",
+		"title": "Peptidotriazoles on Solid Phase:  [1,2,3]-Triazoles by Regiospecific Copper(I)-Catalyzed 1,3-Dipolar Cycloadditions of Terminal Alkynes to Azides",
+		"container-title": "The Journal of Organic Chemistry",
+		"page": "3057-3064",
+		"volume": "67",
+		"issue": "9",
+		"source": "ACS Publications",
+		"abstract": "The cycloaddition of azides to alkynes is one of the most important synthetic routes to 1H-[1,2,3]-triazoles. Here a novel regiospecific copper(I)-catalyzed 1,3-dipolar cycloaddition of terminal alkynes to azides on solid-phase is reported. Primary, secondary, and tertiary alkyl azides, aryl azides, and an azido sugar were used successfully in the copper(I)-catalyzed cycloaddition producing diversely 1,4-substituted [1,2,3]-triazoles in peptide backbones or side chains. The reaction conditions were fully compatible with solid-phase peptide synthesis on polar supports. The copper(I) catalysis is mild and efficient (>95% conversion and purity in most cases) and furthermore, the X-ray structure of 2-azido-2-methylpropanoic acid has been solved, to yield structural information on the 1,3-dipoles entering the reaction. Novel Fmoc-protected amino azides derived from Fmoc-amino alcohols were prepared by the Mitsunobu reaction.",
+		"URL": "http://dx.doi.org/10.1021/jo011148j",
+		"DOI": "10.1021/jo011148j",
+		"ISSN": "0022-3263",
+		"shortTitle": "Peptidotriazoles on Solid Phase",
+		"journalAbbreviation": "J. Org. Chem.",
+		"author": [
+			{
+				"family": "Tornøe",
+				"given": "Christian W."
+			},
+			{
+				"family": "Christensen",
+				"given": "Caspar"
+			},
+			{
+				"family": "Meldal",
+				"given": "Morten"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2002",
+					5,
+					1
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2017",
+					3,
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/S4DRWMQZ",
+		"type": "article-journal",
+		"title": "Chemical phylogenetics of histone deacetylases",
+		"container-title": "Nat Chem Biol",
+		"page": "238-243",
+		"volume": "6",
+		"DOI": "http://www.nature.com/nchembio/journal/v6/n3/suppinfo/nchembio.313_S1.html",
+		"ISSN": "1552-4450",
+		"author": [
+			{
+				"family": "Bradner J. E.",
+				"given": "et",
+				"dropping-particle": "al"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010"
+				]
+			],
+			"season": "print"
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/S4VCNN66",
+		"type": "book",
+		"title": "Drug design of zinc-enzyme inhibitors: functional, structural, and disease applications",
+		"publisher": "John Wiley & Sons",
+		"volume": "14",
+		"ISBN": "0-470-50815-9",
+		"author": [
+			{
+				"family": "Wang B.",
+				"given": "et",
+				"dropping-particle": "al"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2009"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/S7TIZ48J",
+		"type": "article-journal",
+		"title": "Structure-based optimization of phenylbutyrate-derived histone deacetylase inhibitors",
+		"container-title": "Journal of Medicinal Chemistry",
+		"page": "5530-5535",
+		"volume": "48",
+		"ISSN": "0022-2623",
+		"author": [
+			{
+				"family": "Lu Q.",
+				"given": "et",
+				"dropping-particle": "al"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2005"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/SDAQCI4T",
+		"type": "article-journal",
+		"title": "3D-QSAR of histone deacetylase inhibitors: hydroxamate analogues",
+		"page": "2858-2868",
+		"volume": "4",
+		"issue": "15",
+		"source": "pubs.rsc.org",
+		"abstract": "The histone deacetylase enzyme has increasingly become an attractive target for developing novel anticancer drugs. Hydroxamates are a new class of anticancer agents reported to act by selective inhibition of the histone deacetylase (HDAC) enzyme. Comparative molecular field analysis (CoMFA) and comparative molecular similarity indices analysis (CoMSIA) were employed to study three-dimensional quantitative structure–activity relationships (3D-QSARs). QSAR models were derived from a training set of 40 molecules. An external test set consisting of 17 molecules was used to validate the CoMFA and CoMSIA models. All molecules were superimposed on the template structure by atom-based, multifit and the SYBYL QSAR rigid body field fit alignments. The statistical quality of the QSAR models was assessed using the parameters r2conv, r2cv and r2pred. In addition to steric and electronic fields, ClogP was also taken as descriptor to account for lipophilicity. The resulting models exhibited a good conventional r2conv and cross-validated r2cv values up to 0.910 and 0.502 for CoMFA and 0.987 and 0.534 for CoMSIA. Robust cross-validation by 2 groups was performed 25 times to eliminate chance correlation. The CoMFA models exhibited good external predictivity as compared to that of CoMSIA models. These 3D-QSAR models are very useful for design of novel HDAC inhibitors.",
+		"URL": "http://pubs.rsc.org/en/content/articlelanding/2006/ob/b606365a",
+		"DOI": "10.1039/B606365A",
+		"ISSN": "1477-0539",
+		"shortTitle": "3D-QSAR of histone deacetylase inhibitors",
+		"journalAbbreviation": "Org. Biomol. Chem.",
+		"language": "en",
+		"author": [
+			{
+				"family": "Juvale",
+				"given": "Dhanshri C."
+			},
+			{
+				"family": "Kulkarni",
+				"given": "Vishal V."
+			},
+			{
+				"family": "Deokar",
+				"given": "Hemantkumar S."
+			},
+			{
+				"family": "Wagh",
+				"given": "Nilesh K."
+			},
+			{
+				"family": "Padhye",
+				"given": "Subhash B."
+			},
+			{
+				"family": "Kulkarni",
+				"given": "Vithal M."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2006",
+					7,
+					19
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2016",
+					11,
+					13
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/SKZZ5AVV",
+		"type": "article-journal",
+		"title": "A Stepwise Huisgen Cycloaddition Process: Copper(I)-Catalyzed Regioselective “Ligation” of Azides and Terminal Alkynes",
+		"container-title": "Angewandte Chemie",
+		"page": "2708-2711",
+		"volume": "114",
+		"issue": "14",
+		"source": "Wiley Online Library",
+		"URL": "http://onlinelibrary.wiley.com/doi/10.1002/1521-3757(20020715)114:14<2708::AID-ANGE2708>3.0.CO;2-0/abstract",
+		"DOI": "10.1002/1521-3757(20020715)114:14<2708::AID-ANGE2708>3.0.CO;2-0",
+		"ISSN": "1521-3757",
+		"shortTitle": "A Stepwise Huisgen Cycloaddition Process",
+		"journalAbbreviation": "Angewandte Chemie",
+		"language": "en",
+		"author": [
+			{
+				"family": "Rostovtsev",
+				"given": "Vsevolod V."
+			},
+			{
+				"family": "Green",
+				"given": "Luke G."
+			},
+			{
+				"family": "Fokin",
+				"given": "Valery V."
+			},
+			{
+				"family": "Sharpless",
+				"given": "K. Barry"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2002",
+					7,
+					15
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2017",
+					3,
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/SNQU2VBJ",
+		"type": "article-journal",
+		"title": "Histone-deacetylase inhibitors: novel drugs for the treatment of cancer",
+		"container-title": "Nat Rev Drug Discov",
+		"page": "287-299",
+		"volume": "1",
+		"ISSN": "1474-1776",
+		"author": [
+			{
+				"family": "Johnstone R. W",
+				"given": ""
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2002"
+				]
+			],
+			"season": "print"
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/SP3CBM8U",
+		"type": "article-journal",
+		"title": "Histone deacetylases and cancer: causes and therapies",
+		"container-title": "Nat Rev Cancer",
+		"page": "194-202",
+		"volume": "1",
+		"ISSN": "1474-175X",
+		"author": [
+			{
+				"family": "Marks P. A.",
+				"given": "et",
+				"dropping-particle": "al"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2001"
+				]
+			],
+			"season": "print"
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/SPAE5G82",
+		"type": "article-journal",
+		"title": "Novel 2-oxoindoline-based hydroxamic acids: synthesis, cytotoxicity, and inhibition of histone deacetylation",
+		"container-title": "Tetrahedron Letters",
+		"page": "6425-6429",
+		"volume": "56",
+		"ISSN": "0040-4039",
+		"author": [
+			{
+				"family": "Huong T. T.L.",
+				"given": "et",
+				"dropping-particle": "al"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/SRQEAP7T",
+		"type": "article-journal",
+		"title": "Histone deacetylases",
+		"container-title": "Current Opinion in Pharmacology",
+		"page": "344-351",
+		"volume": "3",
+		"DOI": "http://dx.doi.org/10.1016/S1471-4892(03)00084-5",
+		"ISSN": "1471-4892",
+		"author": [
+			{
+				"family": "Marks P. A.",
+				"given": "Miller T."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2003"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/SU7ZZ3UQ",
+		"type": "article-journal",
+		"title": "Toward Selective Histone Deacetylase Inhibitor Design: Homology Modeling, Docking Studies, and Molecular Dynamics Simulations of Human Class I Histone Deacetylases",
+		"container-title": "Journal of Medicinal Chemistry",
+		"page": "6936-6947",
+		"volume": "48",
+		"DOI": "10.1021/jm0505011",
+		"ISSN": "0022-2623",
+		"author": [
+			{
+				"family": "Wang D. F.",
+				"given": "et",
+				"dropping-particle": "al"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2005",
+					11,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/SVVED6T7",
+		"type": "book",
+		"title": "Cơ sở các phương pháp phổ ứng dụng trong hóa học",
+		"publisher": "NXB Khoa học và Kỹ thuật",
+		"language": "vie",
+		"author": [
+			{
+				"family": "Nguyễn Đình Thành",
+				"given": ""
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2011"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/SVZFZBJJ",
+		"type": "article-journal",
+		"title": "New and emerging HDAC inhibitors for cancer treatment",
+		"container-title": "The Journal of Clinical Investigation",
+		"page": "30-39",
+		"volume": "124",
+		"issue": "1",
+		"source": "www.jci.org",
+		"URL": "http://www.jci.org/articles/view/69738",
+		"DOI": "10.1172/JCI69738",
+		"ISSN": "0021-9738",
+		"journalAbbreviation": "J Clin Invest",
+		"language": "en",
+		"author": [
+			{
+				"family": "West",
+				"given": "Alison C."
+			},
+			{
+				"family": "Johnstone",
+				"given": "Ricky W."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					1,
+					2
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2016",
+					11,
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/T2NT99BC",
+		"type": "book",
+		"title": "Textbook of drug design and discovery",
+		"publisher": "CRC press",
+		"publisher-place": "Taylor and Francis Group",
+		"edition": "4",
+		"event-place": "Taylor and Francis Group",
+		"author": [
+			{
+				"family": "Krogsgaard-Larsen P.",
+				"given": "Strømgaard K."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/TDRPI6I4",
+		"type": "article-journal",
+		"title": "Inhibition and mechanism of HDAC8 revisited",
+		"container-title": "Journal of the American Chemical Society",
+		"page": "11636-11643",
+		"volume": "136",
+		"ISSN": "0002-7863",
+		"author": [
+			{
+				"family": "Chen K.",
+				"given": "et",
+				"dropping-particle": "al"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/TH2JWU87",
+		"type": "book",
+		"title": "The chemistry of hydroxylamines, oximes and hydroxamic acids",
+		"publisher": "John Wiley & Sons",
+		"volume": "1",
+		"ISBN": "0-470-74195-3",
+		"author": [
+			{
+				"family": "Rappoport Z.",
+				"given": "Liebman J. F."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2008"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/TSEAKRNV",
+		"type": "article-journal",
+		"title": "Histone deacetylase inhibitors in the treatment of cancer: overview and perspectives",
+		"container-title": "Future Medicinal Chemistry",
+		"page": "1439-1460",
+		"volume": "4",
+		"issue": "11",
+		"source": "future-science.com (Atypon)",
+		"abstract": "Histone deacetylase inhibitors (HDACis) are one of the last frontiers in pharmaceutical research. Several classes of HDACi have been identified. Although more than 20 HDACi are under preclinical and clinical investigation as single agents and in combination therapies against different cancers, just two of them were approved by the US FDA: Zolinza® and Istodax®, both licensed for the treatment of cutaneous T-cell lymphoma, the latter also of peripheral T-cell lymphoma. Since HDAC enzymes act by forming multiprotein complexes (clusters), containing cofactors, the main problem in designing new HDACi is that the inhibition activity evaluated on isolated enzyme isoforms does not match the in vivo outcomes. In the coming years, the research will be oriented toward a better understanding of the functioning of these protein complexes as well as the development of new screening assays, with the final goal to obtain new drug candidates for the treatment of cancer.",
+		"URL": "http://www.future-science.com/doi/abs/10.4155/fmc.12.80",
+		"DOI": "10.4155/fmc.12.80",
+		"ISSN": "1756-8919",
+		"shortTitle": "Histone deacetylase inhibitors in the treatment of cancer",
+		"journalAbbreviation": "Future Medicinal Chemistry",
+		"author": [
+			{
+				"family": "Giannini",
+				"given": "Giuseppe"
+			},
+			{
+				"family": "Cabri",
+				"given": "Walter"
+			},
+			{
+				"family": "Fattorusso",
+				"given": "Caterina"
+			},
+			{
+				"family": "Rodriquez",
+				"given": "Manuela"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2012",
+					7,
+					1
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2016",
+					10,
+					23
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/UC6RTHFT",
+		"type": "article-journal",
+		"title": "Histone-deacetylase inhibitors: novel drugs for the treatment of cancer",
+		"container-title": "Nat Rev Drug Discov",
+		"page": "287-299",
+		"volume": "1",
+		"ISSN": "1474-1776",
+		"author": [
+			{
+				"family": "Johnstone R. W",
+				"given": ""
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2002"
+				]
+			],
+			"season": "print"
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/UC7V6AXJ",
+		"type": "article-journal",
+		"title": "Dimethyl sulfoxide to vorinostat: development of this histone deacetylase inhibitor as an anticancer drug",
+		"container-title": "Nature biotechnology",
+		"page": "84-90",
+		"volume": "25",
+		"ISSN": "1087-0156",
+		"author": [
+			{
+				"family": "Marks P. A.",
+				"given": "Breslow R."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2007"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/UJB443W2",
+		"type": "article-journal",
+		"title": "The many roles of histone deacetylases in development and physiology: implications for disease and therapy",
+		"container-title": "Nature Reviews Genetics",
+		"page": "32-42",
+		"volume": "10",
+		"ISSN": "1471-0056",
+		"author": [
+			{
+				"family": "Haberland M.",
+				"given": "Montgomery R. L."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2009"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/V4QCZ7HU",
+		"type": "article-journal",
+		"title": "Chemistry, Biology, and QSAR Studies of Substituted Biaryl Hydroxamates and Mercaptoacetamides as HDAC Inhibitors—Nanomolar-Potency Inhibitors of Pancreatic Cancer Cell Growth",
+		"container-title": "ChemMedChem",
+		"page": "487-501",
+		"volume": "3",
+		"issue": "3",
+		"source": "Wiley Online Library",
+		"abstract": "The histone deacetylases (HDACs) are able to regulate gene expression, and inhibitors of the HDACs (HDACIs) hold promise in the treatment of cancer as well as a variety of neurodegenerative diseases. To investigate the potential for isoform selectivity in the inhibition of HDACs, we prepared a small series of 2,4′-diaminobiphenyl ligands functionalized at the para-amino group with an appendage containing either a hydroxamate or a mercaptoacetamide group and coupled to an amino acid residue at the ortho-amino group. A smaller series of substituted phenylthiazoles was also explored. Some of these newly synthesized ligands show low-nanomolar potency in HDAC inhibition assays and display micromolar to low-nanomolar IC50 values in tests against five pancreatic cancer cell lines. The isoform selectivity of these ligands for class I HDACs (HDAC1–3 and 8) and class IIb HDACs (HDAC6 and 10) together with QSAR studies of their correlation with lipophilicity are presented. Of particular interest is the selectivity of the mercaptoacetamides for HDAC6.",
+		"URL": "http://onlinelibrary.wiley.com/doi/10.1002/cmdc.200700314/abstract",
+		"DOI": "10.1002/cmdc.200700314",
+		"ISSN": "1860-7187",
+		"journalAbbreviation": "ChemMedChem",
+		"language": "en",
+		"author": [
+			{
+				"family": "Kozikowski",
+				"given": "Alan P."
+			},
+			{
+				"family": "Chen",
+				"given": "Yufeng"
+			},
+			{
+				"family": "Gaysin",
+				"given": "Arsen M."
+			},
+			{
+				"family": "Savoy",
+				"given": "Doris N."
+			},
+			{
+				"family": "Billadeau",
+				"given": "Daniel D."
+			},
+			{
+				"family": "Kim",
+				"given": "Ki Hwan"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2008",
+					3,
+					14
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2017",
+					2,
+					15
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/VFZFARE7",
+		"type": "article-journal",
+		"title": "Structural Basis for the Inhibition of Histone Deacetylase 8 (HDAC8), a Key Epigenetic Player in the Blood Fluke <italic>Schistosoma mansoni</italic>",
+		"container-title": "PLoS Pathog",
+		"page": "e1003645",
+		"volume": "9",
+		"abstract": "<title>Author Summary</title><p>Schistosomiasis, a neglected parasitic disease caused by flatworms of the genus <italic>Schistosoma</italic>, is responsible for hundreds of thousands of deaths yearly. Its treatment currently depends on a single drug, praziquantel, with reports of drug-resistant parasites. Human epigenetic enzymes, in particular histone deacetylases (HDACs), are predominantly attractive inhibitory targets for anti-cancer therapies. Validated scaffolds against these enzymes could also be used as leads in the search for novel specific drugs against schistosomiasis. In our study, we show that <italic>Schistosoma mansoni</italic> histone deacetylase 8 (smHDAC8) is a functional acetyl-L-lysine deacetylase that plays an important role in parasite infectivity and is therefore a relevant target for drug discovery. The determination of the atomic structures of smHDAC8 in complex with generic HDAC inhibitors revealed that the architecture of the smHDAC8 active site pocket differed significantly from its human counterparts and provided a framework for the development of inhibitors selectively interfering with schistosome epigenetic mechanisms. In agreement, this information enabled us to identify several small-molecule scaffolds that possess specific inhibitory effects on smHDAC8 and cause mortality in schistosomes. Our results provide the proof of concept that targeting epigenetic enzymes is a valid approach to treat neglected diseases caused by eukaryotic pathogens.</p>",
+		"DOI": "10.1371/journal.ppat.1003645",
+		"author": [
+			{
+				"family": "Marek M.",
+				"given": "et",
+				"dropping-particle": "al"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/VGAWZSWM",
+		"type": "article-journal",
+		"title": "Histone deacetylases and cancer: causes and therapies",
+		"container-title": "Nat Rev Cancer",
+		"page": "194-202",
+		"volume": "1",
+		"ISSN": "1474-175X",
+		"author": [
+			{
+				"family": "Marks P. A.",
+				"given": "et",
+				"dropping-particle": "al"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2001"
+				]
+			],
+			"season": "print"
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/VGIREB3W",
+		"type": "article-journal",
+		"title": "Structure-based optimization of phenylbutyrate-derived histone deacetylase inhibitors",
+		"container-title": "Journal of Medicinal Chemistry",
+		"page": "5530-5535",
+		"volume": "48",
+		"ISSN": "0022-2623",
+		"author": [
+			{
+				"family": "Lu Q.",
+				"given": "et",
+				"dropping-particle": "al"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2005"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/VGQMUKK5",
+		"type": "article-journal",
+		"title": "Inside HDAC with HDAC inhibitors",
+		"container-title": "European Journal of Medicinal Chemistry",
+		"page": "2095-2116",
+		"volume": "45",
+		"ISSN": "0223-5234",
+		"author": [
+			{
+				"family": "Bertrand P",
+				"given": ""
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/W93I2ECG",
+		"type": "article-journal",
+		"title": "Quantitative structure-activity relationship study of histone deacetylase inhibitors",
+		"container-title": "Current Medicinal Chemistry-Anti-Cancer Agents",
+		"page": "273-299",
+		"volume": "4",
+		"ISSN": "1568-0118",
+		"author": [
+			{
+				"family": "Xie A.",
+				"given": "et",
+				"dropping-particle": "al"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2004"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/WCKSASHT",
+		"type": "book",
+		"title": "Hydroxamic Acids : A Unique Family of Chemicals with Multiple Biological Activities",
+		"publisher": "Springer Berlin Heidelberg",
+		"publisher-place": "Berlin, Heidelberg",
+		"event-place": "Berlin, Heidelberg",
+		"abstract": "Satya P. Gupta's Hydroxamics Acids is the first book to compile invited articles written by international experts on the class of compounds hydroxamic acids. Found to possess a wide spectrum of biological activities, the hydroxamic acids are of interest for  theoretical and experimental chemists who can study and make use of them in drug design and development. Chapters in this book provide a diverse and comprehensive coverage of this compound class and consequently this publication is a valuable resource for researchers in chemical, pharmaceutical and biological sciences.",
+		"ISBN": "978-3-642-38110-2",
+		"author": [
+			{
+				"family": "Gupta S. P",
+				"given": ""
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/WVHZIG2V",
+		"type": "article-journal",
+		"title": "Chemistry, Biology, and QSAR Studies of Substituted Biaryl Hydroxamates and Mercaptoacetamides as HDAC Inhibitors—Nanomolar‐Potency Inhibitors of Pancreatic Cancer Cell Growth",
+		"container-title": "ChemMedChem",
+		"page": "487-501",
+		"volume": "3",
+		"ISSN": "1860-7187",
+		"author": [
+			{
+				"family": "Kozikowski",
+				"given": "AP",
+				"dropping-particle": "al"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2008"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/WXVTNQFN",
+		"type": "article-journal",
+		"title": "Identification and optimisation of a series of substituted 5-pyridin-2-yl-thiophene-2-hydroxamic acids as potent histone deacetylase (HDAC) inhibitors",
+		"container-title": "Bioorganic & Medicinal Chemistry Letters",
+		"page": "363-369",
+		"volume": "17",
+		"issue": "2",
+		"source": "ScienceDirect",
+		"abstract": "Further investigation of a series of thienyl-based hydroxamic acids that included ADS100380 and ADS102550 led to the identification of the 5-pyridin-2-yl-thiophene-2-hydroxamic acid 3c, which possessed modest HDAC inhibitory activity. Substitution at the 5- and 6-positions of the pyridyl ring of compound 3c provided compounds 5a–g, 7a, b, 9, and 13a. Compound 5b demonstrated improved potency, in vitro DMPK profile, and rat oral bioavailability, compared to ADS102550. Functionalisation of the pendent phenyl group of compounds 5b, 5e and 13a provided analogues that possessed excellent enzyme inhibition and anti-proliferative activity.",
+		"URL": "http://www.sciencedirect.com/science/article/pii/S0960894X06012261",
+		"DOI": "10.1016/j.bmcl.2006.10.045",
+		"ISSN": "0960-894X",
+		"journalAbbreviation": "Bioorganic & Medicinal Chemistry Letters",
+		"author": [
+			{
+				"family": "Price",
+				"given": "Steve"
+			},
+			{
+				"family": "Bordogna",
+				"given": "Walter"
+			},
+			{
+				"family": "Braganza",
+				"given": "Ruth"
+			},
+			{
+				"family": "Bull",
+				"given": "Richard J."
+			},
+			{
+				"family": "Dyke",
+				"given": "Hazel J."
+			},
+			{
+				"family": "Gardan",
+				"given": "Sophie"
+			},
+			{
+				"family": "Gill",
+				"given": "Matthew"
+			},
+			{
+				"family": "Harris",
+				"given": "Neil V."
+			},
+			{
+				"family": "Heald",
+				"given": "Robert A."
+			},
+			{
+				"family": "Heuvel",
+				"given": "Marco",
+				"non-dropping-particle": "van den"
+			},
+			{
+				"family": "Lockey",
+				"given": "Peter M."
+			},
+			{
+				"family": "Lloyd",
+				"given": "Julia"
+			},
+			{
+				"family": "Molina",
+				"given": "Aranzazu G."
+			},
+			{
+				"family": "Roach",
+				"given": "Alan G."
+			},
+			{
+				"family": "Roussel",
+				"given": "Fabien"
+			},
+			{
+				"family": "Sutton",
+				"given": "Jonathan M."
+			},
+			{
+				"family": "White",
+				"given": "Anne B."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2007",
+					1,
+					15
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2017",
+					3,
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/X3NJCCQ3",
+		"type": "article-journal",
+		"title": "Quantum polarized ligand docking investigation to understand the significance of protonation states in histone deacetylase inhibitors",
+		"container-title": "Journal of Molecular Graphics and Modelling",
+		"page": "44-53",
+		"volume": "44",
+		"ISSN": "1093-3263",
+		"author": [
+			{
+				"family": "Kalyaanamoorthy S.",
+				"given": "Chen Y. P."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/X47ZNXS6",
+		"type": "article-journal",
+		"title": "Alkyl piperidine and piperazine hydroxamic acids as HDAC inhibitors",
+		"container-title": "Bioorganic & medicinal chemistry letters",
+		"page": "2305-2308",
+		"volume": "21",
+		"ISSN": "0960-894X",
+		"author": [
+			{
+				"family": "Rossi C.",
+				"given": "et",
+				"dropping-particle": "al"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2011"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/X5PP8XP7",
+		"type": "article-journal",
+		"title": "Histone Deacetylase Inhibitors in Clinical Studies as Templates for New Anticancer Agents",
+		"container-title": "Molecules",
+		"page": "3898-3941",
+		"volume": "20",
+		"issue": "3",
+		"source": "www.mdpi.com",
+		"abstract": "Histone dacetylases (HDACs) are a group of enzymes that remove acetyl groups from histones and regulate expression of tumor suppressor genes. They are implicated in many human diseases, especially cancer, making them a promising therapeutic target for treatment of the latter by developing a wide variety of inhibitors. HDAC inhibitors interfere with HDAC activity and regulate biological events, such as cell cycle, differentiation and apoptosis in cancer cells. As a result, HDAC inhibitor-based therapies have gained much attention for cancer treatment. To date, the FDA has approved three HDAC inhibitors for cutaneous/peripheral T-cell lymphoma and many more HDAC inhibitors are in different stages of clinical development for the treatment of hematological malignancies as well as solid tumors. In the intensifying efforts to discover new, hopefully more therapeutically efficacious HDAC inhibitors, molecular modeling-based rational drug design has played an important role in identifying potential inhibitors that vary in molecular structures and properties. In this review, we summarize four major structural classes of HDAC inhibitors that are in clinical trials and different computer modeling tools available for their structural modifications as a guide to discover additional HDAC inhibitors with greater therapeutic utility.",
+		"URL": "http://www.mdpi.com/1420-3049/20/3/3898",
+		"DOI": "10.3390/molecules20033898",
+		"language": "en",
+		"author": [
+			{
+				"family": "Mottamal",
+				"given": "Madhusoodanan"
+			},
+			{
+				"family": "Zheng",
+				"given": "Shilong"
+			},
+			{
+				"family": "Huang",
+				"given": "Tien L."
+			},
+			{
+				"family": "Wang",
+				"given": "Guangdi"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					3,
+					2
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2017",
+					3,
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/X766VHDT",
+		"type": "book"
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/XGDXZIQ2",
+		"type": "article-journal",
+		"title": "Click Chemistry: Diverse Chemical Function from a Few Good Reactions",
+		"container-title": "Angewandte Chemie International Edition",
+		"page": "2004-2021",
+		"volume": "40",
+		"issue": "11",
+		"source": "Wiley Online Library",
+		"abstract": "Examination of nature's favorite molecules reveals a striking preference for making carbon–heteroatom bonds over carbon–carbon bonds—surely no surprise given that carbon dioxide is nature's starting material and that most reactions are performed in water. Nucleic acids, proteins, and polysaccharides are condensation polymers of small subunits stitched together by carbon–heteroatom bonds. Even the 35 or so building blocks from which these crucial molecules are made each contain, at most, six contiguous C−C bonds, except for the three aromatic amino acids. Taking our cue from nature's approach, we address here the development of a set of powerful, highly reliable, and selective reactions for the rapid synthesis of useful new compounds and combinatorial libraries through heteroatom links (C−X−C), an approach we call “click chemistry”. Click chemistry is at once defined, enabled, and constrained by a handful of nearly perfect “spring-loaded” reactions. The stringent criteria for a process to earn click chemistry status are described along with examples of the molecular frameworks that are easily made using this spartan, but powerful, synthetic strategy.",
+		"URL": "http://onlinelibrary.wiley.com/doi/10.1002/1521-3773(20010601)40:11<2004::AID-ANIE2004>3.0.CO;2-5/abstract",
+		"DOI": "10.1002/1521-3773(20010601)40:11<2004::AID-ANIE2004>3.0.CO;2-5",
+		"ISSN": "1521-3773",
+		"shortTitle": "Click Chemistry",
+		"journalAbbreviation": "Angewandte Chemie International Edition",
+		"language": "en",
+		"author": [
+			{
+				"family": "Kolb",
+				"given": "Hartmuth C."
+			},
+			{
+				"family": "Finn",
+				"given": "M. G."
+			},
+			{
+				"family": "Sharpless",
+				"given": "K. Barry"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2001",
+					6,
+					1
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2017",
+					3,
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/XGVNWHS5",
+		"type": "article-journal",
+		"title": "Histone Deacetylase Inhibitors: Molecular and Biological Activity as a Premise to Clinical Application",
+		"container-title": "Current Drug Metabolism",
+		"page": "383-394",
+		"volume": "8",
+		"abstract": "Epigenetic modifications are reversible chromatin rearrangements that in normal cells modulate gene expression, without changing DNA sequence. Alterations of this equilibrium, mainly affecting the two interdependent mechanisms of DNA methylation and histone acetylation, are frequently involved in the genesis of cancer. The histone code, regulating gene expression, is constituted by the combination of different acetylated lysine residues of histones. In neoplastic cells, the abundance of deacetylated histones is usually associated with DNA hypermethylation and gene silencing. Several compounds, known to have in vitro antineoplastic activity, have been eventually shown to act as histone deacetylase inhibitors. Thus, HDAC inhibitors have been successfully introduced in clinical trials as antitumour agents. They are classified according to their chemical structures and are endowed with different specificity and affinity for the HDACs of classes 1, 2, 4. Among HDAC inhibitors, the most potent are the hydroxamic acid derivatives, like SAHA, which has been recently approved for therapy of cutaneous T-cell lymphomas. Other classes of HDAC inhibitors are short chain fatty acids (SCFA), benzamides, epoxyketone and non-epoxyketone containing cyclic tetrapeptides, and hybrid molecules. SCFA, although widely used (especially valproic acid) and clinically efficacious, have weak HDAC inhibition constants. Benzamides, like MS-275, and cyclic peptides, like depsipeptide, have been studied in numerous clinical trials and demonstrated low toxicity and activity in solid and haematological neoplasms. HDAC inhibitors are also potent radiation sensitizers. Their future in oncology may thus be based on their activity as single agents and on their synergy with the hypomethylating drugs and with chemo- and radiotherapeutics. <br xmlns=\"http://pub2web.metastore.ingenta.com/ns/\"></br> <br xmlns=\"http://pub2web.metastore.ingenta.com/ns/\"></br> <br xmlns=\"http://pub2web.metastore.ingenta.com/ns/\"></br>",
+		"DOI": "10.2174/138920007780655397",
+		"author": [
+			{
+				"family": "Santini V.",
+				"given": "Gozzini A."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2007"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/XJKWWACQ",
+		"type": "article-journal",
+		"title": "Synthesis and structure–activity relationship of histone deacetylase (HDAC) inhibitors with triazole-linked cap group",
+		"container-title": "Bioorganic & Medicinal Chemistry",
+		"page": "4839-4853",
+		"volume": "16",
+		"abstract": "Histone deacetylase (HDAC) inhibition is a recent, clinically validated therapeutic strategy for cancer treatment. Small molecule HDAC inhibitors identified so far fall in to three distinct structural motifs: the zinc-binding group (ZBG), a hydrophobic linker, and a recognition cap group. Here we report the suitability of a 1,2,3-triazole ring as a surface recognition cap group-linking moiety in suberoylanilide hydroxamic acid-like (SAHA-like) HDAC inhibitors. Using “click” chemistry (Huisgen cycloaddition reaction), several triazole-linked SAHA-like hydroxamates were synthesized. Structure–activity relationship revealed that the position of the triazole moiety as well as the identity of the cap group markedly affected the in vitro HDAC inhibition and cell growth inhibitory activities of this class of compounds.",
+		"DOI": "http://dx.doi.org/10.1016/j.bmc.2008.03.050",
+		"ISSN": "0968-0896",
+		"author": [
+			{
+				"family": "Chen",
+				"given": "Po C."
+			},
+			{
+				"family": "Patil",
+				"given": "Vishal"
+			},
+			{
+				"family": "Guerrant",
+				"given": "William"
+			},
+			{
+				"family": "Green",
+				"given": "Patience"
+			},
+			{
+				"family": "Oyelere",
+				"given": "Adegboyega K."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2008"
+				]
+			],
+			"season": "1"
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/XQ97KH86",
+		"type": "article-journal",
+		"title": "The many roles of histone deacetylases in development and physiology: implications for disease and therapy",
+		"container-title": "Nature Reviews Genetics",
+		"page": "32-42",
+		"volume": "10",
+		"ISSN": "1471-0056",
+		"author": [
+			{
+				"family": "Haberland M.",
+				"given": "Montgomery R. L."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2009"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/XQPGVER3",
+		"type": "article-journal",
+		"title": "Synthesis, bioevaluation and docking study of 5-substitutedphenyl-1,3,4-thiadiazole-based hydroxamic acids as histone deacetylase inhibitors and antitumor agents",
+		"container-title": "Journal of Enzyme Inhibition and Medicinal Chemistry",
+		"page": "611-618",
+		"volume": "29",
+		"issue": "5",
+		"abstract": "AbstractSince the first histone deacetylase (HDAC) inhibitor (Zolinza?, widely known as suberoylanilide hydroxamic acid; SAHA) was approved by the Food and Drug Administration for the treatment of T-cell lymphoma in 2006, the search for newer HDAC inhibitors has attracted a great deal of interest of medicinal chemists worldwide. As a continuity of our ongoing research in this area, we designed and synthesized a series of 5-substitutedphenyl-1,3,4-thiadiazole-based hydroxamic acids as analogues of SAHA and evaluated their biological activities. A number of compounds in this series, for example, N1-hydroxy-N8-(5-(2-chlorophenyl)-1,3,4-thiadiazol-2-yl)octandiamide (5b), N1-hydroxy-N8-(5-(3-chlorophenyl-1,3,4-thiadiazol-2-yl)octandiamide (5c) and N1-hydroxy-N8-(5-(4-chlorophenyl)-1,3,4-thiadiazol-2-yl)octandiamide (5d), were found to possess potent anticancer cytotoxicity and HDAC inhibition effects. Compounds 5b?d were generally two- to five-fold more potent in terms of cytotoxicity compared to SAHA against five cancer cell lines tested. Docking studies revealed that these hydroxamic acid displayed higher affinities than SAHA toward HDAC8.",
+		"URL": "http://dx.doi.org/10.3109/14756366.2013.832238",
+		"DOI": "10.3109/14756366.2013.832238",
+		"ISSN": "1475-6366",
+		"journalAbbreviation": "Journal of Enzyme Inhibition and Medicinal Chemistry",
+		"author": [
+			{
+				"family": "Nam",
+				"given": "Nguyen-Hai"
+			},
+			{
+				"family": "Huong",
+				"given": "Tran Lan"
+			},
+			{
+				"family": "Dung",
+				"given": "Do Thi Mai"
+			},
+			{
+				"family": "Dung",
+				"given": "Phan Thi Phuong"
+			},
+			{
+				"family": "Oanh",
+				"given": "Dao Thi Kim"
+			},
+			{
+				"family": "Park",
+				"given": "Sang Ho"
+			},
+			{
+				"family": "Kim",
+				"given": "Kyungrok"
+			},
+			{
+				"family": "Han",
+				"given": "Byung Woo"
+			},
+			{
+				"family": "Yun",
+				"given": "Jieun"
+			},
+			{
+				"family": "Kang",
+				"given": "Jong Soon"
+			},
+			{
+				"family": "Kim",
+				"given": "Youngsoo"
+			},
+			{
+				"family": "Han",
+				"given": "Sang-Bae"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					10,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/XSK3GZSD",
+		"type": "article-journal",
+		"title": "The clinical development of histone deacetylase inhibitors as targeted anticancer drugs",
+		"container-title": "Expert opinion on investigational drugs",
+		"page": "1049-1066",
+		"volume": "19",
+		"ISSN": "1354-3784",
+		"author": [
+			{
+				"family": "Marks P. A.",
+				"given": "Breslow R."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/XVW7B78V",
+		"type": "article-journal",
+		"title": "Structure-Based Optimization of Phenylbutyrate-Derived Histone Deacetylase Inhibitors",
+		"container-title": "Journal of Medicinal Chemistry",
+		"page": "5530-5535",
+		"volume": "48",
+		"issue": "17",
+		"source": "ACS Publications",
+		"abstract": "Previously, we developed a strategy to develop a novel class of histone deacetylase (HDAC) inhibitors by tethering short-chain fatty acids with Zn2+-chelating motifs, which led to N-hydroxy-4-(4-phenylbutyryl-amino)benzamide (HTPB), a hydroxamate-tethered phenylbutyrate derivative with sub-micromolar potency in inhibiting HDAC activity and cancer cell proliferation. In this study, we carried out structure-based optimization of HTPB by using the framework generated by the structure of histone deacetylase-like protein (HDLP)−trichostatin A (TSA) complexes. Docking of HTPB into the HDLP binding domain suggested that the hydrophobic microenvironment encompassed by Phe-198 and Phe-200 could be exploited for structural optimization. This premise was corroborated by the greater potency of (S)-(+)-N-hydroxy-4-(3-methyl-2-phenylbutyrylamino)-benzamide [(S)-11] (IC50 in HDAC inhibition, 16 nM), of which the isopropyl moiety was favorable in interacting with this hydrophobic motif. (S)-11 at concentrations as low as 0.1 μM was effective in causing histone hyperacetylation and p21WAF/CIP1 overexpression and suppressing proliferation in cancer cells.",
+		"URL": "http://dx.doi.org/10.1021/jm0503749",
+		"DOI": "10.1021/jm0503749",
+		"ISSN": "0022-2623",
+		"journalAbbreviation": "J. Med. Chem.",
+		"author": [
+			{
+				"family": "Lu",
+				"given": "Qiang"
+			},
+			{
+				"family": "Wang",
+				"given": "Da-Sheng"
+			},
+			{
+				"family": "Chen",
+				"given": "Chang-Shi"
+			},
+			{
+				"family": "Hu",
+				"given": "Yuan-Dong"
+			},
+			{
+				"family": "Chen",
+				"given": "Ching-Shih"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2005",
+					8,
+					1
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2016",
+					11,
+					13
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/XZ8E72EZ",
+		"type": "article-journal",
+		"title": "Heterogeneous Copper-in-Charcoal-Catalyzed Click Chemistry",
+		"container-title": "Angewandte Chemie",
+		"page": "8415-8418",
+		"volume": "118",
+		"issue": "48",
+		"source": "Wiley Online Library",
+		"URL": "http://onlinelibrary.wiley.com/doi/10.1002/ange.200603726/abstract",
+		"DOI": "10.1002/ange.200603726",
+		"ISSN": "1521-3757",
+		"journalAbbreviation": "Angewandte Chemie",
+		"language": "en",
+		"author": [
+			{
+				"family": "Lipshutz",
+				"given": "Bruce H."
+			},
+			{
+				"family": "Taft",
+				"given": "Benjamin R."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2006",
+					12,
+					11
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2017",
+					3,
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/XZNTVU5F",
+		"type": "article-journal",
+		"title": "Toward selective histone deacetylase inhibitor design: homology modeling, docking studies, and molecular dynamics simulations of human class I histone deacetylases",
+		"container-title": "Journal of Medicinal Chemistry",
+		"page": "6936-6947",
+		"volume": "48",
+		"ISSN": "0022-2623",
+		"author": [
+			{
+				"family": "Wang D. F.",
+				"given": "et",
+				"dropping-particle": "al"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2005"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/ZTQD78E2",
+		"type": "thesis",
+		"title": "Tổng hợp và thử hoạt tính sinh học của một số acid hydroxamic mang khung 1,3,4-thiadiazol",
+		"publisher": "Đại học Dược Hà Nội",
+		"genre": "Khóa luận tốt nghiệp Dược sĩ đại học",
+		"language": "vie",
+		"author": [
+			{
+				"family": "Đỗ Thị Mai Dung",
+				"given": ""
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3281719/items/ZW3SDU45",
+		"type": "article-journal",
+		"title": "Histone deacetylase inhibitors: Mechanisms of cell death and promise in combination cancer therapy",
+		"container-title": "Cancer letters",
+		"page": "7-17",
+		"volume": "269",
+		"DOI": "http://dx.doi.org/10.1016/j.canlet.2008.03.037",
+		"ISSN": "0304-3835",
+		"author": [
+			{
+				"family": "Carew J. S.",
+				"given": "Giles F. J."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2008"
+				]
+			],
+			"season": "28"
+		}
+	}
+]

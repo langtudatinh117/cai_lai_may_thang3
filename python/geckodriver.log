@@ -1,0 +1,1227 @@
+1487645629353	geckodriver	INFO	Listening on 127.0.0.1:54768
+1487645630474	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.HZ7ikcfELsY4
+1487645630475	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1487645630478	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43048
+1487645631244	Marionette	INFO	Listening on port 43048
+1487645755922	geckodriver	INFO	Listening on 127.0.0.1:60356
+1487645757021	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.4U2qIRrGziXa
+1487645757022	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1487645757025	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42279
+libGL error: No matching fbConfigs or visuals found
+libGL error: failed to load driver: swrast
+1487645757738	Marionette	INFO	Listening on port 42279
+1487646338057	geckodriver	INFO	Listening on 127.0.0.1:44304
+1487646339148	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.t5SSphhwHpsY
+1487646339148	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1487646339153	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39056
+1487646339789	Marionette	INFO	Listening on port 39056
+JavaScript error: http://adexchangeprediction.com/script/packcpm.php?stamat=j%7CB7p2ezoiMuonG6J1eCpjLioheCtnQ6p1eaonP75x.3e4%2Cg7Y-lZugeX6nBAqliER-_0SG2blLLxEWYPEo5cdcVQCh_vIZbyCMs31Gxnwei6FxoKU-YNkcJQEevhUTvm-Q2HjNBdoFmeof7u8A1m500gs-upASYoR8FDmGebxoSKZ-INSsuWWXbd2mYdcK1VP89YsjFDoJI3aFKZjsiciUZ3ZnOFx8EzpCVGIaAANpIFggQpkLVhxJfgzXKGEXeZwBLDI34RbKJjMmHmkrRHIZhG04LUzE8dJVeuq5Lq8lrFNCCuqt4tiXoxRFrc3V0HMcfyN8aIYNmcNGhk0USoUcO3zzaVsb_NEhors37F5D___3jKqyUgS51G1W6eHMn0aSNqYHp_YAFvO-4hdHCZ6IkqMVCQi6KkAYFgWiDpoZJA34wleUha5mcD7eqGZdSIOz4gpqiZ_TlqyiQHux0y0bxkuGdO0yoB6X4A14OZwCB_QZoQmNohROL84zPSU8ZVZtRQ%2C%2C, line 91: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+[Child 27362] ###!!! ABORT: Aborting on channel error.: file /build/firefox-z5GTBX/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 27362] ###!!! ABORT: Aborting on channel error.: file /build/firefox-z5GTBX/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1487646397865	geckodriver	INFO	Listening on 127.0.0.1:42399
+1487646398966	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.k00JQz2RLWwv
+1487646398966	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1487646398969	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38832
+1487646399616	Marionette	INFO	Listening on port 38832
+JavaScript error: http://adexchangeprediction.com/script/packcpm.php?stamat=j%7CB7ZjZ3Y3N2tnG6J1eCpjLioheCtnQ6p1eaonP75x.683%2C043Cld97VzRkUHJto4xOZ9-A92qQPR8YGNP3KKGb3FkOR4wWO9m-cXHZJhxmZ_nBj4yYxOZWxZ-HPICvwc6x7rdWhCyn8grGxnFZjjdz--U_uPsMcG9SodUGSvea3DKAfm0G7D5gZwHzVyG2E69xQBm58THRUY7bMLRan0l1RPwclfDpcVURy6AozkZ1vBNUV9qvsoAj4hPPbbVoI3hATbva_sce6Rq37_enPUOPY_oj_fS1w7xLVxtjTPXOsprtNw35_QdhYSLfx5wLqLxBYjUK6DMWDaLR_BD1CSapcoPDfPNV4B5_mSjqgNOHqkJEnsxVhrNZnmoh5_6MCHaxxcRXSdXGhi_fL9ysBwgOs29wdU4czDIUCCu5agV1sYHrn6jsohR_ru41kdMAEITtiHMb_fzIx7KWFwJjCIsOmVgx733Py19c1Bx4X4VqP8E4MwZaw2HvY49iM6Ydp-R9JA%2C%2C, line 91: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+JavaScript error: chrome://marionette/content/listener.js, line 870: TypeError: can't access dead object
+[Child 27612] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-z5GTBX/firefox-51.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 323
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x500001,name=PCrashReporter::Msg_AnnotateCrashReport) Channel error: cannot send/recv
+
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: Receive IPC close with reason=AbnormalShutdown (t=13.1184) 
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A00EA,name=PContent::Msg_GraphicsError) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1487646754068	geckodriver	INFO	Listening on 127.0.0.1:53345
+1487646755164	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.WoX2RRC6xp3N
+1487646755164	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1487646755167	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37937
+1487646755799	Marionette	INFO	Listening on port 37937
+JavaScript error: http://adexchangeprediction.com/script/packcpm.php?stamat=j%7CB753a7YiZjtnG6J1eCpjLioheCtnQ6p1eaonP75x.7db%2CcJeFYASWSKvJ8xde-jBGpqwNslNDdxhNUQpwGqYKG4dcVR5hO5UZlbVVMqXlTRXXOW4SO5Pb-ZwmltAJjVWi_Jg99OXqCrhw3Qrjl1Ms9MhhILfSfLfvyGzuHJ9n80ladH7TvIAK4Zj8HGYcEoZQ5p5EKGfLGvvyfKnl7S9ZZN_kk_bwomECndkR8pL_8Ceb60wq1SGwlhIEzE4ELHN-HL_oqy5yy14t1OkpiorJ6bY0HRLASsRo_vgGUCE6Uo8Wo24zpEdAPMMCUstRfzb3cyWdjXj7BzrXdq79J48VbJAxfj25kb63sVgpM0K1Of9ZoCHUtD5X-5VqpPuRLwmyT3HF73kDCCFGVywfS8EDYJU21hkMQFL_6Vip3UAJHuX8OhjKeJkDnq3v7kny-Qf345fu2pMFZ1G-rvkIy4RzQyq9gg5fV5G5dfcDkmF9LHHKnRNHBtombsrq-z5-bIq-Rw%2C%2C, line 91: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+JavaScript warning: https://i.alicdn.com/??sc-header/20160525113436/module/header.js,sc-arcadia/market/page-multi/landing-page-ml.53301189.js, line 7: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/??sc-header/20160525113436/module/header.js,sc-arcadia/market/page-multi/landing-page-ml.53301189.js, line 7: unreachable code after return statement
+[Child 28126] ###!!! ABORT: Aborting on channel error.: file /build/firefox-z5GTBX/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 28126] ###!!! ABORT: Aborting on channel error.: file /build/firefox-z5GTBX/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+1487646919825	geckodriver	INFO	Listening on 127.0.0.1:39722
+1487646920928	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.5W59KKCzdnfO
+1487646920929	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1487646920932	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46010
+1487646921554	Marionette	INFO	Listening on port 46010
+JavaScript error: http://adexchangeprediction.com/script/packcpm.php?stamat=j%7CB7ZjYrNjMmonG6J1eCpjLioheCtnQ6p1eaonP75x.e76%2CUGfAXWbewEBX7zVr7NtlmEr9vY1hoZnm6XMkUp9SRpa3tOcBVCDj_sWR6mvuNwyLuHdKyWgAH3qmNTlq7YEBFPuR7Df3VJwJId76_ww4JzZkVvSB2VV-tYPyMrRV2s4RAf8a_p5YzK5tw3O5k2hOoby9W1qphbK5CEWagOasG5iABJ1ikAWD_bJGLo4Lb27tN4Rs5TrhTZcKHfp1O_kzJz1e_40cZh3QGXQq-qeepgmEhta3LveOJ7WFlhdSkqN-FAth7xjSXh7J_rcRK6u3pO1BclhL97JtfZ6ALNetTJqi05oO5o2YjYk4OW4RBeFLsbDoUzAEzhmfcb1k3ODZW_tkKLl-QaHw__PLTKoefXPm4MaXPxbSbJJNcjdjHo93QMTn-4yBN4TQ1tXSWo68zzkaJ7e8q6Ytg0agwtLXBVWfPw_IbQlmELbhx18DFxwUMIGMQ75z1ZRLbzS2VbQ44g%2C%2C, line 91: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[Child 28380] ###!!! ABORT: Aborting on channel error.: file /build/firefox-z5GTBX/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 28380] ###!!! ABORT: Aborting on channel error.: file /build/firefox-z5GTBX/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+1487647027492	geckodriver	INFO	Listening on 127.0.0.1:58339
+1487647028597	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.4f829ie0KsFP
+1487647028597	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1487647028600	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46170
+1487647029236	Marionette	INFO	Listening on port 46170
+JavaScript error: http://adexchangeprediction.com/script/packcpm.php?stamat=j%7CB75ie343djtnG6J1eCpjLioheCtnQ6p1eaonP75x.bff%2CpmXAyZnRPIuHytULujvRaLYRuK3pGbvTHqhV_YqNQujo-s9i04LGYOeQnylqLZNdUQP9W3Rr2wr9dNWo56bNXjmZxXodDSUoe9-0KnV-Z9OU0P8mlGZpJcJptz-OzxVHL3J5wI2FppmPYUyHBTXVklxPlZb53SFGNiXwJS5o55ymfP7QZUiW28XzkDMiF8U86k-UiEiM5Qr5mbC0VOO7mmj6ru1zwJ1WjcMzzGNYD76oW8__Dh46ggOcFNToanDLUQb15z1eSt22OwmGEPkLaPJq9YcCWG2cY9QCQVNIyc7nljhLnie8YMmk68pmoX76wTJlcudDI_Mzbo0URvATmQNthMNPG3fFkZAa2wY4y13h3VHyPRJ_5ebr06pGpMuWbA9ftEMNFpkG6j0DqjDiqzoVF0k_uGwvP3A8NkolxAfxZyhjDE31I_PUqXdXEV5LER33w2wLcM4yXSkzbFrYrw%2C%2C, line 91: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+JavaScript error: http://www.adspredictiv.com/a/display.php?r=1452183&sub1=2778578649&sub2=3ea6c5f4-f7e4-11e6-a0a7-cae258990218, line 91: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+[Child 28712] ###!!! ABORT: Aborting on channel error.: file /build/firefox-z5GTBX/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 28712] ###!!! ABORT: Aborting on channel error.: file /build/firefox-z5GTBX/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+1487647135852	geckodriver	INFO	Listening on 127.0.0.1:47161
+1487647135967	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.N44ixchPXwrJ
+1487647135968	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1487647135973	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43476
+1487647136631	Marionette	INFO	Listening on port 43476
+JavaScript error: http://adexchangeprediction.com/script/packcpm.php?stamat=j%7CB7Z2dj9jEuonG6J1eCpjLioheCtnQ6p1eaonP75x.ccd%2C4byOafvzms7KL6iONfr9ZYLUlk70M_HFz0cz7GzwROGkZ1onS7chu8vA6-_kA8lfggiySneE-52TAgSrEaYkU6W9D0LRw_F8HAC05EeD5mCZj4klmgKrwwA3yxt6NRddEHPvI7qYv4bNiW2uaKmX8HfmviIqguRUe5Jq5mwKRDp3V0yHZpMNu8Jj1lX0AVK437jhzMizXlBeSeEhjZK7QIHPhJ3Zyv0WwA8qHaPpnTB6Th7z8DnFQMTOIu_KORtAUt-D6SppIOWt7cY4-63HdZWarvRQxEGnFeiKb5MZlOTzILtbhAonG0M0VW0odXH6Y_5fwQEuYpI_OLa_G8fQ561z7zVd49FIGRf6D7woOJucU9PbqbWUAFRJaFEHC8-Hmmich1pzIywpVgrg8Qvyq2rxpNNp5J-enG8NG4wg-GpDfiYZ7HFL14bwF233H-5XfHZG8XsFHn9iBg4FajzQTA%2C%2C, line 91: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+[Child 28972] ###!!! ABORT: Aborting on channel error.: file /build/firefox-z5GTBX/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 28972] ###!!! ABORT: Aborting on channel error.: file /build/firefox-z5GTBX/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+1487647331845	geckodriver	INFO	Listening on 127.0.0.1:53346
+1487647332944	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.9omBVdm0lZIc
+1487647332945	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1487647332947	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38485
+1487647333586	Marionette	INFO	Listening on port 38485
+JavaScript error: http://www.adspredictiv.com/a/display.php?r=1452183&sub1=239282585&sub2=f4258fc8-f7e4-11e6-8f5a-4e4e3e1c4387, line 91: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+[Child 29362] ###!!! ABORT: Aborting on channel error.: file /build/firefox-z5GTBX/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 29362] ###!!! ABORT: Aborting on channel error.: file /build/firefox-z5GTBX/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+1487647382470	geckodriver	INFO	Listening on 127.0.0.1:49524
+1487647383561	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.PggyQFNQQs60
+1487647383562	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1487647383565	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36889
+1487647384205	Marionette	INFO	Listening on port 36889
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[Child 29531] ###!!! ABORT: Aborting on channel error.: file /build/firefox-z5GTBX/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 29531] ###!!! ABORT: Aborting on channel error.: file /build/firefox-z5GTBX/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+1487647858185	geckodriver	INFO	Listening on 127.0.0.1:36195
+1487647859289	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.MqHl20gWysdI
+1487647859290	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1487647859293	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44207
+1487647859497	addons.manager	DEBUG	Application has been upgraded
+1487647859515	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/XPIProvider.jsm: ["XPIProvider"]
+1487647859517	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/LightweightThemeManager.jsm: ["LightweightThemeManager"]
+1487647859521	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/GMPProvider.jsm
+1487647859523	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/PluginProvider.jsm
+1487647859524	addons.manager	DEBUG	Starting provider: XPIProvider
+1487647859524	addons.xpi	DEBUG	startup
+1487647859525	addons.xpi	INFO	SystemAddonInstallLocation directory is missing
+1487647859525	addons.xpi	INFO	Mapping firefox@getpocket.com to /usr/lib/firefox/browser/features/firefox@getpocket.com.xpi
+1487647859525	addons.xpi	INFO	Mapping e10srollout@mozilla.org to /usr/lib/firefox/browser/features/e10srollout@mozilla.org.xpi
+1487647859526	addons.xpi	INFO	Mapping aushelper@mozilla.org to /usr/lib/firefox/browser/features/aushelper@mozilla.org.xpi
+1487647859526	addons.xpi	INFO	Mapping webcompat@mozilla.org to /usr/lib/firefox/browser/features/webcompat@mozilla.org.xpi
+1487647859527	addons.xpi	INFO	Mapping langpack-en-GB@firefox.mozilla.org to /usr/lib/firefox/browser/extensions/langpack-en-GB@firefox.mozilla.org.xpi
+1487647859527	addons.xpi	INFO	Mapping {972ce4c6-7e08-4474-a285-3208198ce6fd} to /usr/lib/firefox/browser/extensions/{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi
+1487647859527	addons.xpi	INFO	Mapping langpack-en-ZA@firefox.mozilla.org to /usr/lib/firefox/browser/extensions/langpack-en-ZA@firefox.mozilla.org.xpi
+1487647859528	addons.xpi	DEBUG	checkForChanges
+1487647859528	addons.xpi	DEBUG	Loaded add-on state from prefs: {}
+1487647859529	addons.xpi	DEBUG	New add-on firefox@getpocket.com in app-system-defaults
+1487647859530	addons.xpi	DEBUG	getModTime: Recursive scan of firefox@getpocket.com
+1487647859530	addons.xpi	DEBUG	New add-on e10srollout@mozilla.org in app-system-defaults
+1487647859531	addons.xpi	DEBUG	getModTime: Recursive scan of e10srollout@mozilla.org
+1487647859531	addons.xpi	DEBUG	New add-on aushelper@mozilla.org in app-system-defaults
+1487647859532	addons.xpi	DEBUG	getModTime: Recursive scan of aushelper@mozilla.org
+1487647859532	addons.xpi	DEBUG	New add-on webcompat@mozilla.org in app-system-defaults
+1487647859532	addons.xpi	DEBUG	getModTime: Recursive scan of webcompat@mozilla.org
+1487647859533	addons.xpi	DEBUG	New add-on langpack-en-GB@firefox.mozilla.org in app-global
+1487647859533	addons.xpi	DEBUG	getModTime: Recursive scan of langpack-en-GB@firefox.mozilla.org
+1487647859533	addons.xpi	DEBUG	New add-on {972ce4c6-7e08-4474-a285-3208198ce6fd} in app-global
+1487647859533	addons.xpi	DEBUG	getModTime: Recursive scan of {972ce4c6-7e08-4474-a285-3208198ce6fd}
+1487647859534	addons.xpi	DEBUG	New add-on langpack-en-ZA@firefox.mozilla.org in app-global
+1487647859534	addons.xpi	DEBUG	getModTime: Recursive scan of langpack-en-ZA@firefox.mozilla.org
+1487647859534	addons.xpi	DEBUG	getInstallState changed: true, state: {"app-system-defaults":{"firefox@getpocket.com":{"d":"/usr/lib/firefox/browser/features/firefox@getpocket.com.xpi","st":1485985013000},"e10srollout@mozilla.org":{"d":"/usr/lib/firefox/browser/features/e10srollout@mozilla.org.xpi","st":1485985012000},"aushelper@mozilla.org":{"d":"/usr/lib/firefox/browser/features/aushelper@mozilla.org.xpi","st":1485985012000},"webcompat@mozilla.org":{"d":"/usr/lib/firefox/browser/features/webcompat@mozilla.org.xpi","st":1485985013000}},"app-global":{"langpack-en-GB@firefox.mozilla.org":{"d":"/usr/lib/firefox/browser/extensions/langpack-en-GB@firefox.mozilla.org.xpi","st":1485988909000},"{972ce4c6-7e08-4474-a285-3208198ce6fd}":{"d":"/usr/lib/firefox/browser/extensions/{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi","st":1485985012000},"langpack-en-ZA@firefox.mozilla.org":{"d":"/usr/lib/firefox/browser/extensions/langpack-en-ZA@firefox.mozilla.org.xpi","st":1485988909000}}}
+1487647859541	addons.xpi-utils	DEBUG	Opening XPI database /tmp/rust_mozprofile.MqHl20gWysdI/extensions.json
+1487647859542	addons.xpi-utils	DEBUG	New add-on firefox@getpocket.com installed in app-system-defaults
+*** Blocklist::_loadBlocklistFromFile: blocklist is disabled
+1487647859553	DeferredSave.extensions.json	DEBUG	Save changes
+1487647859554	addons.xpi-utils	DEBUG	New add-on e10srollout@mozilla.org installed in app-system-defaults
+1487647859557	DeferredSave.extensions.json	DEBUG	Starting timer
+1487647859559	DeferredSave.extensions.json	DEBUG	Save changes
+1487647859559	addons.xpi-utils	DEBUG	New add-on aushelper@mozilla.org installed in app-system-defaults
+1487647859563	DeferredSave.extensions.json	DEBUG	Save changes
+1487647859563	addons.xpi-utils	DEBUG	New add-on webcompat@mozilla.org installed in app-system-defaults
+1487647859568	DeferredSave.extensions.json	DEBUG	Save changes
+1487647859568	addons.xpi-utils	DEBUG	New add-on langpack-en-GB@firefox.mozilla.org installed in app-global
+1487647859578	DeferredSave.extensions.json	DEBUG	Save changes
+1487647859578	addons.xpi-utils	DEBUG	New add-on {972ce4c6-7e08-4474-a285-3208198ce6fd} installed in app-global
+1487647859583	DeferredSave.extensions.json	DEBUG	Save changes
+1487647859583	addons.xpi-utils	DEBUG	New add-on langpack-en-ZA@firefox.mozilla.org installed in app-global
+1487647859592	DeferredSave.extensions.json	DEBUG	Save changes
+1487647859593	addons.manager	DEBUG	Registering startup change 'installed' for firefox@getpocket.com
+1487647859601	addons.xpi	DEBUG	Loading bootstrap scope from /usr/lib/firefox/browser/features/firefox@getpocket.com.xpi
+1487647859606	addons.xpi	DEBUG	Calling bootstrap method install on firefox@getpocket.com version 1.0.5
+1487647859606	addons.xpi-utils	DEBUG	Make addon app-system-defaults:firefox@getpocket.com visible
+1487647859607	DeferredSave.extensions.json	DEBUG	Save changes
+1487647859607	addons.manager	DEBUG	Registering startup change 'installed' for e10srollout@mozilla.org
+1487647859608	addons.xpi	DEBUG	Loading bootstrap scope from /usr/lib/firefox/browser/features/e10srollout@mozilla.org.xpi
+1487647859610	addons.xpi	DEBUG	Calling bootstrap method install on e10srollout@mozilla.org version 1.7
+1487647859611	addons.xpi-utils	DEBUG	Make addon app-system-defaults:e10srollout@mozilla.org visible
+1487647859611	DeferredSave.extensions.json	DEBUG	Save changes
+1487647859611	addons.manager	DEBUG	Registering startup change 'installed' for aushelper@mozilla.org
+1487647859612	addons.xpi	DEBUG	Loading bootstrap scope from /usr/lib/firefox/browser/features/aushelper@mozilla.org.xpi
+1487647859614	addons.xpi	DEBUG	Calling bootstrap method install on aushelper@mozilla.org version 1.0
+1487647859614	addons.xpi-utils	DEBUG	Make addon app-system-defaults:aushelper@mozilla.org visible
+1487647859614	DeferredSave.extensions.json	DEBUG	Save changes
+1487647859614	addons.manager	DEBUG	Registering startup change 'installed' for webcompat@mozilla.org
+1487647859615	addons.xpi	DEBUG	Loading bootstrap scope from /usr/lib/firefox/browser/features/webcompat@mozilla.org.xpi
+1487647859616	addons.xpi	DEBUG	Calling bootstrap method install on webcompat@mozilla.org version 1.0
+1487647859617	addons.xpi-utils	DEBUG	Make addon app-system-defaults:webcompat@mozilla.org visible
+1487647859617	DeferredSave.extensions.json	DEBUG	Save changes
+1487647859618	addons.manager	DEBUG	Registering startup change 'installed' for langpack-en-GB@firefox.mozilla.org
+1487647859618	addons.manager	DEBUG	Registering startup change 'installed' for langpack-en-GB@firefox.mozilla.org
+1487647859618	addons.xpi-utils	DEBUG	Make addon app-global:langpack-en-GB@firefox.mozilla.org visible
+1487647859618	DeferredSave.extensions.json	DEBUG	Save changes
+1487647859619	addons.xpi-utils	DEBUG	Make addon app-global:{972ce4c6-7e08-4474-a285-3208198ce6fd} visible
+1487647859619	DeferredSave.extensions.json	DEBUG	Save changes
+1487647859619	addons.manager	DEBUG	Registering startup change 'installed' for langpack-en-ZA@firefox.mozilla.org
+1487647859619	addons.manager	DEBUG	Registering startup change 'installed' for langpack-en-ZA@firefox.mozilla.org
+1487647859619	addons.xpi-utils	DEBUG	Make addon app-global:langpack-en-ZA@firefox.mozilla.org visible
+1487647859620	DeferredSave.extensions.json	DEBUG	Save changes
+1487647859620	addons.xpi	DEBUG	Updating XPIState for {"id":"firefox@getpocket.com","syncGUID":"{307ad5d3-cfdc-4f84-a3c3-3dff6eb8b696}","location":"app-system-defaults","version":"1.0.5","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Pocket","description":"When you find something you want to view later, put it in Pocket.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"/usr/lib/firefox/browser/features/firefox@getpocket.com.xpi","installDate":1485985013000,"updateDate":1485985013000,"applyBackgroundUpdates":1,"bootstrap":true,"skinnable":false,"size":921011,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"51.0.1","maxVersion":"51.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false}
+1487647859620	addons.xpi	DEBUG	getModTime: Recursive scan of firefox@getpocket.com
+1487647859621	addons.xpi	DEBUG	Updating XPIState for {"id":"e10srollout@mozilla.org","syncGUID":"{c984d871-73d8-46a3-adb9-c71a149f0679}","location":"app-system-defaults","version":"1.7","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Multi-process staged rollout","description":"Staged rollout of Firefox multi-process feature.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"/usr/lib/firefox/browser/features/e10srollout@mozilla.org.xpi","installDate":1485985012000,"updateDate":1485985012000,"applyBackgroundUpdates":1,"bootstrap":true,"skinnable":false,"size":6997,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"51.0.1","maxVersion":"51.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false}
+1487647859621	addons.xpi	DEBUG	getModTime: Recursive scan of e10srollout@mozilla.org
+1487647859621	addons.xpi	DEBUG	Updating XPIState for {"id":"aushelper@mozilla.org","syncGUID":"{c157a0c9-417b-4764-8502-c4fbea56c5c5}","location":"app-system-defaults","version":"1.0","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Application Update Service Helper","description":"Sets value(s) in the update url based on custom checks.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"/usr/lib/firefox/browser/features/aushelper@mozilla.org.xpi","installDate":1485985012000,"updateDate":1485985012000,"applyBackgroundUpdates":1,"bootstrap":true,"skinnable":false,"size":5975,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"51.0.1","maxVersion":"51.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false}
+1487647859621	addons.xpi	DEBUG	getModTime: Recursive scan of aushelper@mozilla.org
+1487647859622	addons.xpi	DEBUG	Updating XPIState for {"id":"webcompat@mozilla.org","syncGUID":"{c7e1f86b-fa85-4d37-842c-4dcf1d2762c1}","location":"app-system-defaults","version":"1.0","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Web Compat","description":"Urgent post-release fixes for web compatibility.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"/usr/lib/firefox/browser/features/webcompat@mozilla.org.xpi","installDate":1485985013000,"updateDate":1485985013000,"applyBackgroundUpdates":1,"bootstrap":true,"skinnable":false,"size":1570,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"51.0.1","maxVersion":"51.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false}
+1487647859622	addons.xpi	DEBUG	getModTime: Recursive scan of webcompat@mozilla.org
+1487647859622	addons.xpi	DEBUG	Updating XPIState for {"id":"langpack-en-GB@firefox.mozilla.org","syncGUID":"{12f32c14-4cd5-4fe0-8d6c-59f4e94e1322}","location":"app-global","version":"51.0.1","type":"locale","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"English (GB) Language Pack","description":null,"creator":"Mark Tyndall","homepageURL":null,"contributors":["David Bartlett","Constantine Murenin","Ian Neal"]},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"/usr/lib/firefox/browser/extensions/langpack-en-GB@firefox.mozilla.org.xpi","installDate":1485988909000,"updateDate":1485988909000,"applyBackgroundUpdates":1,"bootstrap":true,"skinnable":false,"size":1124968,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":true,"hasBinaryComponents":false,"strictCompatibility":true,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"51.0.1","maxVersion":"51.*"}],"targetPlatforms":[],"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false}
+1487647859622	addons.xpi	DEBUG	getModTime: Recursive scan of langpack-en-GB@firefox.mozilla.org
+1487647859623	addons.xpi	DEBUG	Updating XPIState for {"id":"{972ce4c6-7e08-4474-a285-3208198ce6fd}","syncGUID":"{bcc92a27-8e24-4b52-93ac-69ec7f628dc1}","location":"app-global","version":"51.0.1","type":"theme","internalName":"classic/1.0","updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{"32":"icon.png","48":"icon.png"},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Default","description":"The default theme.","creator":"Mozilla","homepageURL":null,"contributors":["Mozilla Contributors"]},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"/usr/lib/firefox/browser/extensions/{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi","installDate":1485985012000,"updateDate":1485985012000,"applyBackgroundUpdates":1,"skinnable":true,"size":4932,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":true,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"51.0.1","maxVersion":"51.0.1"}],"targetPlatforms":[],"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false}
+1487647859623	addons.xpi	DEBUG	getModTime: Recursive scan of {972ce4c6-7e08-4474-a285-3208198ce6fd}
+1487647859623	addons.xpi	DEBUG	Updating XPIState for {"id":"langpack-en-ZA@firefox.mozilla.org","syncGUID":"{f0715342-123a-4c8a-bee5-79deaa022d9f}","location":"app-global","version":"51.0.1","type":"locale","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"English (South Africa) Language Pack","description":null,"creator":"Translate.org.za","homepageURL":null,"contributors":["Translate.org.za","Dwayne Bailey"]},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"/usr/lib/firefox/browser/extensions/langpack-en-ZA@firefox.mozilla.org.xpi","installDate":1485988909000,"updateDate":1485988909000,"applyBackgroundUpdates":1,"bootstrap":true,"skinnable":false,"size":1159603,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":true,"hasBinaryComponents":false,"strictCompatibility":true,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"51.0.1","maxVersion":"51.*"}],"targetPlatforms":[],"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false}
+1487647859623	addons.xpi	DEBUG	getModTime: Recursive scan of langpack-en-ZA@firefox.mozilla.org
+1487647859624	DeferredSave.extensions.json	DEBUG	Save changes
+1487647859624	addons.xpi	DEBUG	Updating database with changes to installed add-ons
+1487647859624	addons.xpi-utils	DEBUG	Updating add-on states
+1487647859625	addons.xpi-utils	DEBUG	Writing add-ons list
+1487647859626	addons.xpi	DEBUG	Registering manifest for /usr/lib/firefox/browser/features/aushelper@mozilla.org.xpi
+1487647859626	addons.xpi	DEBUG	Calling bootstrap method startup on aushelper@mozilla.org version 1.0
+1487647859627	addons.xpi	DEBUG	Registering manifest for /usr/lib/firefox/browser/features/e10srollout@mozilla.org.xpi
+1487647859628	addons.xpi	DEBUG	Calling bootstrap method startup on e10srollout@mozilla.org version 1.7
+1487647859629	addons.xpi	DEBUG	Registering manifest for /usr/lib/firefox/browser/features/firefox@getpocket.com.xpi
+1487647859630	addons.xpi	DEBUG	Calling bootstrap method startup on firefox@getpocket.com version 1.0.5
+1487647859631	addons.xpi	DEBUG	Registering manifest for /usr/lib/firefox/browser/extensions/langpack-en-GB@firefox.mozilla.org.xpi
+1487647859632	addons.xpi	DEBUG	Registering manifest for /usr/lib/firefox/browser/extensions/langpack-en-ZA@firefox.mozilla.org.xpi
+1487647859633	addons.xpi	DEBUG	Registering manifest for /usr/lib/firefox/browser/features/webcompat@mozilla.org.xpi
+1487647859634	addons.xpi	DEBUG	Calling bootstrap method startup on webcompat@mozilla.org version 1.0
+1487647859636	addons.manager	DEBUG	Registering shutdown blocker for XPIProvider
+1487647859637	addons.manager	DEBUG	Provider finished startup: XPIProvider
+1487647859637	addons.manager	DEBUG	Starting provider: LightweightThemeManager
+1487647859637	addons.manager	DEBUG	Registering shutdown blocker for LightweightThemeManager
+1487647859637	addons.manager	DEBUG	Provider finished startup: LightweightThemeManager
+1487647859638	addons.manager	DEBUG	Starting provider: GMPProvider
+1487647859645	addons.manager	DEBUG	Registering shutdown blocker for GMPProvider
+1487647859645	addons.manager	DEBUG	Provider finished startup: GMPProvider
+1487647859645	addons.manager	DEBUG	Starting provider: PluginProvider
+1487647859645	addons.manager	DEBUG	Registering shutdown blocker for PluginProvider
+1487647859645	addons.manager	DEBUG	Provider finished startup: PluginProvider
+1487647859646	addons.manager	DEBUG	Completed startup sequence
+1487647859841	Marionette	INFO	Listening on port 44207
+1487647860128	addons.manager	DEBUG	Starting provider: <unnamed-provider>
+1487647860129	addons.manager	DEBUG	Registering shutdown blocker for <unnamed-provider>
+1487647860129	addons.manager	DEBUG	Provider finished startup: <unnamed-provider>
+1487647860142	addons.manager	DEBUG	Starting provider: PreviousExperimentProvider
+1487647860142	addons.manager	DEBUG	Registering shutdown blocker for PreviousExperimentProvider
+1487647860142	addons.manager	DEBUG	Provider finished startup: PreviousExperimentProvider
+1487647860145	DeferredSave.extensions.json	DEBUG	Starting write
+1487647860261	DeferredSave.extensions.json	DEBUG	Write succeeded
+1487647860262	addons.xpi-utils	DEBUG	XPI Database saved, setting schema version preference to 19
+[Child 30345] ###!!! ABORT: Aborting on channel error.: file /build/firefox-z5GTBX/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 30345] ###!!! ABORT: Aborting on channel error.: file /build/firefox-z5GTBX/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+1487647928405	geckodriver	INFO	Listening on 127.0.0.1:58297
+1487647929508	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.W6Ds5Jz0yLO0
+1487647929509	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1487647929512	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45651
+1487647929718	addons.manager	DEBUG	Application has been upgraded
+1487647929736	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/XPIProvider.jsm: ["XPIProvider"]
+1487647929738	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/LightweightThemeManager.jsm: ["LightweightThemeManager"]
+1487647929742	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/GMPProvider.jsm
+1487647929744	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/PluginProvider.jsm
+1487647929745	addons.manager	DEBUG	Starting provider: XPIProvider
+1487647929746	addons.xpi	DEBUG	startup
+1487647929746	addons.xpi	INFO	SystemAddonInstallLocation directory is missing
+1487647929747	addons.xpi	INFO	Mapping firefox@getpocket.com to /usr/lib/firefox/browser/features/firefox@getpocket.com.xpi
+1487647929747	addons.xpi	INFO	Mapping e10srollout@mozilla.org to /usr/lib/firefox/browser/features/e10srollout@mozilla.org.xpi
+1487647929748	addons.xpi	INFO	Mapping aushelper@mozilla.org to /usr/lib/firefox/browser/features/aushelper@mozilla.org.xpi
+1487647929748	addons.xpi	INFO	Mapping webcompat@mozilla.org to /usr/lib/firefox/browser/features/webcompat@mozilla.org.xpi
+1487647929749	addons.xpi	INFO	Mapping langpack-en-GB@firefox.mozilla.org to /usr/lib/firefox/browser/extensions/langpack-en-GB@firefox.mozilla.org.xpi
+1487647929749	addons.xpi	INFO	Mapping {972ce4c6-7e08-4474-a285-3208198ce6fd} to /usr/lib/firefox/browser/extensions/{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi
+1487647929749	addons.xpi	INFO	Mapping langpack-en-ZA@firefox.mozilla.org to /usr/lib/firefox/browser/extensions/langpack-en-ZA@firefox.mozilla.org.xpi
+1487647929750	addons.xpi	DEBUG	checkForChanges
+1487647929750	addons.xpi	DEBUG	Loaded add-on state from prefs: {}
+1487647929751	addons.xpi	DEBUG	New add-on firefox@getpocket.com in app-system-defaults
+1487647929752	addons.xpi	DEBUG	getModTime: Recursive scan of firefox@getpocket.com
+1487647929752	addons.xpi	DEBUG	New add-on e10srollout@mozilla.org in app-system-defaults
+1487647929753	addons.xpi	DEBUG	getModTime: Recursive scan of e10srollout@mozilla.org
+1487647929754	addons.xpi	DEBUG	New add-on aushelper@mozilla.org in app-system-defaults
+1487647929754	addons.xpi	DEBUG	getModTime: Recursive scan of aushelper@mozilla.org
+1487647929754	addons.xpi	DEBUG	New add-on webcompat@mozilla.org in app-system-defaults
+1487647929755	addons.xpi	DEBUG	getModTime: Recursive scan of webcompat@mozilla.org
+1487647929755	addons.xpi	DEBUG	New add-on langpack-en-GB@firefox.mozilla.org in app-global
+1487647929756	addons.xpi	DEBUG	getModTime: Recursive scan of langpack-en-GB@firefox.mozilla.org
+1487647929756	addons.xpi	DEBUG	New add-on {972ce4c6-7e08-4474-a285-3208198ce6fd} in app-global
+1487647929756	addons.xpi	DEBUG	getModTime: Recursive scan of {972ce4c6-7e08-4474-a285-3208198ce6fd}
+1487647929757	addons.xpi	DEBUG	New add-on langpack-en-ZA@firefox.mozilla.org in app-global
+1487647929757	addons.xpi	DEBUG	getModTime: Recursive scan of langpack-en-ZA@firefox.mozilla.org
+1487647929757	addons.xpi	DEBUG	getInstallState changed: true, state: {"app-system-defaults":{"firefox@getpocket.com":{"d":"/usr/lib/firefox/browser/features/firefox@getpocket.com.xpi","st":1485985013000},"e10srollout@mozilla.org":{"d":"/usr/lib/firefox/browser/features/e10srollout@mozilla.org.xpi","st":1485985012000},"aushelper@mozilla.org":{"d":"/usr/lib/firefox/browser/features/aushelper@mozilla.org.xpi","st":1485985012000},"webcompat@mozilla.org":{"d":"/usr/lib/firefox/browser/features/webcompat@mozilla.org.xpi","st":1485985013000}},"app-global":{"langpack-en-GB@firefox.mozilla.org":{"d":"/usr/lib/firefox/browser/extensions/langpack-en-GB@firefox.mozilla.org.xpi","st":1485988909000},"{972ce4c6-7e08-4474-a285-3208198ce6fd}":{"d":"/usr/lib/firefox/browser/extensions/{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi","st":1485985012000},"langpack-en-ZA@firefox.mozilla.org":{"d":"/usr/lib/firefox/browser/extensions/langpack-en-ZA@firefox.mozilla.org.xpi","st":1485988909000}}}
+1487647929764	addons.xpi-utils	DEBUG	Opening XPI database /tmp/rust_mozprofile.W6Ds5Jz0yLO0/extensions.json
+1487647929765	addons.xpi-utils	DEBUG	New add-on firefox@getpocket.com installed in app-system-defaults
+*** Blocklist::_loadBlocklistFromFile: blocklist is disabled
+1487647929777	DeferredSave.extensions.json	DEBUG	Save changes
+1487647929778	addons.xpi-utils	DEBUG	New add-on e10srollout@mozilla.org installed in app-system-defaults
+1487647929781	DeferredSave.extensions.json	DEBUG	Starting timer
+1487647929782	DeferredSave.extensions.json	DEBUG	Save changes
+1487647929782	addons.xpi-utils	DEBUG	New add-on aushelper@mozilla.org installed in app-system-defaults
+1487647929787	DeferredSave.extensions.json	DEBUG	Save changes
+1487647929787	addons.xpi-utils	DEBUG	New add-on webcompat@mozilla.org installed in app-system-defaults
+1487647929791	DeferredSave.extensions.json	DEBUG	Save changes
+1487647929792	addons.xpi-utils	DEBUG	New add-on langpack-en-GB@firefox.mozilla.org installed in app-global
+1487647929803	DeferredSave.extensions.json	DEBUG	Save changes
+1487647929803	addons.xpi-utils	DEBUG	New add-on {972ce4c6-7e08-4474-a285-3208198ce6fd} installed in app-global
+1487647929807	DeferredSave.extensions.json	DEBUG	Save changes
+1487647929807	addons.xpi-utils	DEBUG	New add-on langpack-en-ZA@firefox.mozilla.org installed in app-global
+1487647929817	DeferredSave.extensions.json	DEBUG	Save changes
+1487647929818	addons.manager	DEBUG	Registering startup change 'installed' for firefox@getpocket.com
+1487647929826	addons.xpi	DEBUG	Loading bootstrap scope from /usr/lib/firefox/browser/features/firefox@getpocket.com.xpi
+1487647929832	addons.xpi	DEBUG	Calling bootstrap method install on firefox@getpocket.com version 1.0.5
+1487647929832	addons.xpi-utils	DEBUG	Make addon app-system-defaults:firefox@getpocket.com visible
+1487647929832	DeferredSave.extensions.json	DEBUG	Save changes
+1487647929833	addons.manager	DEBUG	Registering startup change 'installed' for e10srollout@mozilla.org
+1487647929833	addons.xpi	DEBUG	Loading bootstrap scope from /usr/lib/firefox/browser/features/e10srollout@mozilla.org.xpi
+1487647929835	addons.xpi	DEBUG	Calling bootstrap method install on e10srollout@mozilla.org version 1.7
+1487647929836	addons.xpi-utils	DEBUG	Make addon app-system-defaults:e10srollout@mozilla.org visible
+1487647929837	DeferredSave.extensions.json	DEBUG	Save changes
+1487647929837	addons.manager	DEBUG	Registering startup change 'installed' for aushelper@mozilla.org
+1487647929837	addons.xpi	DEBUG	Loading bootstrap scope from /usr/lib/firefox/browser/features/aushelper@mozilla.org.xpi
+1487647929840	addons.xpi	DEBUG	Calling bootstrap method install on aushelper@mozilla.org version 1.0
+1487647929840	addons.xpi-utils	DEBUG	Make addon app-system-defaults:aushelper@mozilla.org visible
+1487647929840	DeferredSave.extensions.json	DEBUG	Save changes
+1487647929840	addons.manager	DEBUG	Registering startup change 'installed' for webcompat@mozilla.org
+1487647929841	addons.xpi	DEBUG	Loading bootstrap scope from /usr/lib/firefox/browser/features/webcompat@mozilla.org.xpi
+1487647929842	addons.xpi	DEBUG	Calling bootstrap method install on webcompat@mozilla.org version 1.0
+1487647929842	addons.xpi-utils	DEBUG	Make addon app-system-defaults:webcompat@mozilla.org visible
+1487647929843	DeferredSave.extensions.json	DEBUG	Save changes
+1487647929844	addons.manager	DEBUG	Registering startup change 'installed' for langpack-en-GB@firefox.mozilla.org
+1487647929844	addons.manager	DEBUG	Registering startup change 'installed' for langpack-en-GB@firefox.mozilla.org
+1487647929844	addons.xpi-utils	DEBUG	Make addon app-global:langpack-en-GB@firefox.mozilla.org visible
+1487647929844	DeferredSave.extensions.json	DEBUG	Save changes
+1487647929844	addons.xpi-utils	DEBUG	Make addon app-global:{972ce4c6-7e08-4474-a285-3208198ce6fd} visible
+1487647929845	DeferredSave.extensions.json	DEBUG	Save changes
+1487647929845	addons.manager	DEBUG	Registering startup change 'installed' for langpack-en-ZA@firefox.mozilla.org
+1487647929845	addons.manager	DEBUG	Registering startup change 'installed' for langpack-en-ZA@firefox.mozilla.org
+1487647929845	addons.xpi-utils	DEBUG	Make addon app-global:langpack-en-ZA@firefox.mozilla.org visible
+1487647929846	DeferredSave.extensions.json	DEBUG	Save changes
+1487647929846	addons.xpi	DEBUG	Updating XPIState for {"id":"firefox@getpocket.com","syncGUID":"{1f293330-eaf9-4e8a-b45e-9271d677234c}","location":"app-system-defaults","version":"1.0.5","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Pocket","description":"When you find something you want to view later, put it in Pocket.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"/usr/lib/firefox/browser/features/firefox@getpocket.com.xpi","installDate":1485985013000,"updateDate":1485985013000,"applyBackgroundUpdates":1,"bootstrap":true,"skinnable":false,"size":921011,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"51.0.1","maxVersion":"51.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false}
+1487647929846	addons.xpi	DEBUG	getModTime: Recursive scan of firefox@getpocket.com
+1487647929846	addons.xpi	DEBUG	Updating XPIState for {"id":"e10srollout@mozilla.org","syncGUID":"{a2220149-26a1-49ce-a6f0-fe3cfb57acef}","location":"app-system-defaults","version":"1.7","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Multi-process staged rollout","description":"Staged rollout of Firefox multi-process feature.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"/usr/lib/firefox/browser/features/e10srollout@mozilla.org.xpi","installDate":1485985012000,"updateDate":1485985012000,"applyBackgroundUpdates":1,"bootstrap":true,"skinnable":false,"size":6997,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"51.0.1","maxVersion":"51.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false}
+1487647929846	addons.xpi	DEBUG	getModTime: Recursive scan of e10srollout@mozilla.org
+1487647929847	addons.xpi	DEBUG	Updating XPIState for {"id":"aushelper@mozilla.org","syncGUID":"{9ca460c7-1f5a-466e-8bf5-7ae34dd3c85f}","location":"app-system-defaults","version":"1.0","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Application Update Service Helper","description":"Sets value(s) in the update url based on custom checks.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"/usr/lib/firefox/browser/features/aushelper@mozilla.org.xpi","installDate":1485985012000,"updateDate":1485985012000,"applyBackgroundUpdates":1,"bootstrap":true,"skinnable":false,"size":5975,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"51.0.1","maxVersion":"51.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false}
+1487647929847	addons.xpi	DEBUG	getModTime: Recursive scan of aushelper@mozilla.org
+1487647929847	addons.xpi	DEBUG	Updating XPIState for {"id":"webcompat@mozilla.org","syncGUID":"{e2ec40a7-b3a5-4924-b6bb-2e21a6539a1b}","location":"app-system-defaults","version":"1.0","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Web Compat","description":"Urgent post-release fixes for web compatibility.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"/usr/lib/firefox/browser/features/webcompat@mozilla.org.xpi","installDate":1485985013000,"updateDate":1485985013000,"applyBackgroundUpdates":1,"bootstrap":true,"skinnable":false,"size":1570,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"51.0.1","maxVersion":"51.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false}
+1487647929848	addons.xpi	DEBUG	getModTime: Recursive scan of webcompat@mozilla.org
+1487647929848	addons.xpi	DEBUG	Updating XPIState for {"id":"langpack-en-GB@firefox.mozilla.org","syncGUID":"{a2e2f446-b6e9-4a04-ac1f-be056c353d52}","location":"app-global","version":"51.0.1","type":"locale","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"English (GB) Language Pack","description":null,"creator":"Mark Tyndall","homepageURL":null,"contributors":["David Bartlett","Constantine Murenin","Ian Neal"]},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"/usr/lib/firefox/browser/extensions/langpack-en-GB@firefox.mozilla.org.xpi","installDate":1485988909000,"updateDate":1485988909000,"applyBackgroundUpdates":1,"bootstrap":true,"skinnable":false,"size":1124968,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":true,"hasBinaryComponents":false,"strictCompatibility":true,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"51.0.1","maxVersion":"51.*"}],"targetPlatforms":[],"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false}
+1487647929848	addons.xpi	DEBUG	getModTime: Recursive scan of langpack-en-GB@firefox.mozilla.org
+1487647929849	addons.xpi	DEBUG	Updating XPIState for {"id":"{972ce4c6-7e08-4474-a285-3208198ce6fd}","syncGUID":"{9c664d3f-6668-4d72-9ac9-1b9bfafad748}","location":"app-global","version":"51.0.1","type":"theme","internalName":"classic/1.0","updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{"32":"icon.png","48":"icon.png"},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Default","description":"The default theme.","creator":"Mozilla","homepageURL":null,"contributors":["Mozilla Contributors"]},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"/usr/lib/firefox/browser/extensions/{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi","installDate":1485985012000,"updateDate":1485985012000,"applyBackgroundUpdates":1,"skinnable":true,"size":4932,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":true,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"51.0.1","maxVersion":"51.0.1"}],"targetPlatforms":[],"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false}
+1487647929849	addons.xpi	DEBUG	getModTime: Recursive scan of {972ce4c6-7e08-4474-a285-3208198ce6fd}
+1487647929849	addons.xpi	DEBUG	Updating XPIState for {"id":"langpack-en-ZA@firefox.mozilla.org","syncGUID":"{43fb4716-f9fc-46ea-a4e4-60e134fb36e6}","location":"app-global","version":"51.0.1","type":"locale","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"English (South Africa) Language Pack","description":null,"creator":"Translate.org.za","homepageURL":null,"contributors":["Translate.org.za","Dwayne Bailey"]},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"/usr/lib/firefox/browser/extensions/langpack-en-ZA@firefox.mozilla.org.xpi","installDate":1485988909000,"updateDate":1485988909000,"applyBackgroundUpdates":1,"bootstrap":true,"skinnable":false,"size":1159603,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":true,"hasBinaryComponents":false,"strictCompatibility":true,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"51.0.1","maxVersion":"51.*"}],"targetPlatforms":[],"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false}
+1487647929849	addons.xpi	DEBUG	getModTime: Recursive scan of langpack-en-ZA@firefox.mozilla.org
+1487647929850	DeferredSave.extensions.json	DEBUG	Save changes
+1487647929850	addons.xpi	DEBUG	Updating database with changes to installed add-ons
+1487647929850	addons.xpi-utils	DEBUG	Updating add-on states
+1487647929851	addons.xpi-utils	DEBUG	Writing add-ons list
+1487647929852	addons.xpi	DEBUG	Registering manifest for /usr/lib/firefox/browser/features/aushelper@mozilla.org.xpi
+1487647929852	addons.xpi	DEBUG	Calling bootstrap method startup on aushelper@mozilla.org version 1.0
+1487647929853	addons.xpi	DEBUG	Registering manifest for /usr/lib/firefox/browser/features/e10srollout@mozilla.org.xpi
+1487647929854	addons.xpi	DEBUG	Calling bootstrap method startup on e10srollout@mozilla.org version 1.7
+1487647929855	addons.xpi	DEBUG	Registering manifest for /usr/lib/firefox/browser/features/firefox@getpocket.com.xpi
+1487647929856	addons.xpi	DEBUG	Calling bootstrap method startup on firefox@getpocket.com version 1.0.5
+1487647929857	addons.xpi	DEBUG	Registering manifest for /usr/lib/firefox/browser/extensions/langpack-en-GB@firefox.mozilla.org.xpi
+1487647929858	addons.xpi	DEBUG	Registering manifest for /usr/lib/firefox/browser/extensions/langpack-en-ZA@firefox.mozilla.org.xpi
+1487647929859	addons.xpi	DEBUG	Registering manifest for /usr/lib/firefox/browser/features/webcompat@mozilla.org.xpi
+1487647929859	addons.xpi	DEBUG	Calling bootstrap method startup on webcompat@mozilla.org version 1.0
+1487647929862	addons.manager	DEBUG	Registering shutdown blocker for XPIProvider
+1487647929862	addons.manager	DEBUG	Provider finished startup: XPIProvider
+1487647929862	addons.manager	DEBUG	Starting provider: LightweightThemeManager
+1487647929863	addons.manager	DEBUG	Registering shutdown blocker for LightweightThemeManager
+1487647929863	addons.manager	DEBUG	Provider finished startup: LightweightThemeManager
+1487647929863	addons.manager	DEBUG	Starting provider: GMPProvider
+1487647929870	addons.manager	DEBUG	Registering shutdown blocker for GMPProvider
+1487647929870	addons.manager	DEBUG	Provider finished startup: GMPProvider
+1487647929870	addons.manager	DEBUG	Starting provider: PluginProvider
+1487647929870	addons.manager	DEBUG	Registering shutdown blocker for PluginProvider
+1487647929871	addons.manager	DEBUG	Provider finished startup: PluginProvider
+1487647929871	addons.manager	DEBUG	Completed startup sequence
+1487647930073	Marionette	INFO	Listening on port 45651
+1487647930352	addons.manager	DEBUG	Starting provider: <unnamed-provider>
+1487647930352	addons.manager	DEBUG	Registering shutdown blocker for <unnamed-provider>
+1487647930353	addons.manager	DEBUG	Provider finished startup: <unnamed-provider>
+1487647930365	addons.manager	DEBUG	Starting provider: PreviousExperimentProvider
+1487647930366	addons.manager	DEBUG	Registering shutdown blocker for PreviousExperimentProvider
+1487647930366	addons.manager	DEBUG	Provider finished startup: PreviousExperimentProvider
+1487647930368	DeferredSave.extensions.json	DEBUG	Starting write
+1487647930477	DeferredSave.extensions.json	DEBUG	Write succeeded
+1487647930478	addons.xpi-utils	DEBUG	XPI Database saved, setting schema version preference to 19
+[Child 30523] ###!!! ABORT: Aborting on channel error.: file /build/firefox-z5GTBX/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 30523] ###!!! ABORT: Aborting on channel error.: file /build/firefox-z5GTBX/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+1487648162322	geckodriver	INFO	Listening on 127.0.0.1:44281
+1487648163420	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.37JtLH8ezvV2
+1487648163422	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1487648163432	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33560
+1487648163647	addons.manager	DEBUG	Application has been upgraded
+1487648163666	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/XPIProvider.jsm: ["XPIProvider"]
+1487648163668	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/LightweightThemeManager.jsm: ["LightweightThemeManager"]
+1487648163672	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/GMPProvider.jsm
+1487648163674	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/PluginProvider.jsm
+1487648163674	addons.manager	DEBUG	Starting provider: XPIProvider
+1487648163675	addons.xpi	DEBUG	startup
+1487648163675	addons.xpi	INFO	SystemAddonInstallLocation directory is missing
+1487648163676	addons.xpi	INFO	Mapping firefox@getpocket.com to /usr/lib/firefox/browser/features/firefox@getpocket.com.xpi
+1487648163676	addons.xpi	INFO	Mapping e10srollout@mozilla.org to /usr/lib/firefox/browser/features/e10srollout@mozilla.org.xpi
+1487648163677	addons.xpi	INFO	Mapping aushelper@mozilla.org to /usr/lib/firefox/browser/features/aushelper@mozilla.org.xpi
+1487648163677	addons.xpi	INFO	Mapping webcompat@mozilla.org to /usr/lib/firefox/browser/features/webcompat@mozilla.org.xpi
+1487648163678	addons.xpi	INFO	Mapping langpack-en-GB@firefox.mozilla.org to /usr/lib/firefox/browser/extensions/langpack-en-GB@firefox.mozilla.org.xpi
+1487648163678	addons.xpi	INFO	Mapping {972ce4c6-7e08-4474-a285-3208198ce6fd} to /usr/lib/firefox/browser/extensions/{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi
+1487648163678	addons.xpi	INFO	Mapping langpack-en-ZA@firefox.mozilla.org to /usr/lib/firefox/browser/extensions/langpack-en-ZA@firefox.mozilla.org.xpi
+1487648163679	addons.xpi	DEBUG	checkForChanges
+1487648163679	addons.xpi	DEBUG	Loaded add-on state from prefs: {}
+1487648163680	addons.xpi	DEBUG	New add-on firefox@getpocket.com in app-system-defaults
+1487648163681	addons.xpi	DEBUG	getModTime: Recursive scan of firefox@getpocket.com
+1487648163681	addons.xpi	DEBUG	New add-on e10srollout@mozilla.org in app-system-defaults
+1487648163682	addons.xpi	DEBUG	getModTime: Recursive scan of e10srollout@mozilla.org
+1487648163682	addons.xpi	DEBUG	New add-on aushelper@mozilla.org in app-system-defaults
+1487648163682	addons.xpi	DEBUG	getModTime: Recursive scan of aushelper@mozilla.org
+1487648163683	addons.xpi	DEBUG	New add-on webcompat@mozilla.org in app-system-defaults
+1487648163683	addons.xpi	DEBUG	getModTime: Recursive scan of webcompat@mozilla.org
+1487648163684	addons.xpi	DEBUG	New add-on langpack-en-GB@firefox.mozilla.org in app-global
+1487648163684	addons.xpi	DEBUG	getModTime: Recursive scan of langpack-en-GB@firefox.mozilla.org
+1487648163684	addons.xpi	DEBUG	New add-on {972ce4c6-7e08-4474-a285-3208198ce6fd} in app-global
+1487648163684	addons.xpi	DEBUG	getModTime: Recursive scan of {972ce4c6-7e08-4474-a285-3208198ce6fd}
+1487648163685	addons.xpi	DEBUG	New add-on langpack-en-ZA@firefox.mozilla.org in app-global
+1487648163685	addons.xpi	DEBUG	getModTime: Recursive scan of langpack-en-ZA@firefox.mozilla.org
+1487648163685	addons.xpi	DEBUG	getInstallState changed: true, state: {"app-system-defaults":{"firefox@getpocket.com":{"d":"/usr/lib/firefox/browser/features/firefox@getpocket.com.xpi","st":1485985013000},"e10srollout@mozilla.org":{"d":"/usr/lib/firefox/browser/features/e10srollout@mozilla.org.xpi","st":1485985012000},"aushelper@mozilla.org":{"d":"/usr/lib/firefox/browser/features/aushelper@mozilla.org.xpi","st":1485985012000},"webcompat@mozilla.org":{"d":"/usr/lib/firefox/browser/features/webcompat@mozilla.org.xpi","st":1485985013000}},"app-global":{"langpack-en-GB@firefox.mozilla.org":{"d":"/usr/lib/firefox/browser/extensions/langpack-en-GB@firefox.mozilla.org.xpi","st":1485988909000},"{972ce4c6-7e08-4474-a285-3208198ce6fd}":{"d":"/usr/lib/firefox/browser/extensions/{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi","st":1485985012000},"langpack-en-ZA@firefox.mozilla.org":{"d":"/usr/lib/firefox/browser/extensions/langpack-en-ZA@firefox.mozilla.org.xpi","st":1485988909000}}}
+1487648163692	addons.xpi-utils	DEBUG	Opening XPI database /tmp/rust_mozprofile.37JtLH8ezvV2/extensions.json
+1487648163693	addons.xpi-utils	DEBUG	New add-on firefox@getpocket.com installed in app-system-defaults
+*** Blocklist::_loadBlocklistFromFile: blocklist is disabled
+1487648163705	DeferredSave.extensions.json	DEBUG	Save changes
+1487648163706	addons.xpi-utils	DEBUG	New add-on e10srollout@mozilla.org installed in app-system-defaults
+1487648163709	DeferredSave.extensions.json	DEBUG	Starting timer
+1487648163710	DeferredSave.extensions.json	DEBUG	Save changes
+1487648163711	addons.xpi-utils	DEBUG	New add-on aushelper@mozilla.org installed in app-system-defaults
+1487648163715	DeferredSave.extensions.json	DEBUG	Save changes
+1487648163715	addons.xpi-utils	DEBUG	New add-on webcompat@mozilla.org installed in app-system-defaults
+1487648163719	DeferredSave.extensions.json	DEBUG	Save changes
+1487648163720	addons.xpi-utils	DEBUG	New add-on langpack-en-GB@firefox.mozilla.org installed in app-global
+1487648163731	DeferredSave.extensions.json	DEBUG	Save changes
+1487648163731	addons.xpi-utils	DEBUG	New add-on {972ce4c6-7e08-4474-a285-3208198ce6fd} installed in app-global
+1487648163736	DeferredSave.extensions.json	DEBUG	Save changes
+1487648163736	addons.xpi-utils	DEBUG	New add-on langpack-en-ZA@firefox.mozilla.org installed in app-global
+1487648163747	DeferredSave.extensions.json	DEBUG	Save changes
+1487648163748	addons.manager	DEBUG	Registering startup change 'installed' for firefox@getpocket.com
+1487648163756	addons.xpi	DEBUG	Loading bootstrap scope from /usr/lib/firefox/browser/features/firefox@getpocket.com.xpi
+1487648163762	addons.xpi	DEBUG	Calling bootstrap method install on firefox@getpocket.com version 1.0.5
+1487648163762	addons.xpi-utils	DEBUG	Make addon app-system-defaults:firefox@getpocket.com visible
+1487648163762	DeferredSave.extensions.json	DEBUG	Save changes
+1487648163763	addons.manager	DEBUG	Registering startup change 'installed' for e10srollout@mozilla.org
+1487648163763	addons.xpi	DEBUG	Loading bootstrap scope from /usr/lib/firefox/browser/features/e10srollout@mozilla.org.xpi
+1487648163765	addons.xpi	DEBUG	Calling bootstrap method install on e10srollout@mozilla.org version 1.7
+1487648163766	addons.xpi-utils	DEBUG	Make addon app-system-defaults:e10srollout@mozilla.org visible
+1487648163766	DeferredSave.extensions.json	DEBUG	Save changes
+1487648163767	addons.manager	DEBUG	Registering startup change 'installed' for aushelper@mozilla.org
+1487648163767	addons.xpi	DEBUG	Loading bootstrap scope from /usr/lib/firefox/browser/features/aushelper@mozilla.org.xpi
+1487648163769	addons.xpi	DEBUG	Calling bootstrap method install on aushelper@mozilla.org version 1.0
+1487648163769	addons.xpi-utils	DEBUG	Make addon app-system-defaults:aushelper@mozilla.org visible
+1487648163770	DeferredSave.extensions.json	DEBUG	Save changes
+1487648163770	addons.manager	DEBUG	Registering startup change 'installed' for webcompat@mozilla.org
+1487648163770	addons.xpi	DEBUG	Loading bootstrap scope from /usr/lib/firefox/browser/features/webcompat@mozilla.org.xpi
+1487648163772	addons.xpi	DEBUG	Calling bootstrap method install on webcompat@mozilla.org version 1.0
+1487648163772	addons.xpi-utils	DEBUG	Make addon app-system-defaults:webcompat@mozilla.org visible
+1487648163773	DeferredSave.extensions.json	DEBUG	Save changes
+1487648163773	addons.manager	DEBUG	Registering startup change 'installed' for langpack-en-GB@firefox.mozilla.org
+1487648163773	addons.manager	DEBUG	Registering startup change 'installed' for langpack-en-GB@firefox.mozilla.org
+1487648163774	addons.xpi-utils	DEBUG	Make addon app-global:langpack-en-GB@firefox.mozilla.org visible
+1487648163774	DeferredSave.extensions.json	DEBUG	Save changes
+1487648163774	addons.xpi-utils	DEBUG	Make addon app-global:{972ce4c6-7e08-4474-a285-3208198ce6fd} visible
+1487648163774	DeferredSave.extensions.json	DEBUG	Save changes
+1487648163774	addons.manager	DEBUG	Registering startup change 'installed' for langpack-en-ZA@firefox.mozilla.org
+1487648163774	addons.manager	DEBUG	Registering startup change 'installed' for langpack-en-ZA@firefox.mozilla.org
+1487648163775	addons.xpi-utils	DEBUG	Make addon app-global:langpack-en-ZA@firefox.mozilla.org visible
+1487648163775	DeferredSave.extensions.json	DEBUG	Save changes
+1487648163776	addons.xpi	DEBUG	Updating XPIState for {"id":"firefox@getpocket.com","syncGUID":"{692652c4-179b-43b2-976c-63fdf1715d46}","location":"app-system-defaults","version":"1.0.5","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Pocket","description":"When you find something you want to view later, put it in Pocket.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"/usr/lib/firefox/browser/features/firefox@getpocket.com.xpi","installDate":1485985013000,"updateDate":1485985013000,"applyBackgroundUpdates":1,"bootstrap":true,"skinnable":false,"size":921011,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"51.0.1","maxVersion":"51.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false}
+1487648163776	addons.xpi	DEBUG	getModTime: Recursive scan of firefox@getpocket.com
+1487648163776	addons.xpi	DEBUG	Updating XPIState for {"id":"e10srollout@mozilla.org","syncGUID":"{a5f86e71-4d26-496f-b501-95016aaa4f0a}","location":"app-system-defaults","version":"1.7","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Multi-process staged rollout","description":"Staged rollout of Firefox multi-process feature.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"/usr/lib/firefox/browser/features/e10srollout@mozilla.org.xpi","installDate":1485985012000,"updateDate":1485985012000,"applyBackgroundUpdates":1,"bootstrap":true,"skinnable":false,"size":6997,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"51.0.1","maxVersion":"51.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false}
+1487648163776	addons.xpi	DEBUG	getModTime: Recursive scan of e10srollout@mozilla.org
+1487648163776	addons.xpi	DEBUG	Updating XPIState for {"id":"aushelper@mozilla.org","syncGUID":"{58bc254b-ec11-4020-a253-04f95d693b69}","location":"app-system-defaults","version":"1.0","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Application Update Service Helper","description":"Sets value(s) in the update url based on custom checks.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"/usr/lib/firefox/browser/features/aushelper@mozilla.org.xpi","installDate":1485985012000,"updateDate":1485985012000,"applyBackgroundUpdates":1,"bootstrap":true,"skinnable":false,"size":5975,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"51.0.1","maxVersion":"51.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false}
+1487648163777	addons.xpi	DEBUG	getModTime: Recursive scan of aushelper@mozilla.org
+1487648163777	addons.xpi	DEBUG	Updating XPIState for {"id":"webcompat@mozilla.org","syncGUID":"{fd1235d1-8dc7-484f-9625-23ae1d87aaca}","location":"app-system-defaults","version":"1.0","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Web Compat","description":"Urgent post-release fixes for web compatibility.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"/usr/lib/firefox/browser/features/webcompat@mozilla.org.xpi","installDate":1485985013000,"updateDate":1485985013000,"applyBackgroundUpdates":1,"bootstrap":true,"skinnable":false,"size":1570,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"51.0.1","maxVersion":"51.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false}
+1487648163777	addons.xpi	DEBUG	getModTime: Recursive scan of webcompat@mozilla.org
+1487648163778	addons.xpi	DEBUG	Updating XPIState for {"id":"langpack-en-GB@firefox.mozilla.org","syncGUID":"{c6b06ae7-754f-4eea-b616-911b3ab6d03c}","location":"app-global","version":"51.0.1","type":"locale","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"English (GB) Language Pack","description":null,"creator":"Mark Tyndall","homepageURL":null,"contributors":["David Bartlett","Constantine Murenin","Ian Neal"]},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"/usr/lib/firefox/browser/extensions/langpack-en-GB@firefox.mozilla.org.xpi","installDate":1485988909000,"updateDate":1485988909000,"applyBackgroundUpdates":1,"bootstrap":true,"skinnable":false,"size":1124968,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":true,"hasBinaryComponents":false,"strictCompatibility":true,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"51.0.1","maxVersion":"51.*"}],"targetPlatforms":[],"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false}
+1487648163778	addons.xpi	DEBUG	getModTime: Recursive scan of langpack-en-GB@firefox.mozilla.org
+1487648163778	addons.xpi	DEBUG	Updating XPIState for {"id":"{972ce4c6-7e08-4474-a285-3208198ce6fd}","syncGUID":"{ff560081-f708-41a5-b333-c4ed6b6cf496}","location":"app-global","version":"51.0.1","type":"theme","internalName":"classic/1.0","updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{"32":"icon.png","48":"icon.png"},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Default","description":"The default theme.","creator":"Mozilla","homepageURL":null,"contributors":["Mozilla Contributors"]},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"/usr/lib/firefox/browser/extensions/{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi","installDate":1485985012000,"updateDate":1485985012000,"applyBackgroundUpdates":1,"skinnable":true,"size":4932,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":true,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"51.0.1","maxVersion":"51.0.1"}],"targetPlatforms":[],"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false}
+1487648163778	addons.xpi	DEBUG	getModTime: Recursive scan of {972ce4c6-7e08-4474-a285-3208198ce6fd}
+1487648163779	addons.xpi	DEBUG	Updating XPIState for {"id":"langpack-en-ZA@firefox.mozilla.org","syncGUID":"{ddfb4d79-ecda-4a3b-9de9-b630de6feea6}","location":"app-global","version":"51.0.1","type":"locale","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"English (South Africa) Language Pack","description":null,"creator":"Translate.org.za","homepageURL":null,"contributors":["Translate.org.za","Dwayne Bailey"]},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"/usr/lib/firefox/browser/extensions/langpack-en-ZA@firefox.mozilla.org.xpi","installDate":1485988909000,"updateDate":1485988909000,"applyBackgroundUpdates":1,"bootstrap":true,"skinnable":false,"size":1159603,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":true,"hasBinaryComponents":false,"strictCompatibility":true,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"51.0.1","maxVersion":"51.*"}],"targetPlatforms":[],"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false}
+1487648163779	addons.xpi	DEBUG	getModTime: Recursive scan of langpack-en-ZA@firefox.mozilla.org
+1487648163779	DeferredSave.extensions.json	DEBUG	Save changes
+1487648163780	addons.xpi	DEBUG	Updating database with changes to installed add-ons
+1487648163780	addons.xpi-utils	DEBUG	Updating add-on states
+1487648163780	addons.xpi-utils	DEBUG	Writing add-ons list
+1487648163782	addons.xpi	DEBUG	Registering manifest for /usr/lib/firefox/browser/features/aushelper@mozilla.org.xpi
+1487648163782	addons.xpi	DEBUG	Calling bootstrap method startup on aushelper@mozilla.org version 1.0
+1487648163783	addons.xpi	DEBUG	Registering manifest for /usr/lib/firefox/browser/features/e10srollout@mozilla.org.xpi
+1487648163784	addons.xpi	DEBUG	Calling bootstrap method startup on e10srollout@mozilla.org version 1.7
+1487648163785	addons.xpi	DEBUG	Registering manifest for /usr/lib/firefox/browser/features/firefox@getpocket.com.xpi
+1487648163786	addons.xpi	DEBUG	Calling bootstrap method startup on firefox@getpocket.com version 1.0.5
+1487648163787	addons.xpi	DEBUG	Registering manifest for /usr/lib/firefox/browser/extensions/langpack-en-GB@firefox.mozilla.org.xpi
+1487648163788	addons.xpi	DEBUG	Registering manifest for /usr/lib/firefox/browser/extensions/langpack-en-ZA@firefox.mozilla.org.xpi
+1487648163789	addons.xpi	DEBUG	Registering manifest for /usr/lib/firefox/browser/features/webcompat@mozilla.org.xpi
+1487648163789	addons.xpi	DEBUG	Calling bootstrap method startup on webcompat@mozilla.org version 1.0
+1487648163792	addons.manager	DEBUG	Registering shutdown blocker for XPIProvider
+1487648163792	addons.manager	DEBUG	Provider finished startup: XPIProvider
+1487648163792	addons.manager	DEBUG	Starting provider: LightweightThemeManager
+1487648163792	addons.manager	DEBUG	Registering shutdown blocker for LightweightThemeManager
+1487648163792	addons.manager	DEBUG	Provider finished startup: LightweightThemeManager
+1487648163793	addons.manager	DEBUG	Starting provider: GMPProvider
+1487648163800	addons.manager	DEBUG	Registering shutdown blocker for GMPProvider
+1487648163800	addons.manager	DEBUG	Provider finished startup: GMPProvider
+1487648163800	addons.manager	DEBUG	Starting provider: PluginProvider
+1487648163800	addons.manager	DEBUG	Registering shutdown blocker for PluginProvider
+1487648163801	addons.manager	DEBUG	Provider finished startup: PluginProvider
+1487648163801	addons.manager	DEBUG	Completed startup sequence
+1487648164011	Marionette	ERROR	Error on starting server: [Exception... "Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]"  nsresult: "0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE)"  location: "JS frame :: chrome://marionette/content/server.js :: MarionetteServer.prototype.start :: line 85"  data: no]
+[Exception... "Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]"  nsresult: "0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE)"  location: "JS frame :: chrome://marionette/content/server.js :: MarionetteServer.prototype.start :: line 85"  data: no]
+MarionetteServer.prototype.start@chrome://marionette/content/server.js:85:19
+MarionetteComponent.prototype.init@resource://gre/components/marionette.js:218:5
+MarionetteComponent.prototype.observe@resource://gre/components/marionette.js:142:7
+
+1487648164291	addons.manager	DEBUG	Starting provider: <unnamed-provider>
+1487648164291	addons.manager	DEBUG	Registering shutdown blocker for <unnamed-provider>
+1487648164292	addons.manager	DEBUG	Provider finished startup: <unnamed-provider>
+1487648164305	addons.manager	DEBUG	Starting provider: PreviousExperimentProvider
+1487648164305	addons.manager	DEBUG	Registering shutdown blocker for PreviousExperimentProvider
+1487648164305	addons.manager	DEBUG	Provider finished startup: PreviousExperimentProvider
+1487648164309	DeferredSave.extensions.json	DEBUG	Starting write
+1487648164428	DeferredSave.extensions.json	DEBUG	Write succeeded
+1487648164429	addons.xpi-utils	DEBUG	XPI Database saved, setting schema version preference to 19
+1487648225174	addons.productaddons	INFO	sending request to: https://aus5.mozilla.org/update/3/GMP/51.0.1/20170201180315/Linux_x86_64-gcc3/null/release-cck- ubuntu/Linux%204.4.0-62-generic%20(GTK%203.18.9%2Clibpulse%208.0.0)/canonical/1.0/update.xml
+1487648226290	addons.productaddons	INFO	Completed downloading document
+1487648229523	addons.productaddons	INFO	downloadXHR File download. status=200
+1487648229527	addons.productaddons	INFO	Downloaded file will be saved to /tmp/tmpaddon
+
+(/usr/lib/firefox/plugin-container:30966): Gdk-WARNING **: /usr/lib/firefox/plugin-container: Fatal IO error 11 (Resource temporarily unavailable) on X server :1001.
+
+1487648318927	geckodriver	INFO	Listening on 127.0.0.1:60813
+1487648320021	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.bFzzLukmrJ4S
+1487648320022	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1487648320028	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38251
+1487648320261	addons.manager	DEBUG	Application has been upgraded
+1487648320277	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/XPIProvider.jsm: ["XPIProvider"]
+1487648320279	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/LightweightThemeManager.jsm: ["LightweightThemeManager"]
+1487648320283	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/GMPProvider.jsm
+1487648320285	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/PluginProvider.jsm
+1487648320285	addons.manager	DEBUG	Starting provider: XPIProvider
+1487648320286	addons.xpi	DEBUG	startup
+1487648320286	addons.xpi	INFO	SystemAddonInstallLocation directory is missing
+1487648320287	addons.xpi	INFO	Mapping firefox@getpocket.com to /usr/lib/firefox/browser/features/firefox@getpocket.com.xpi
+1487648320287	addons.xpi	INFO	Mapping e10srollout@mozilla.org to /usr/lib/firefox/browser/features/e10srollout@mozilla.org.xpi
+1487648320288	addons.xpi	INFO	Mapping aushelper@mozilla.org to /usr/lib/firefox/browser/features/aushelper@mozilla.org.xpi
+1487648320288	addons.xpi	INFO	Mapping webcompat@mozilla.org to /usr/lib/firefox/browser/features/webcompat@mozilla.org.xpi
+1487648320289	addons.xpi	INFO	Mapping langpack-en-GB@firefox.mozilla.org to /usr/lib/firefox/browser/extensions/langpack-en-GB@firefox.mozilla.org.xpi
+1487648320289	addons.xpi	INFO	Mapping {972ce4c6-7e08-4474-a285-3208198ce6fd} to /usr/lib/firefox/browser/extensions/{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi
+1487648320289	addons.xpi	INFO	Mapping langpack-en-ZA@firefox.mozilla.org to /usr/lib/firefox/browser/extensions/langpack-en-ZA@firefox.mozilla.org.xpi
+1487648320290	addons.xpi	DEBUG	checkForChanges
+1487648320290	addons.xpi	DEBUG	Loaded add-on state from prefs: {}
+1487648320291	addons.xpi	DEBUG	New add-on firefox@getpocket.com in app-system-defaults
+1487648320292	addons.xpi	DEBUG	getModTime: Recursive scan of firefox@getpocket.com
+1487648320292	addons.xpi	DEBUG	New add-on e10srollout@mozilla.org in app-system-defaults
+1487648320293	addons.xpi	DEBUG	getModTime: Recursive scan of e10srollout@mozilla.org
+1487648320293	addons.xpi	DEBUG	New add-on aushelper@mozilla.org in app-system-defaults
+1487648320293	addons.xpi	DEBUG	getModTime: Recursive scan of aushelper@mozilla.org
+1487648320294	addons.xpi	DEBUG	New add-on webcompat@mozilla.org in app-system-defaults
+1487648320294	addons.xpi	DEBUG	getModTime: Recursive scan of webcompat@mozilla.org
+1487648320294	addons.xpi	DEBUG	New add-on langpack-en-GB@firefox.mozilla.org in app-global
+1487648320295	addons.xpi	DEBUG	getModTime: Recursive scan of langpack-en-GB@firefox.mozilla.org
+1487648320295	addons.xpi	DEBUG	New add-on {972ce4c6-7e08-4474-a285-3208198ce6fd} in app-global
+1487648320295	addons.xpi	DEBUG	getModTime: Recursive scan of {972ce4c6-7e08-4474-a285-3208198ce6fd}
+1487648320296	addons.xpi	DEBUG	New add-on langpack-en-ZA@firefox.mozilla.org in app-global
+1487648320296	addons.xpi	DEBUG	getModTime: Recursive scan of langpack-en-ZA@firefox.mozilla.org
+1487648320296	addons.xpi	DEBUG	getInstallState changed: true, state: {"app-system-defaults":{"firefox@getpocket.com":{"d":"/usr/lib/firefox/browser/features/firefox@getpocket.com.xpi","st":1485985013000},"e10srollout@mozilla.org":{"d":"/usr/lib/firefox/browser/features/e10srollout@mozilla.org.xpi","st":1485985012000},"aushelper@mozilla.org":{"d":"/usr/lib/firefox/browser/features/aushelper@mozilla.org.xpi","st":1485985012000},"webcompat@mozilla.org":{"d":"/usr/lib/firefox/browser/features/webcompat@mozilla.org.xpi","st":1485985013000}},"app-global":{"langpack-en-GB@firefox.mozilla.org":{"d":"/usr/lib/firefox/browser/extensions/langpack-en-GB@firefox.mozilla.org.xpi","st":1485988909000},"{972ce4c6-7e08-4474-a285-3208198ce6fd}":{"d":"/usr/lib/firefox/browser/extensions/{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi","st":1485985012000},"langpack-en-ZA@firefox.mozilla.org":{"d":"/usr/lib/firefox/browser/extensions/langpack-en-ZA@firefox.mozilla.org.xpi","st":1485988909000}}}
+1487648320303	addons.xpi-utils	DEBUG	Opening XPI database /tmp/rust_mozprofile.bFzzLukmrJ4S/extensions.json
+1487648320304	addons.xpi-utils	DEBUG	New add-on firefox@getpocket.com installed in app-system-defaults
+*** Blocklist::_loadBlocklistFromFile: blocklist is disabled
+1487648320315	DeferredSave.extensions.json	DEBUG	Save changes
+1487648320316	addons.xpi-utils	DEBUG	New add-on e10srollout@mozilla.org installed in app-system-defaults
+1487648320318	DeferredSave.extensions.json	DEBUG	Starting timer
+1487648320320	DeferredSave.extensions.json	DEBUG	Save changes
+1487648320320	addons.xpi-utils	DEBUG	New add-on aushelper@mozilla.org installed in app-system-defaults
+1487648320325	DeferredSave.extensions.json	DEBUG	Save changes
+1487648320325	addons.xpi-utils	DEBUG	New add-on webcompat@mozilla.org installed in app-system-defaults
+1487648320329	DeferredSave.extensions.json	DEBUG	Save changes
+1487648320330	addons.xpi-utils	DEBUG	New add-on langpack-en-GB@firefox.mozilla.org installed in app-global
+1487648320340	DeferredSave.extensions.json	DEBUG	Save changes
+1487648320340	addons.xpi-utils	DEBUG	New add-on {972ce4c6-7e08-4474-a285-3208198ce6fd} installed in app-global
+1487648320344	DeferredSave.extensions.json	DEBUG	Save changes
+1487648320344	addons.xpi-utils	DEBUG	New add-on langpack-en-ZA@firefox.mozilla.org installed in app-global
+1487648320353	DeferredSave.extensions.json	DEBUG	Save changes
+1487648320354	addons.manager	DEBUG	Registering startup change 'installed' for firefox@getpocket.com
+1487648320362	addons.xpi	DEBUG	Loading bootstrap scope from /usr/lib/firefox/browser/features/firefox@getpocket.com.xpi
+1487648320368	addons.xpi	DEBUG	Calling bootstrap method install on firefox@getpocket.com version 1.0.5
+1487648320368	addons.xpi-utils	DEBUG	Make addon app-system-defaults:firefox@getpocket.com visible
+1487648320368	DeferredSave.extensions.json	DEBUG	Save changes
+1487648320368	addons.manager	DEBUG	Registering startup change 'installed' for e10srollout@mozilla.org
+1487648320369	addons.xpi	DEBUG	Loading bootstrap scope from /usr/lib/firefox/browser/features/e10srollout@mozilla.org.xpi
+1487648320371	addons.xpi	DEBUG	Calling bootstrap method install on e10srollout@mozilla.org version 1.7
+1487648320372	addons.xpi-utils	DEBUG	Make addon app-system-defaults:e10srollout@mozilla.org visible
+1487648320373	DeferredSave.extensions.json	DEBUG	Save changes
+1487648320373	addons.manager	DEBUG	Registering startup change 'installed' for aushelper@mozilla.org
+1487648320373	addons.xpi	DEBUG	Loading bootstrap scope from /usr/lib/firefox/browser/features/aushelper@mozilla.org.xpi
+1487648320376	addons.xpi	DEBUG	Calling bootstrap method install on aushelper@mozilla.org version 1.0
+1487648320376	addons.xpi-utils	DEBUG	Make addon app-system-defaults:aushelper@mozilla.org visible
+1487648320376	DeferredSave.extensions.json	DEBUG	Save changes
+1487648320376	addons.manager	DEBUG	Registering startup change 'installed' for webcompat@mozilla.org
+1487648320377	addons.xpi	DEBUG	Loading bootstrap scope from /usr/lib/firefox/browser/features/webcompat@mozilla.org.xpi
+1487648320378	addons.xpi	DEBUG	Calling bootstrap method install on webcompat@mozilla.org version 1.0
+1487648320378	addons.xpi-utils	DEBUG	Make addon app-system-defaults:webcompat@mozilla.org visible
+1487648320379	DeferredSave.extensions.json	DEBUG	Save changes
+1487648320379	addons.manager	DEBUG	Registering startup change 'installed' for langpack-en-GB@firefox.mozilla.org
+1487648320379	addons.manager	DEBUG	Registering startup change 'installed' for langpack-en-GB@firefox.mozilla.org
+1487648320380	addons.xpi-utils	DEBUG	Make addon app-global:langpack-en-GB@firefox.mozilla.org visible
+1487648320380	DeferredSave.extensions.json	DEBUG	Save changes
+1487648320380	addons.xpi-utils	DEBUG	Make addon app-global:{972ce4c6-7e08-4474-a285-3208198ce6fd} visible
+1487648320381	DeferredSave.extensions.json	DEBUG	Save changes
+1487648320381	addons.manager	DEBUG	Registering startup change 'installed' for langpack-en-ZA@firefox.mozilla.org
+1487648320381	addons.manager	DEBUG	Registering startup change 'installed' for langpack-en-ZA@firefox.mozilla.org
+1487648320381	addons.xpi-utils	DEBUG	Make addon app-global:langpack-en-ZA@firefox.mozilla.org visible
+1487648320381	DeferredSave.extensions.json	DEBUG	Save changes
+1487648320382	addons.xpi	DEBUG	Updating XPIState for {"id":"firefox@getpocket.com","syncGUID":"{f5f87c3d-3d06-4345-91b6-0fdbf5213515}","location":"app-system-defaults","version":"1.0.5","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Pocket","description":"When you find something you want to view later, put it in Pocket.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"/usr/lib/firefox/browser/features/firefox@getpocket.com.xpi","installDate":1485985013000,"updateDate":1485985013000,"applyBackgroundUpdates":1,"bootstrap":true,"skinnable":false,"size":921011,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"51.0.1","maxVersion":"51.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false}
+1487648320382	addons.xpi	DEBUG	getModTime: Recursive scan of firefox@getpocket.com
+1487648320382	addons.xpi	DEBUG	Updating XPIState for {"id":"e10srollout@mozilla.org","syncGUID":"{77ed9400-d817-4bdc-ad53-a2792818896c}","location":"app-system-defaults","version":"1.7","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Multi-process staged rollout","description":"Staged rollout of Firefox multi-process feature.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"/usr/lib/firefox/browser/features/e10srollout@mozilla.org.xpi","installDate":1485985012000,"updateDate":1485985012000,"applyBackgroundUpdates":1,"bootstrap":true,"skinnable":false,"size":6997,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"51.0.1","maxVersion":"51.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false}
+1487648320382	addons.xpi	DEBUG	getModTime: Recursive scan of e10srollout@mozilla.org
+1487648320383	addons.xpi	DEBUG	Updating XPIState for {"id":"aushelper@mozilla.org","syncGUID":"{3123072e-6401-4c4e-b332-0ad8065faa00}","location":"app-system-defaults","version":"1.0","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Application Update Service Helper","description":"Sets value(s) in the update url based on custom checks.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"/usr/lib/firefox/browser/features/aushelper@mozilla.org.xpi","installDate":1485985012000,"updateDate":1485985012000,"applyBackgroundUpdates":1,"bootstrap":true,"skinnable":false,"size":5975,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"51.0.1","maxVersion":"51.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false}
+1487648320383	addons.xpi	DEBUG	getModTime: Recursive scan of aushelper@mozilla.org
+1487648320383	addons.xpi	DEBUG	Updating XPIState for {"id":"webcompat@mozilla.org","syncGUID":"{09adfaf9-5bfc-443f-af07-d2a74d886fa1}","location":"app-system-defaults","version":"1.0","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Web Compat","description":"Urgent post-release fixes for web compatibility.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"/usr/lib/firefox/browser/features/webcompat@mozilla.org.xpi","installDate":1485985013000,"updateDate":1485985013000,"applyBackgroundUpdates":1,"bootstrap":true,"skinnable":false,"size":1570,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"51.0.1","maxVersion":"51.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false}
+1487648320383	addons.xpi	DEBUG	getModTime: Recursive scan of webcompat@mozilla.org
+1487648320384	addons.xpi	DEBUG	Updating XPIState for {"id":"langpack-en-GB@firefox.mozilla.org","syncGUID":"{98459e78-efd2-48dc-a3bd-7844f12b88d6}","location":"app-global","version":"51.0.1","type":"locale","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"English (GB) Language Pack","description":null,"creator":"Mark Tyndall","homepageURL":null,"contributors":["David Bartlett","Constantine Murenin","Ian Neal"]},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"/usr/lib/firefox/browser/extensions/langpack-en-GB@firefox.mozilla.org.xpi","installDate":1485988909000,"updateDate":1485988909000,"applyBackgroundUpdates":1,"bootstrap":true,"skinnable":false,"size":1124968,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":true,"hasBinaryComponents":false,"strictCompatibility":true,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"51.0.1","maxVersion":"51.*"}],"targetPlatforms":[],"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false}
+1487648320384	addons.xpi	DEBUG	getModTime: Recursive scan of langpack-en-GB@firefox.mozilla.org
+1487648320384	addons.xpi	DEBUG	Updating XPIState for {"id":"{972ce4c6-7e08-4474-a285-3208198ce6fd}","syncGUID":"{2f536912-80a8-47cb-ba57-dc64e5b75bc1}","location":"app-global","version":"51.0.1","type":"theme","internalName":"classic/1.0","updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{"32":"icon.png","48":"icon.png"},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Default","description":"The default theme.","creator":"Mozilla","homepageURL":null,"contributors":["Mozilla Contributors"]},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"/usr/lib/firefox/browser/extensions/{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi","installDate":1485985012000,"updateDate":1485985012000,"applyBackgroundUpdates":1,"skinnable":true,"size":4932,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":true,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"51.0.1","maxVersion":"51.0.1"}],"targetPlatforms":[],"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false}
+1487648320384	addons.xpi	DEBUG	getModTime: Recursive scan of {972ce4c6-7e08-4474-a285-3208198ce6fd}
+1487648320385	addons.xpi	DEBUG	Updating XPIState for {"id":"langpack-en-ZA@firefox.mozilla.org","syncGUID":"{e5cf6e6c-494b-4138-8748-aafc39eec261}","location":"app-global","version":"51.0.1","type":"locale","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"English (South Africa) Language Pack","description":null,"creator":"Translate.org.za","homepageURL":null,"contributors":["Translate.org.za","Dwayne Bailey"]},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"/usr/lib/firefox/browser/extensions/langpack-en-ZA@firefox.mozilla.org.xpi","installDate":1485988909000,"updateDate":1485988909000,"applyBackgroundUpdates":1,"bootstrap":true,"skinnable":false,"size":1159603,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":true,"hasBinaryComponents":false,"strictCompatibility":true,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"51.0.1","maxVersion":"51.*"}],"targetPlatforms":[],"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false}
+1487648320385	addons.xpi	DEBUG	getModTime: Recursive scan of langpack-en-ZA@firefox.mozilla.org
+1487648320386	DeferredSave.extensions.json	DEBUG	Save changes
+1487648320386	addons.xpi	DEBUG	Updating database with changes to installed add-ons
+1487648320386	addons.xpi-utils	DEBUG	Updating add-on states
+1487648320386	addons.xpi-utils	DEBUG	Writing add-ons list
+1487648320388	addons.xpi	DEBUG	Registering manifest for /usr/lib/firefox/browser/features/aushelper@mozilla.org.xpi
+1487648320388	addons.xpi	DEBUG	Calling bootstrap method startup on aushelper@mozilla.org version 1.0
+1487648320389	addons.xpi	DEBUG	Registering manifest for /usr/lib/firefox/browser/features/e10srollout@mozilla.org.xpi
+1487648320390	addons.xpi	DEBUG	Calling bootstrap method startup on e10srollout@mozilla.org version 1.7
+1487648320391	addons.xpi	DEBUG	Registering manifest for /usr/lib/firefox/browser/features/firefox@getpocket.com.xpi
+1487648320391	addons.xpi	DEBUG	Calling bootstrap method startup on firefox@getpocket.com version 1.0.5
+1487648320393	addons.xpi	DEBUG	Registering manifest for /usr/lib/firefox/browser/extensions/langpack-en-GB@firefox.mozilla.org.xpi
+1487648320394	addons.xpi	DEBUG	Registering manifest for /usr/lib/firefox/browser/extensions/langpack-en-ZA@firefox.mozilla.org.xpi
+1487648320395	addons.xpi	DEBUG	Registering manifest for /usr/lib/firefox/browser/features/webcompat@mozilla.org.xpi
+1487648320395	addons.xpi	DEBUG	Calling bootstrap method startup on webcompat@mozilla.org version 1.0
+1487648320398	addons.manager	DEBUG	Registering shutdown blocker for XPIProvider
+1487648320398	addons.manager	DEBUG	Provider finished startup: XPIProvider
+1487648320398	addons.manager	DEBUG	Starting provider: LightweightThemeManager
+1487648320398	addons.manager	DEBUG	Registering shutdown blocker for LightweightThemeManager
+1487648320398	addons.manager	DEBUG	Provider finished startup: LightweightThemeManager
+1487648320399	addons.manager	DEBUG	Starting provider: GMPProvider
+1487648320405	addons.manager	DEBUG	Registering shutdown blocker for GMPProvider
+1487648320406	addons.manager	DEBUG	Provider finished startup: GMPProvider
+1487648320406	addons.manager	DEBUG	Starting provider: PluginProvider
+1487648320406	addons.manager	DEBUG	Registering shutdown blocker for PluginProvider
+1487648320406	addons.manager	DEBUG	Provider finished startup: PluginProvider
+1487648320406	addons.manager	DEBUG	Completed startup sequence
+1487648320618	Marionette	INFO	Listening on port 38251
+1487648320892	addons.manager	DEBUG	Starting provider: <unnamed-provider>
+1487648320893	addons.manager	DEBUG	Registering shutdown blocker for <unnamed-provider>
+1487648320893	addons.manager	DEBUG	Provider finished startup: <unnamed-provider>
+1487648320906	addons.manager	DEBUG	Starting provider: PreviousExperimentProvider
+1487648320906	addons.manager	DEBUG	Registering shutdown blocker for PreviousExperimentProvider
+1487648320906	addons.manager	DEBUG	Provider finished startup: PreviousExperimentProvider
+1487648320909	DeferredSave.extensions.json	DEBUG	Starting write
+1487648321021	DeferredSave.extensions.json	DEBUG	Write succeeded
+1487648321022	addons.xpi-utils	DEBUG	XPI Database saved, setting schema version preference to 19
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+[Child 31292] ###!!! ABORT: Aborting on channel error.: file /build/firefox-z5GTBX/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+[Child 31292] ###!!! ABORT: Aborting on channel error.: file /build/firefox-z5GTBX/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+1487648348377	geckodriver	INFO	Listening on 127.0.0.1:35768
+1487648349475	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.jnFnQeKNp4uZ
+1487648349476	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1487648349479	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37283
+1487648349679	addons.manager	DEBUG	Application has been upgraded
+1487648349695	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/XPIProvider.jsm: ["XPIProvider"]
+1487648349697	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/LightweightThemeManager.jsm: ["LightweightThemeManager"]
+1487648349701	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/GMPProvider.jsm
+1487648349703	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/PluginProvider.jsm
+1487648349704	addons.manager	DEBUG	Starting provider: XPIProvider
+1487648349704	addons.xpi	DEBUG	startup
+1487648349705	addons.xpi	INFO	SystemAddonInstallLocation directory is missing
+1487648349706	addons.xpi	INFO	Mapping firefox@getpocket.com to /usr/lib/firefox/browser/features/firefox@getpocket.com.xpi
+1487648349706	addons.xpi	INFO	Mapping e10srollout@mozilla.org to /usr/lib/firefox/browser/features/e10srollout@mozilla.org.xpi
+1487648349706	addons.xpi	INFO	Mapping aushelper@mozilla.org to /usr/lib/firefox/browser/features/aushelper@mozilla.org.xpi
+1487648349706	addons.xpi	INFO	Mapping webcompat@mozilla.org to /usr/lib/firefox/browser/features/webcompat@mozilla.org.xpi
+1487648349707	addons.xpi	INFO	Mapping langpack-en-GB@firefox.mozilla.org to /usr/lib/firefox/browser/extensions/langpack-en-GB@firefox.mozilla.org.xpi
+1487648349707	addons.xpi	INFO	Mapping {972ce4c6-7e08-4474-a285-3208198ce6fd} to /usr/lib/firefox/browser/extensions/{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi
+1487648349707	addons.xpi	INFO	Mapping langpack-en-ZA@firefox.mozilla.org to /usr/lib/firefox/browser/extensions/langpack-en-ZA@firefox.mozilla.org.xpi
+1487648349708	addons.xpi	DEBUG	checkForChanges
+1487648349709	addons.xpi	DEBUG	Loaded add-on state from prefs: {}
+1487648349710	addons.xpi	DEBUG	New add-on firefox@getpocket.com in app-system-defaults
+1487648349710	addons.xpi	DEBUG	getModTime: Recursive scan of firefox@getpocket.com
+1487648349711	addons.xpi	DEBUG	New add-on e10srollout@mozilla.org in app-system-defaults
+1487648349711	addons.xpi	DEBUG	getModTime: Recursive scan of e10srollout@mozilla.org
+1487648349712	addons.xpi	DEBUG	New add-on aushelper@mozilla.org in app-system-defaults
+1487648349712	addons.xpi	DEBUG	getModTime: Recursive scan of aushelper@mozilla.org
+1487648349712	addons.xpi	DEBUG	New add-on webcompat@mozilla.org in app-system-defaults
+1487648349712	addons.xpi	DEBUG	getModTime: Recursive scan of webcompat@mozilla.org
+1487648349713	addons.xpi	DEBUG	New add-on langpack-en-GB@firefox.mozilla.org in app-global
+1487648349713	addons.xpi	DEBUG	getModTime: Recursive scan of langpack-en-GB@firefox.mozilla.org
+1487648349714	addons.xpi	DEBUG	New add-on {972ce4c6-7e08-4474-a285-3208198ce6fd} in app-global
+1487648349714	addons.xpi	DEBUG	getModTime: Recursive scan of {972ce4c6-7e08-4474-a285-3208198ce6fd}
+1487648349714	addons.xpi	DEBUG	New add-on langpack-en-ZA@firefox.mozilla.org in app-global
+1487648349714	addons.xpi	DEBUG	getModTime: Recursive scan of langpack-en-ZA@firefox.mozilla.org
+1487648349715	addons.xpi	DEBUG	getInstallState changed: true, state: {"app-system-defaults":{"firefox@getpocket.com":{"d":"/usr/lib/firefox/browser/features/firefox@getpocket.com.xpi","st":1485985013000},"e10srollout@mozilla.org":{"d":"/usr/lib/firefox/browser/features/e10srollout@mozilla.org.xpi","st":1485985012000},"aushelper@mozilla.org":{"d":"/usr/lib/firefox/browser/features/aushelper@mozilla.org.xpi","st":1485985012000},"webcompat@mozilla.org":{"d":"/usr/lib/firefox/browser/features/webcompat@mozilla.org.xpi","st":1485985013000}},"app-global":{"langpack-en-GB@firefox.mozilla.org":{"d":"/usr/lib/firefox/browser/extensions/langpack-en-GB@firefox.mozilla.org.xpi","st":1485988909000},"{972ce4c6-7e08-4474-a285-3208198ce6fd}":{"d":"/usr/lib/firefox/browser/extensions/{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi","st":1485985012000},"langpack-en-ZA@firefox.mozilla.org":{"d":"/usr/lib/firefox/browser/extensions/langpack-en-ZA@firefox.mozilla.org.xpi","st":1485988909000}}}
+1487648349722	addons.xpi-utils	DEBUG	Opening XPI database /tmp/rust_mozprofile.jnFnQeKNp4uZ/extensions.json
+1487648349723	addons.xpi-utils	DEBUG	New add-on firefox@getpocket.com installed in app-system-defaults
+*** Blocklist::_loadBlocklistFromFile: blocklist is disabled
+1487648349735	DeferredSave.extensions.json	DEBUG	Save changes
+1487648349736	addons.xpi-utils	DEBUG	New add-on e10srollout@mozilla.org installed in app-system-defaults
+1487648349739	DeferredSave.extensions.json	DEBUG	Starting timer
+1487648349740	DeferredSave.extensions.json	DEBUG	Save changes
+1487648349741	addons.xpi-utils	DEBUG	New add-on aushelper@mozilla.org installed in app-system-defaults
+1487648349745	DeferredSave.extensions.json	DEBUG	Save changes
+1487648349745	addons.xpi-utils	DEBUG	New add-on webcompat@mozilla.org installed in app-system-defaults
+1487648349749	DeferredSave.extensions.json	DEBUG	Save changes
+1487648349750	addons.xpi-utils	DEBUG	New add-on langpack-en-GB@firefox.mozilla.org installed in app-global
+1487648349760	DeferredSave.extensions.json	DEBUG	Save changes
+1487648349760	addons.xpi-utils	DEBUG	New add-on {972ce4c6-7e08-4474-a285-3208198ce6fd} installed in app-global
+1487648349765	DeferredSave.extensions.json	DEBUG	Save changes
+1487648349765	addons.xpi-utils	DEBUG	New add-on langpack-en-ZA@firefox.mozilla.org installed in app-global
+1487648349775	DeferredSave.extensions.json	DEBUG	Save changes
+1487648349776	addons.manager	DEBUG	Registering startup change 'installed' for firefox@getpocket.com
+1487648349783	addons.xpi	DEBUG	Loading bootstrap scope from /usr/lib/firefox/browser/features/firefox@getpocket.com.xpi
+1487648349789	addons.xpi	DEBUG	Calling bootstrap method install on firefox@getpocket.com version 1.0.5
+1487648349789	addons.xpi-utils	DEBUG	Make addon app-system-defaults:firefox@getpocket.com visible
+1487648349789	DeferredSave.extensions.json	DEBUG	Save changes
+1487648349790	addons.manager	DEBUG	Registering startup change 'installed' for e10srollout@mozilla.org
+1487648349790	addons.xpi	DEBUG	Loading bootstrap scope from /usr/lib/firefox/browser/features/e10srollout@mozilla.org.xpi
+1487648349792	addons.xpi	DEBUG	Calling bootstrap method install on e10srollout@mozilla.org version 1.7
+1487648349793	addons.xpi-utils	DEBUG	Make addon app-system-defaults:e10srollout@mozilla.org visible
+1487648349794	DeferredSave.extensions.json	DEBUG	Save changes
+1487648349794	addons.manager	DEBUG	Registering startup change 'installed' for aushelper@mozilla.org
+1487648349794	addons.xpi	DEBUG	Loading bootstrap scope from /usr/lib/firefox/browser/features/aushelper@mozilla.org.xpi
+1487648349796	addons.xpi	DEBUG	Calling bootstrap method install on aushelper@mozilla.org version 1.0
+1487648349797	addons.xpi-utils	DEBUG	Make addon app-system-defaults:aushelper@mozilla.org visible
+1487648349797	DeferredSave.extensions.json	DEBUG	Save changes
+1487648349797	addons.manager	DEBUG	Registering startup change 'installed' for webcompat@mozilla.org
+1487648349798	addons.xpi	DEBUG	Loading bootstrap scope from /usr/lib/firefox/browser/features/webcompat@mozilla.org.xpi
+1487648349799	addons.xpi	DEBUG	Calling bootstrap method install on webcompat@mozilla.org version 1.0
+1487648349799	addons.xpi-utils	DEBUG	Make addon app-system-defaults:webcompat@mozilla.org visible
+1487648349800	DeferredSave.extensions.json	DEBUG	Save changes
+1487648349800	addons.manager	DEBUG	Registering startup change 'installed' for langpack-en-GB@firefox.mozilla.org
+1487648349800	addons.manager	DEBUG	Registering startup change 'installed' for langpack-en-GB@firefox.mozilla.org
+1487648349801	addons.xpi-utils	DEBUG	Make addon app-global:langpack-en-GB@firefox.mozilla.org visible
+1487648349801	DeferredSave.extensions.json	DEBUG	Save changes
+1487648349801	addons.xpi-utils	DEBUG	Make addon app-global:{972ce4c6-7e08-4474-a285-3208198ce6fd} visible
+1487648349801	DeferredSave.extensions.json	DEBUG	Save changes
+1487648349801	addons.manager	DEBUG	Registering startup change 'installed' for langpack-en-ZA@firefox.mozilla.org
+1487648349801	addons.manager	DEBUG	Registering startup change 'installed' for langpack-en-ZA@firefox.mozilla.org
+1487648349802	addons.xpi-utils	DEBUG	Make addon app-global:langpack-en-ZA@firefox.mozilla.org visible
+1487648349802	DeferredSave.extensions.json	DEBUG	Save changes
+1487648349802	addons.xpi	DEBUG	Updating XPIState for {"id":"firefox@getpocket.com","syncGUID":"{6f56027c-00aa-485a-ba23-4e35f8043b20}","location":"app-system-defaults","version":"1.0.5","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Pocket","description":"When you find something you want to view later, put it in Pocket.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"/usr/lib/firefox/browser/features/firefox@getpocket.com.xpi","installDate":1485985013000,"updateDate":1485985013000,"applyBackgroundUpdates":1,"bootstrap":true,"skinnable":false,"size":921011,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"51.0.1","maxVersion":"51.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false}
+1487648349802	addons.xpi	DEBUG	getModTime: Recursive scan of firefox@getpocket.com
+1487648349803	addons.xpi	DEBUG	Updating XPIState for {"id":"e10srollout@mozilla.org","syncGUID":"{ba32d3d5-1a68-4425-87f6-64a209fe5428}","location":"app-system-defaults","version":"1.7","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Multi-process staged rollout","description":"Staged rollout of Firefox multi-process feature.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"/usr/lib/firefox/browser/features/e10srollout@mozilla.org.xpi","installDate":1485985012000,"updateDate":1485985012000,"applyBackgroundUpdates":1,"bootstrap":true,"skinnable":false,"size":6997,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"51.0.1","maxVersion":"51.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false}
+1487648349803	addons.xpi	DEBUG	getModTime: Recursive scan of e10srollout@mozilla.org
+1487648349803	addons.xpi	DEBUG	Updating XPIState for {"id":"aushelper@mozilla.org","syncGUID":"{e055c08f-273f-49e4-8d56-8260fc70ec2a}","location":"app-system-defaults","version":"1.0","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Application Update Service Helper","description":"Sets value(s) in the update url based on custom checks.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"/usr/lib/firefox/browser/features/aushelper@mozilla.org.xpi","installDate":1485985012000,"updateDate":1485985012000,"applyBackgroundUpdates":1,"bootstrap":true,"skinnable":false,"size":5975,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"51.0.1","maxVersion":"51.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false}
+1487648349803	addons.xpi	DEBUG	getModTime: Recursive scan of aushelper@mozilla.org
+1487648349804	addons.xpi	DEBUG	Updating XPIState for {"id":"webcompat@mozilla.org","syncGUID":"{907bba38-6dc0-4710-a869-73d9bd5f1287}","location":"app-system-defaults","version":"1.0","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Web Compat","description":"Urgent post-release fixes for web compatibility.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"/usr/lib/firefox/browser/features/webcompat@mozilla.org.xpi","installDate":1485985013000,"updateDate":1485985013000,"applyBackgroundUpdates":1,"bootstrap":true,"skinnable":false,"size":1570,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"51.0.1","maxVersion":"51.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false}
+1487648349804	addons.xpi	DEBUG	getModTime: Recursive scan of webcompat@mozilla.org
+1487648349805	addons.xpi	DEBUG	Updating XPIState for {"id":"langpack-en-GB@firefox.mozilla.org","syncGUID":"{63fd0a3b-96f7-4839-b82b-225cfa5faa9d}","location":"app-global","version":"51.0.1","type":"locale","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"English (GB) Language Pack","description":null,"creator":"Mark Tyndall","homepageURL":null,"contributors":["David Bartlett","Constantine Murenin","Ian Neal"]},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"/usr/lib/firefox/browser/extensions/langpack-en-GB@firefox.mozilla.org.xpi","installDate":1485988909000,"updateDate":1485988909000,"applyBackgroundUpdates":1,"bootstrap":true,"skinnable":false,"size":1124968,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":true,"hasBinaryComponents":false,"strictCompatibility":true,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"51.0.1","maxVersion":"51.*"}],"targetPlatforms":[],"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false}
+1487648349805	addons.xpi	DEBUG	getModTime: Recursive scan of langpack-en-GB@firefox.mozilla.org
+1487648349805	addons.xpi	DEBUG	Updating XPIState for {"id":"{972ce4c6-7e08-4474-a285-3208198ce6fd}","syncGUID":"{77f303e2-0062-4b0c-9b3c-6c6d9ab03505}","location":"app-global","version":"51.0.1","type":"theme","internalName":"classic/1.0","updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{"32":"icon.png","48":"icon.png"},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Default","description":"The default theme.","creator":"Mozilla","homepageURL":null,"contributors":["Mozilla Contributors"]},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"/usr/lib/firefox/browser/extensions/{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi","installDate":1485985012000,"updateDate":1485985012000,"applyBackgroundUpdates":1,"skinnable":true,"size":4932,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":true,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"51.0.1","maxVersion":"51.0.1"}],"targetPlatforms":[],"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false}
+1487648349805	addons.xpi	DEBUG	getModTime: Recursive scan of {972ce4c6-7e08-4474-a285-3208198ce6fd}
+1487648349805	addons.xpi	DEBUG	Updating XPIState for {"id":"langpack-en-ZA@firefox.mozilla.org","syncGUID":"{6fdb185d-6884-48bf-b082-1ce265e90ac8}","location":"app-global","version":"51.0.1","type":"locale","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"English (South Africa) Language Pack","description":null,"creator":"Translate.org.za","homepageURL":null,"contributors":["Translate.org.za","Dwayne Bailey"]},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"/usr/lib/firefox/browser/extensions/langpack-en-ZA@firefox.mozilla.org.xpi","installDate":1485988909000,"updateDate":1485988909000,"applyBackgroundUpdates":1,"bootstrap":true,"skinnable":false,"size":1159603,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":true,"hasBinaryComponents":false,"strictCompatibility":true,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"51.0.1","maxVersion":"51.*"}],"targetPlatforms":[],"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false}
+1487648349805	addons.xpi	DEBUG	getModTime: Recursive scan of langpack-en-ZA@firefox.mozilla.org
+1487648349806	DeferredSave.extensions.json	DEBUG	Save changes
+1487648349806	addons.xpi	DEBUG	Updating database with changes to installed add-ons
+1487648349806	addons.xpi-utils	DEBUG	Updating add-on states
+1487648349807	addons.xpi-utils	DEBUG	Writing add-ons list
+1487648349808	addons.xpi	DEBUG	Registering manifest for /usr/lib/firefox/browser/features/aushelper@mozilla.org.xpi
+1487648349809	addons.xpi	DEBUG	Calling bootstrap method startup on aushelper@mozilla.org version 1.0
+1487648349809	addons.xpi	DEBUG	Registering manifest for /usr/lib/firefox/browser/features/e10srollout@mozilla.org.xpi
+1487648349811	addons.xpi	DEBUG	Calling bootstrap method startup on e10srollout@mozilla.org version 1.7
+1487648349812	addons.xpi	DEBUG	Registering manifest for /usr/lib/firefox/browser/features/firefox@getpocket.com.xpi
+1487648349812	addons.xpi	DEBUG	Calling bootstrap method startup on firefox@getpocket.com version 1.0.5
+1487648349813	addons.xpi	DEBUG	Registering manifest for /usr/lib/firefox/browser/extensions/langpack-en-GB@firefox.mozilla.org.xpi
+1487648349815	addons.xpi	DEBUG	Registering manifest for /usr/lib/firefox/browser/extensions/langpack-en-ZA@firefox.mozilla.org.xpi
+1487648349816	addons.xpi	DEBUG	Registering manifest for /usr/lib/firefox/browser/features/webcompat@mozilla.org.xpi
+1487648349816	addons.xpi	DEBUG	Calling bootstrap method startup on webcompat@mozilla.org version 1.0
+1487648349818	addons.manager	DEBUG	Registering shutdown blocker for XPIProvider
+1487648349819	addons.manager	DEBUG	Provider finished startup: XPIProvider
+1487648349819	addons.manager	DEBUG	Starting provider: LightweightThemeManager
+1487648349819	addons.manager	DEBUG	Registering shutdown blocker for LightweightThemeManager
+1487648349819	addons.manager	DEBUG	Provider finished startup: LightweightThemeManager
+1487648349820	addons.manager	DEBUG	Starting provider: GMPProvider
+1487648349826	addons.manager	DEBUG	Registering shutdown blocker for GMPProvider
+1487648349826	addons.manager	DEBUG	Provider finished startup: GMPProvider
+1487648349826	addons.manager	DEBUG	Starting provider: PluginProvider
+1487648349826	addons.manager	DEBUG	Registering shutdown blocker for PluginProvider
+1487648349827	addons.manager	DEBUG	Provider finished startup: PluginProvider
+1487648349827	addons.manager	DEBUG	Completed startup sequence
+1487648350022	Marionette	INFO	Listening on port 37283
+1487648350303	addons.manager	DEBUG	Starting provider: <unnamed-provider>
+1487648350303	addons.manager	DEBUG	Registering shutdown blocker for <unnamed-provider>
+1487648350304	addons.manager	DEBUG	Provider finished startup: <unnamed-provider>
+1487648350317	addons.manager	DEBUG	Starting provider: PreviousExperimentProvider
+1487648350317	addons.manager	DEBUG	Registering shutdown blocker for PreviousExperimentProvider
+1487648350317	addons.manager	DEBUG	Provider finished startup: PreviousExperimentProvider
+1487648350320	DeferredSave.extensions.json	DEBUG	Starting write
+1487648350437	DeferredSave.extensions.json	DEBUG	Write succeeded
+1487648350438	addons.xpi-utils	DEBUG	XPI Database saved, setting schema version preference to 19
+[Child 31447] ###!!! ABORT: Aborting on channel error.: file /build/firefox-z5GTBX/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 31447] ###!!! ABORT: Aborting on channel error.: file /build/firefox-z5GTBX/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+1487649377098	geckodriver	INFO	Listening on 127.0.0.1:44217
+1487649378188	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.UYSF5XAhfLCG
+1487649378189	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1487649378190	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37110
+1487649378943	Marionette	INFO	Listening on port 37110
+[Child 32626] ###!!! ABORT: Aborting on channel error.: file /build/firefox-z5GTBX/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 32626] ###!!! ABORT: Aborting on channel error.: file /build/firefox-z5GTBX/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+1487650500087	geckodriver	INFO	Listening on 127.0.0.1:34045
+1487650501183	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.3NdQL4hsxLq9
+1487650501183	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1487650501190	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33151
+1487650501859	Marionette	INFO	Listening on port 33151
+[Child 1298] ###!!! ABORT: Aborting on channel error.: file /build/firefox-z5GTBX/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 1298] ###!!! ABORT: Aborting on channel error.: file /build/firefox-z5GTBX/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+1489204926040	geckodriver	INFO	Listening on 127.0.0.1:57952
+1489204927074	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.qeYqL3HB3Vmp
+1489204927075	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1489204927079	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37166
+1489204927854	Marionette	INFO	Listening on port 37166
+1489204928220	Marionette	WARN	TLS certificate errors will be ignored for this session
+1489204931323	Marionette	INFO	New connections will no longer be accepted
+[Child 1612] ###!!! ABORT: Aborting on channel error.: file /build/firefox-ZQQBpC/firefox-52.0+build2/ipc/glue/MessageChannel.cpp, line 2143
+[Child 1612] ###!!! ABORT: Aborting on channel error.: file /build/firefox-ZQQBpC/firefox-52.0+build2/ipc/glue/MessageChannel.cpp, line 2143
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+1489204971309	geckodriver	INFO	Listening on 127.0.0.1:51575
+1489204972357	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.mhp2GUzFwBnU
+1489204972358	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1489204972362	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34343
+1489204973044	Marionette	INFO	Listening on port 34343
+1489204973399	Marionette	WARN	TLS certificate errors will be ignored for this session
+1489204976438	Marionette	INFO	New connections will no longer be accepted
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+[Child 1782] ###!!! ABORT: Aborting on channel error.: file /build/firefox-ZQQBpC/firefox-52.0+build2/ipc/glue/MessageChannel.cpp, line 2143
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+[Child 1782] ###!!! ABORT: Aborting on channel error.: file /build/firefox-ZQQBpC/firefox-52.0+build2/ipc/glue/MessageChannel.cpp, line 2143
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+1489205217457	geckodriver	INFO	Listening on 127.0.0.1:46582
+1489205218515	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.DidQ0bOkBUkZ
+1489205218516	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1489205218522	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38692
+1489205219203	Marionette	INFO	Listening on port 38692
+1489205219556	Marionette	WARN	TLS certificate errors will be ignored for this session
+1489205255614	geckodriver	INFO	Listening on 127.0.0.1:35914
+1489205256635	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.ZemUJA13mXBn
+1489205256635	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1489205256637	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39315
+1489205257343	Marionette	INFO	Listening on port 39315
+1489205257872	Marionette	WARN	TLS certificate errors will be ignored for this session
+1489205260752	Marionette	INFO	New connections will no longer be accepted
+[Child 2451] ###!!! ABORT: Aborting on channel error.: file /build/firefox-ZQQBpC/firefox-52.0+build2/ipc/glue/MessageChannel.cpp, line 2143
+[Child 2451] ###!!! ABORT: Aborting on channel error.: file /build/firefox-ZQQBpC/firefox-52.0+build2/ipc/glue/MessageChannel.cpp, line 2143
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+1489205313894	geckodriver	INFO	Listening on 127.0.0.1:52195
+1489205314946	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.PkybWtzDaLGa
+1489205314946	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1489205314953	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43827
+1489205315672	Marionette	INFO	Listening on port 43827
+1489205316099	Marionette	WARN	TLS certificate errors will be ignored for this session
+1489205319978	Marionette	INFO	New connections will no longer be accepted
+[Child 2701] ###!!! ABORT: Aborting on channel error.: file /build/firefox-ZQQBpC/firefox-52.0+build2/ipc/glue/MessageChannel.cpp, line 2143
+[Child 2701] ###!!! ABORT: Aborting on channel error.: file /build/firefox-ZQQBpC/firefox-52.0+build2/ipc/glue/MessageChannel.cpp, line 2143
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+1489205334692	geckodriver	INFO	Listening on 127.0.0.1:59480
+1489205335773	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.YpEy0RBK3OtK
+1489205335774	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1489205335780	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41320
+1489205336641	Marionette	INFO	Listening on port 41320
+1489205337033	Marionette	WARN	TLS certificate errors will be ignored for this session
+1489205340079	Marionette	INFO	New connections will no longer be accepted
+[Child 2871] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ZQQBpC/firefox-52.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 322
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+[Child 2871] ###!!! ABORT: Aborting on channel error.: file /build/firefox-ZQQBpC/firefox-52.0+build2/ipc/glue/MessageChannel.cpp, line 2143
+[Child 2871] ###!!! ABORT: Aborting on channel error.: file /build/firefox-ZQQBpC/firefox-52.0+build2/ipc/glue/MessageChannel.cpp, line 2143
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+1489205383105	geckodriver	INFO	Listening on 127.0.0.1:44192
+1489205384156	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.a7Wptq8KiU7r
+1489205384157	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1489205384159	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42315
+1489205384840	Marionette	INFO	Listening on port 42315
+1489205385209	Marionette	WARN	TLS certificate errors will be ignored for this session
+1489205389106	Marionette	INFO	New connections will no longer be accepted
+[Child 3078] ###!!! ABORT: Aborting on channel error.: file /build/firefox-ZQQBpC/firefox-52.0+build2/ipc/glue/MessageChannel.cpp, line 2143
+[Child 3078] ###!!! ABORT: Aborting on channel error.: file /build/firefox-ZQQBpC/firefox-52.0+build2/ipc/glue/MessageChannel.cpp, line 2143
+1489205505176	geckodriver	INFO	Listening on 127.0.0.1:38603
+1489205506232	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.4cQpEBotzTaV
+1489205506232	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1489205506235	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45234
+1489205506919	Marionette	INFO	Listening on port 45234
+1489205507274	Marionette	WARN	TLS certificate errors will be ignored for this session
+1489205515647	Marionette	INFO	New connections will no longer be accepted
+[Child 3434] ###!!! ABORT: Aborting on channel error.: file /build/firefox-ZQQBpC/firefox-52.0+build2/ipc/glue/MessageChannel.cpp, line 2143
+[Child 3434] ###!!! ABORT: Aborting on channel error.: file /build/firefox-ZQQBpC/firefox-52.0+build2/ipc/glue/MessageChannel.cpp, line 2143
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+1489205554913	geckodriver	INFO	Listening on 127.0.0.1:58642
+1489205555975	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.5CP6GASI40wX
+1489205555976	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1489205555985	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38646
+1489205556671	Marionette	INFO	Listening on port 38646
+1489205557026	Marionette	WARN	TLS certificate errors will be ignored for this session
+1489205714071	geckodriver	INFO	Listening on 127.0.0.1:36252
+1489205715126	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.FJoNDXejulvJ
+1489205715127	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1489205715128	geckodriver::marionette	INFO	Connecting to Marionette on localhost:32857
+1489205715818	Marionette	INFO	Listening on port 32857
+1489205716189	Marionette	WARN	TLS certificate errors will be ignored for this session
+1489205724579	Marionette	INFO	New connections will no longer be accepted
+[Child 3864] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ZQQBpC/firefox-52.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 322
+[Child 3864] ###!!! ABORT: Aborting on channel error.: file /build/firefox-ZQQBpC/firefox-52.0+build2/ipc/glue/MessageChannel.cpp, line 2143
+[Child 3864] ###!!! ABORT: Aborting on channel error.: file /build/firefox-ZQQBpC/firefox-52.0+build2/ipc/glue/MessageChannel.cpp, line 2143
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+
+(/usr/lib/firefox/plugin-container:3590): Gdk-WARNING **: /usr/lib/firefox/plugin-container: Fatal IO error 11 (Resource temporarily unavailable) on X server :1009.
+
+[Parent 3518] WARNING: pipe error (59): Connection reset by peer: file /build/firefox-ZQQBpC/firefox-52.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 322
+
+(firefox:3518): Gdk-WARNING **: firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :1009.
+
+
+(firefox:2072): Gdk-WARNING **: firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :1005.
+
+[Child 2192] ###!!! ABORT: Aborting on channel error.: file /build/firefox-ZQQBpC/firefox-52.0+build2/ipc/glue/MessageChannel.cpp, line 2143
+[Child 2192] ###!!! ABORT: Aborting on channel error.: file /build/firefox-ZQQBpC/firefox-52.0+build2/ipc/glue/MessageChannel.cpp, line 2143
+1489211480166	geckodriver	INFO	Listening on 127.0.0.1:54712
+1489211481224	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.Q2cXZK3msxoz
+1489211481225	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1489211481226	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39327
+1489211481911	Marionette	INFO	Listening on port 39327
+1489211482256	Marionette	WARN	TLS certificate errors will be ignored for this session
+1489211484049	Marionette	INFO	New connections will no longer be accepted
+[Child 12080] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ZQQBpC/firefox-52.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 322
+[Child 12080] ###!!! ABORT: Aborting on channel error.: file /build/firefox-ZQQBpC/firefox-52.0+build2/ipc/glue/MessageChannel.cpp, line 2143
+[Child 12080] ###!!! ABORT: Aborting on channel error.: file /build/firefox-ZQQBpC/firefox-52.0+build2/ipc/glue/MessageChannel.cpp, line 2143
+1489211665248	geckodriver	INFO	Listening on 127.0.0.1:58383
+1489211666308	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.1ZRmD7pOBkh6
+1489211666308	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1489211666310	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33891
+1489211666983	Marionette	INFO	Listening on port 33891
+1489211667374	Marionette	WARN	TLS certificate errors will be ignored for this session
+1489211708056	geckodriver	INFO	Listening on 127.0.0.1:37649
+1489211709107	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.amqKAzENRT38
+1489211709107	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1489211709110	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43101
+1489211709787	Marionette	INFO	Listening on port 43101
+1489211710142	Marionette	WARN	TLS certificate errors will be ignored for this session
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1489212231297	geckodriver	INFO	Listening on 127.0.0.1:51946
+1489212232320	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.1A7T1p4CN6hf
+1489212232321	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1489212232325	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46758
+1489212233103	Marionette	INFO	Listening on port 46758
+1489212233495	Marionette	WARN	TLS certificate errors will be ignored for this session
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************

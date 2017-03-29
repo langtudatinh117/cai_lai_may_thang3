@@ -1,0 +1,42 @@
+1.	Giannini G., Cabri W., Fattorusso C. và cộng sự. (2012). Histone deacetylase inhibitors in the treatment of cancer: overview and perspectives. Future Med Chem, 4(11), 1439–1460.
+2.	Kim H. J. B.S.C. (2011). Histone deacetylase inhibitors: molecular mechanisms of action and clinical trials as anti-cancer drugs. Am J Transl Res, 3, 166.
+3.	Chen P.C., Patil V., Guerrant W. và cộng sự. (2008). Synthesis and structure–activity relationship of histone deacetylase (HDAC) inhibitors with triazole-linked cap group. Bioorg Med Chem, 16(9), 4839–4853.
+4.	Nam N.-H., Huong T.L., Mai Dung D.T. và cộng sự. (2013). Novel isatin-based hydroxamic acids as histone deacetylase inhibitors and antitumor agents. Eur J Med Chem, 70, 477–486.
+5.	Đào Thị Kim Oanh (2011), Tổng hợp và thử hoạt tính sinh học của một số dẫn chất acid hydroxamic hướng ức chế enzym histon deacetylase, Đại học Dược Hà Nội, Đại học Dược Hà Nội.
+6.	Nam N.-H., Huong T.L., Dung D.T.M. và cộng sự. (2014). Synthesis, bioevaluation and docking study of 5-substitutedphenyl-1,3,4-thiadiazole-based hydroxamic acids as histone deacetylase inhibitors and antitumor agents. J Enzyme Inhib Med Chem, 29(5), 611–618.
+7.	Oanh D.T.K., Hai H.V., Park S.H. và cộng sự. (2011). Benzothiazole-containing hydroxamic acids as histone deacetylase inhibitors and antitumor agents. Bioorg Med Chem Lett, 21(24), 7509–7512.
+8.	Bertrand P. (2010). Inside HDAC with HDAC inhibitors. Eur J Med Chem, 45(6), 2095–2116.
+9.	Dokmanovic M. và Marks P.A. (2005). Prospects: Histone deacetylase inhibitors. J Cell Biochem, 96(2), 293–304.
+10.	Ruijter A.J.M. de, Gennip A.H. van, Caron H.N. và cộng sự. (2003). Histone deacetylases (HDACs): characterization of the classical HDAC family. Biochem J, 370(3), 737–749.
+11.	Johnstone R.W. (2002). Histone-deacetylase inhibitors: novel drugs for the treatment of cancer. Nat Rev Drug Discov, 1(4), 287–299.
+12.	Glozak M.A. và Seto E. (2007). Histone deacetylases and cancer. Oncogene, 26(37), 5420–5432.
+13.	Mottamal M., Zheng S., Huang T.L. và cộng sự. (2015). Histone Deacetylase Inhibitors in Clinical Studies as Templates for New Anticancer Agents. Molecules, 20(3), 3898–3941.
+14.	Damaskos C., Valsami S., Kontos M. và cộng sự. (2017). Histone Deacetylase Inhibitors: An Attractive Therapeutic Strategy Against Breast Cancer. Anticancer Res, 37(1), 35–46.
+15.	Somoza J. R.  et al (2004). Structural Snapshots of Human HDAC8 Provide Insights into the Class I Histone Deacetylases. Structure, 12, 1325–1334.
+16.	Rasheed W.K., Johnstone R.W., và Prince H.M. (2007). Histone deacetylase inhibitors in cancer therapy. Expert Opin Investig Drugs, 16(5), 659–678.
+17.	West A.C. và Johnstone R.W. (2014). New and emerging HDAC inhibitors for cancer treatment. J Clin Invest, 124(1), 30–39.
+18.	Jones P., Altamura S., Chakravarty P.K. và cộng sự. (2006). A series of novel, potent, and selective histone deacetylase inhibitors. Bioorg Med Chem Lett, 16, 5948–5952.
+19.	Duvic M., Talpur R., Ni X. và cộng sự. (2007). Phase 2 trial of oral vorinostat (suberoylanilide hydroxamic acid, SAHA) for refractory cutaneous T-cell lymphoma (CTCL). Blood, 109(1), 31–39.
+20.	Falkenberg K.J. và Johnstone R.W. (2014). Histone deacetylases and their inhibitors in cancer, neurological diseases and immune disorders. Nat Rev Drug Discov, 13(9), 673–691.
+21.	Sundarapandian T., Shalini J., Sugunadevi S. và cộng sự. (2010). Docking-enabled pharmacophore model for histone deacetylase 8 inhibitors and its application in anti-cancer drug discovery. J Mol Graph Model, 29(3), 382–395.
+22.	Juvale D.C., Kulkarni V.V., Deokar H.S. và cộng sự. (2006). 3D-QSAR of histone deacetylase inhibitors: hydroxamate analogues. Org Biomol Chem, 4(15), 2858–2868.
+23.	Di Micco S., Chini M.G., Terracciano S. và cộng sự. (2013). Structural basis for the design and synthesis of selective HDAC inhibitors. Bioorg Med Chem, 21(13), 3795–3807.
+24.	Gołąbek K., Strzelczyk J.K., Wiczkowski A. và cộng sự. (2015). Potential use of histone deacetylase inhibitors in cancer therapy. Contemp Oncol, 19(6), 436–440.
+25.	Andrianov V., Gailite V., Lola D. và cộng sự. (2009). Novel amide derivatives as inhibitors of histone deacetylase: Design, synthesis and SAR. Eur J Med Chem, 44(3), 1067–1085.
+26.	Bozorgi A.H., Bagheri M., Aslebagh R. và cộng sự. (2013). A structure–activity relationship survey of histone deacetylase (HDAC) inhibitors. Chemom Intell Lab Syst, 125, 132–138.
+27.	Kozikowski A.P., Chen Y., Gaysin A.M. và cộng sự. (2008). Chemistry, Biology, and QSAR Studies of Substituted Biaryl Hydroxamates and Mercaptoacetamides as HDAC Inhibitors—Nanomolar-Potency Inhibitors of Pancreatic Cancer Cell Growth. ChemMedChem, 3(3), 487–501.
+28.	Wang D.-F., Wiest O., Helquist P. và cộng sự. (2004). QSAR Studies of PC-3 cell line inhibition activity of TSA and SAHA-like hydroxamic acids. Bioorg Med Chem Lett, 14(3), 707–711.
+29.	Ragno R., Simeoni S., Rotili D. và cộng sự. (2008). Class II-selective histone deacetylase inhibitors. Part 2: Alignment-independent GRIND 3-D QSAR, homology and docking studies. Eur J Med Chem, 43(3), 621–632.
+30.	Feng T., Wang H., Su H. và cộng sự. (2013). Novel N-hydroxyfurylacrylamide-based histone deacetylase (HDAC) inhibitors with branched CAP group (Part 2). Bioorg Med Chem, 21(17), 5339–5354.
+31.	Zhang Z., Hou S., Chen H. và cộng sự. (2016). Targeting epigenetic reader and eraser: Rational design, synthesis and in vitro evaluation of dimethylisoxazoles derivatives as BRD4/HDAC dual inhibitors. Bioorg Med Chem Lett, 26(12), 2931–2935.
+32.	T. M. Dung D., T. P. Dung P., T. K Oanh D. và cộng sự. (2015). Novel 3-substituted-2-oxoindoline-based N-hydroxypropenamides as Histone Deacetylase Inhibitors and Antitumor Agents. Med Chem, 11(8), 725–735.
+33.	Bergman J.A., Woan K., Perez-Villarroel P. và cộng sự. (2012). Selective Histone Deacetylase 6 Inhibitors Bearing Substituted Urea Linkers Inhibit Melanoma Cell Growth. J Med Chem, 55(22), 9891–9899.
+34.	Lee J.-H., Mahendran A., Yao Y. và cộng sự. (2013). Development of a histone deacetylase 6 inhibitor and its biological effects. Proc Natl Acad Sci, 110(39), 15704–15709.
+35.	Hanessian S., Auzzas L., Giannini G. và cộng sự. (2007). ω-Alkoxy analogues of SAHA (vorinostat) as inhibitors of HDAC: A study of chain-length and stereochemical dependence. Bioorg Med Chem Lett, 17(22), 6261–6265.
+36.	Kozikowski A. P.  et al. Chemistry, Biology, and QSAR Studies of Substituted Biaryl Hydroxamates and Mercaptoacetamides as HDAC Inhibitors—Nanomolar‐Potency Inhibitors of Pancreatic Cancer Cell Growth. ChemMedChem, 3, 487–501.
+37.	Kolb H.C. và Sharpless K.B. (2003). The growing impact of click chemistry on drug discovery. Drug Discov Today, 8(24), 1128–1137.
+38.	Kolb H.C., Finn M.G., và Sharpless K.B. (2001). Click Chemistry: Diverse Chemical Function from a Few Good Reactions. Angew Chem Int Ed, 40(11), 2004–2021.
+39.	Rostovtsev V.V., Green L.G., Fokin V.V. và cộng sự. (2002). A Stepwise Huisgen Cycloaddition Process: Copper(I)-Catalyzed Regioselective “Ligation” of Azides and Terminal Alkynes. Angew Chem, 114(14), 2708–2711.
+40.	Tornøe C.W., Christensen C., và Meldal M. (2002). Peptidotriazoles on Solid Phase:  [1,2,3]-Triazoles by Regiospecific Copper(I)-Catalyzed 1,3-Dipolar Cycloadditions of Terminal Alkynes to Azides. J Org Chem, 67(9), 3057–3064.
+41.	Lipshutz B.H. và Taft B.R. (2006). Heterogeneous Copper-in-Charcoal-Catalyzed Click Chemistry. Angew Chem, 118(48), 8415–8418.
+42.	Hein J.E. và Fokin V.V. (2010). Copper-catalyzed azide–alkyne cycloaddition (CuAAC) and beyond: new reactivity of copper(I) acetylides. Chem Soc Rev, 39(4), 1302–1315.
